@@ -1,0 +1,8 @@
+.CardWrapper{
+  width: 30%;
+  background-color: red;
+  color: white;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px;
+}
