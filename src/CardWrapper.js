@@ -1,13 +1,10 @@
 import './App.css';
-import {
-    Card, CardImg, CardText, CardBody,
-    CardTitle, CardSubtitle, Button
-  } from 'reactstrap';
+import { Card, CardImg, CardText, CardBody, CardTitle, CardSubtitle, Button} from 'reactstrap';
 
 function CardWrapper() {
   return (
     <div className="CardWrapper">
-      <Card class="col-4">
+      <Card class="card">
         <CardBody tag="h">
           heyyyy
           <CardTitle tag="h5">name

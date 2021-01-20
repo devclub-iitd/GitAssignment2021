@@ -1,4 +1,31 @@
+.App{
+    background-color: #eefbfb;
+}
+
+.Navbar{
+    background-color: #203647;
+}
+
+.jumbotron{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 800;
+    font-variant: small-caps;
+    background-color: #4da8da;
+}
+
 .CardWrapper{
-    background-color: gray;
     border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #9dc88d;
+    border-style: ridge;
+    border-color: #164a41;
+    border-width: 3px;
+}
+
+.card{
+    background-color: #9dc88d;
+    border: 0 none;
 }

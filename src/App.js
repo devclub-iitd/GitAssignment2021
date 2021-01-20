@@ -1,21 +1,29 @@
 import './App.css';
-import Card from './CardWrapper.js';
-import NavBar from './NavBar.js';
+import Card from './CardWrapper';
+import Header from './Header';
+import Footer from "./Footer";
 import { Container, Row, Col } from 'reactstrap';
 
 function App() {
   return (
     <div className="App">
-      <NavBar></NavBar>
       <div>
+      <Header />
+      </div>
+      <div>  
         <Container>
           <Row>
-            <Col sm="6" md="4" lg="3"><Card></Card></Col>
-            <Col sm="6" md="4" lg="3"><Card></Card></Col>
-            <Col sm="6" md="4" lg="3"><Card></Card></Col>
-            <Col sm="6" md="4" lg="3"><Card></Card></Col>
+            <Col md="6"><Card></Card></Col>
+            <Col md="6"><Card></Card></Col>
+            <Col md="6"><Card></Card></Col>
+            <Col md="6"><Card></Card></Col>
+            <Col md="6"><Card></Card></Col>
+            <Col md="6"><Card></Card></Col>
           </Row>
         </Container>
+      </div>
+      <div>
+        <Footer />
       </div>
     </div>
   );
