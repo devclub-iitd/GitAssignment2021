@@ -22,11 +22,11 @@ function CardWrapper() {
           <CardBody>
             <CardText tag='h5'>Branch</CardText>
             <CardText tag='h5'>
-              Hobbies
-              <CardSubtitle tag='h6'>I like to binge watch, play sports, ...</CardSubtitle>
+              About
+              <CardSubtitle tag='h6'>Hobbies- I like to binge watch, sports, play musical instrument, dance, etc. Favorite movie/ food.</CardSubtitle>
             </CardText>
           </CardBody>
-          <CardFooter tag='h6'>Contact info (fb/insta)</CardFooter>
+          <CardFooter tag='h6'>Social media (fb/insta/none...)</CardFooter>
         </Card>
       </Collapse>
     </div>

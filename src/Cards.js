@@ -1,5 +1,6 @@
 import React from 'react';
 import Card from './CardWrapper';
+import Freshers from './Freshers';
 
 function Cards() {
     return(
