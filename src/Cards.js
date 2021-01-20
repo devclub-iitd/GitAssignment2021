@@ -5,22 +5,22 @@ function Cards() {
     return(
         <div className="container">
             <div className="row row-header">
-                <div className="col-12 col-sm-6">
+                <div id="1" className="col-12 col-sm-6 col-md-4">
                     <Card />
                 </div>
-                <div className="col-12 col-sm-6">
+                <div id="2" className="col-12 col-sm-6 col-md-4">
                     <Card />
                 </div>
-                <div className="col-12 col-sm-6">
+                <div id="3" className="col-12 col-sm-6 col-md-4">
                     <Card />
                 </div>
-                <div className="col-12 col-sm-6">
+                <div id="4"className="col-12 col-sm-6 col-md-4">
                     <Card />
                 </div>
-                <div className="col-12 col-sm-6">
+                <div id="5" className="col-12 col-sm-6 col-md-4">
                     <Card />
                 </div>
-                <div className="col-12 col-sm-6">
+                <div id="6" className="col-12 col-sm-6 col-md-4">
                     <Card />
                 </div>
             </div>

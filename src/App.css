@@ -35,6 +35,13 @@
     background-color: #9dc88d;
     border: 0 none;
 }
+.overlay{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 48%;
+    margin-bottom: auto;
+}
 
 .footer{
     background-color: #203647;

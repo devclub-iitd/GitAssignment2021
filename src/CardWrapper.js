@@ -1,20 +1,34 @@
+import { Card, CardImg, CardText, CardBody, CardImgOverlay, CardSubtitle, CardTitle, CardFooter, CardHeader, Collapse} from 'reactstrap';
+import React, {useState} from 'react';
 import './App.css';
-import { Card, CardImg, CardText, CardBody, CardTitle, CardSubtitle, Button} from 'reactstrap';
 
 function CardWrapper() {
+  const [isOpen, setIsOpen] =useState(false);
+  const toggle= () => setIsOpen(!isOpen);
+
   return (
-    <div className="CardWrapper">
-      <Card class="card">
-        <CardBody tag="h">
-          heyyyy
-          <CardTitle tag="h5">name
-            <CardSubtitle tag="h6">
-              branch
-              <CardText>depc</CardText>
-              </CardSubtitle>
-          </CardTitle>
-        </CardBody>
-      </Card>
+    <div className="CardWrapper" onClick={toggle}>
+      <Collapse isOpen={!isOpen}>
+        <Card class="card" inverse>
+          <CardImg height="350px" src="/assets/cardImg.png" alt="cardImg" />
+          <CardImgOverlay className="overlay">
+            <CardTitle tag="h2">Name</CardTitle>
+          </CardImgOverlay>
+        </Card>
+      </Collapse>
+      <Collapse isOpen={isOpen}>
+        <Card class="card">
+          <CardHeader tag="h2">Name</CardHeader>
+          <CardBody>
+            <CardText tag='h5'>Branch</CardText>
+            <CardText tag='h5'>
+              Hobbies
+              <CardSubtitle tag='h6'>I like to binge watch, play sports, ...</CardSubtitle>
+            </CardText>
+          </CardBody>
+          <CardFooter tag='h6'>Contact info (fb/insta)</CardFooter>
+        </Card>
+      </Collapse>
     </div>
   );
 }
