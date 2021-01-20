@@ -10,7 +10,7 @@ function Header(){
     return(
         <React.Fragment>
             <Navbar className="Navbar" dark expand="md">
-                <NavbarBrand>Welcome</NavbarBrand>
+                <NavbarBrand id="NavbarBrand">Welcome</NavbarBrand>
                 <NavbarToggler onClick={toggle} />
                 <Collapse isOpen={isOpen} navbar>
                     <Nav className="ml-auto" navbar>

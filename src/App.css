@@ -5,6 +5,9 @@
 .Navbar{
     background-color: #203647;
 }
+#NavbarBrand{
+    color: #ffffff;
+}
 
 .jumbotron{
     justify-content: center;
@@ -12,7 +15,10 @@
     text-align: center;
     font-weight: 800;
     font-variant: small-caps;
-    background-color: #4da8da;
+    color: #ffffff;
+    background-color: #010610;
+    background-image: url('https://image.shutterstock.com/image-illustration/abstract-plexus-structure-many-glowing-260nw-1203459940.jpg');
+
 }
 
 .CardWrapper{
@@ -28,4 +34,15 @@
 .card{
     background-color: #9dc88d;
     border: 0 none;
+}
+
+.footer{
+    background-color: #203647;
+    min-height: 50px;
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+.footerpara{
+    padding-top: 5px;
 }
