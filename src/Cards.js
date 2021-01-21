@@ -1,6 +1,9 @@
 import React, {useState} from 'react';
-import { FRESHERS } from "./Freshers";
 import { Card, CardImg, CardText, CardBody, CardImgOverlay, CardTitle, CardFooter, CardHeader} from 'reactstrap';
+import { FRESHERS } from "./Freshers";
+import CardWrapper from './CardWrapper';
+
+
 
 function FresherContact(contact){
     return(
@@ -45,7 +48,7 @@ const Cards=() => {
     });
 
     return (
-        <div className="container">
+        <div className="container-fluid">
             <div className="row">
                 {renderCards}
             </div>

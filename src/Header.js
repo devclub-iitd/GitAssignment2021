@@ -10,12 +10,16 @@ function Header(){
     return(
         <React.Fragment>
             <Navbar className="Navbar" dark expand="md">
-                <NavbarBrand id="NavbarBrand">Welcome</NavbarBrand>
+                <NavbarBrand id="NavbarBrand">
+                    <a href="https://devclub.in/#/">
+                        <img width="65" height="50" src="/assets/LogoSVG.png" alt="DevClub" title="DevCLub-IITD" />
+                    </a>
+                </NavbarBrand>
                 <NavbarToggler onClick={toggle} />
                 <Collapse isOpen={isOpen} navbar>
                     <Nav className="ml-auto" navbar>
                         <NavItem>
-                            <a className="nav-link" href="https://github.com/">
+                            <a className="nav-link" href="https://github.com/devclub-iitd">
                                 <span className="fa fa-github fa-lg"></span> Github
                             </a>
                         </NavItem>

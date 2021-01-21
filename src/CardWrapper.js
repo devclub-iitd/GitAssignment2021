@@ -2,29 +2,30 @@ import { Card, CardImg, CardText, CardBody, CardImgOverlay, CardSubtitle, CardTi
 import React, {useState} from 'react';
 import './App.css';
 
-function CardWrapper() {
+function CardWrapper(fresher) {
   const [isOpen, setIsOpen] =useState(false);
   const toggle= () => setIsOpen(!isOpen);
 
   return (
-    <div className="CardWrapper" onClick={toggle}>
+    <div className="CardWrapper col-12 col-sm-6 col-md-4" key="fresher.entryNum" onClick={toggle}>
       <Collapse isOpen={!isOpen}>
         <Card class="card" inverse>
-          <CardImg height="350px" src="/assets/cardImg.png" alt="cardImg" />
+          <CardImg max-height="350px" src={fresher.image} alt={fresher.name}  />
           <CardImgOverlay className="overlay">
-            <CardTitle tag="h2">Name</CardTitle>
+              <CardTitle tag="h2">{fresher.name}</CardTitle>
           </CardImgOverlay>
         </Card>
       </Collapse>
       <Collapse isOpen={isOpen}>
-        <Card class="card">
-          <CardHeader tag="h2">Name</CardHeader>
+        <Card class="card col-12 col-sm-6 col-md-4" key="fresher.entryNum">
+          <CardHeader tag="h2">{fresher.name}</CardHeader>
           <CardBody>
-            <CardText tag='h5'>Branch</CardText>
+            <CardText tag='h5'>Branch: {fresher.branch}</CardText>
             <CardText tag='h5'>
               About
-              <CardSubtitle tag='h6'>Hobbies- I like to binge watch, sports, play musical instrument, dance, etc. Favorite movie/ food.</CardSubtitle>
+              <CardText tag='h6'>{fresher.about}</CardText>
             </CardText>
+            {fresher.contact ? <FresherContact contact={fresher.contact}></FresherContact> : null}
           </CardBody>
           <CardFooter tag='h6'>Social media (fb/insta/none...)</CardFooter>
         </Card>
