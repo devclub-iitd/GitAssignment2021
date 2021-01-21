@@ -12,7 +12,7 @@ function Header(){
             <Navbar className="Navbar" dark expand="md">
                 <NavbarBrand id="NavbarBrand">
                     <a href="https://devclub.in/#/">
-                        <img width="65" height="50" src="/assets/LogoSVG.png" alt="DevClub" title="DevCLub-IITD" />
+                        <img width="80" height="50" src="/assets/LogoSVG.png" alt="DevClub" title="DevCLub-IITD" />
                     </a>
                 </NavbarBrand>
                 <NavbarToggler onClick={toggle} />

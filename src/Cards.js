@@ -3,7 +3,6 @@ import React, {useState} from 'react';
 import { FRESHERS } from "./Freshers";
 
 function CardFooterDisplay({contact}){
-    console.log("yes");
     return(
         <CardFooter>
             {contact.map((account)=>{
