@@ -1,12 +1,14 @@
 import React from 'react';
 import { FRESHERS } from "./Freshers";
-import cardA from './CardWrapper';
+import card from './CardWrapper';
 
 const Cards=()=>{
     const freshers= FRESHERS;
 
     const renderCards= freshers.map((fresher) => {
-        <cardA fresher={fresher}></cardA>
+        return(
+            <card fresher={fresher}></card>
+        );
     });
 
     return (
