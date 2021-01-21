@@ -2,14 +2,12 @@ import React, {useState} from 'react';
 import { FRESHERS } from "./Freshers";
 import { Card, CardImg, CardText, CardBody, CardImgOverlay, CardTitle, CardFooter, CardHeader} from 'reactstrap';
 
-function displayCardFooter(contact){
+function FresherContact(contact){
     return(
         <CardFooter>
-            
         </CardFooter>
     );
 }
-
 const Cards=() => {
     const freshers= FRESHERS;
     const [isOpen, setIsOpen] =useState(false);
@@ -38,8 +36,8 @@ const Cards=() => {
                                 About
                                 <CardText tag='h6'>{fresher.about}</CardText>
                             </CardText>
+                            {fresher.contact ? <FresherContact contact={fresher.contact}></FresherContact> : null}
                         </CardBody>
-                        {fresher.contact ? <displayCardFooter contact={fresher.contact} /> : null}
                     </Card>
                 </div>
             );
@@ -47,14 +45,13 @@ const Cards=() => {
     });
 
     return (
-        <div>
-            <div className="container">
-                <div className="row">
-                    {renderCards}
-                </div>
+        <div className="container">
+            <div className="row">
+                {renderCards}
             </div>
         </div>
     );
 }
 
 export default Cards;
+
