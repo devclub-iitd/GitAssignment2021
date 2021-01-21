@@ -3,7 +3,26 @@ import React, {useState} from 'react';
 import { FRESHERS } from "./Freshers";
 
 function CardFooterDisplay({contact}){
-    
+    console.log("yes");
+    return(
+        <CardFooter>
+            {contact.map((account)=>{
+                if(account.type==="insta"){
+                    return(
+                        <a href={account.url}>
+                            <span className="fa fa-instagram fa-lg"></span>
+                        </a>
+                    );
+                }else{
+                    return(
+                        <a href={account.url}>
+                            <span className="fa fa-facebook fa-lg"></span>
+                        </a>
+                    );
+                }
+            })}
+        </CardFooter>
+    );
 }
 
 function CardWrapper({fresher}) {
@@ -29,7 +48,7 @@ function CardWrapper({fresher}) {
                 About
                 <CardText tag='h6'>{fresher.about}</CardText>
               </CardText>
-              {fresher.contact ? <CardFooterDisplay contact={fresher.contact}></CardFooterDisplay> : null}
+              {fresher.contact ? <CardFooterDisplay contact={fresher.contact} /> : null}
             </CardBody>
           </Card>
         </Collapse>
