@@ -42,6 +42,21 @@
     margin-bottom: auto;
 }
 
+.insta{
+    color: #fb3958;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+.fb{
+    color: #3b5998;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+
 .footer{
     background-color: #203647;
     min-height: 50px;

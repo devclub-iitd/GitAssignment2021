@@ -29,11 +29,6 @@ export const FRESHERS = [
                 id: 0,
                 type: "insta",
                 url: 'https://www.instagram.com/'
-            },
-            {
-                id: 1,
-                type: 'fb',
-                url: 'https://www.facebook.com/'
             }
         ]
     },

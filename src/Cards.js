@@ -9,13 +9,13 @@ function CardFooterDisplay({contact}){
                 if(account.type==="insta"){
                     return(
                         <a href={account.url}>
-                            <span className="fa fa-instagram fa-lg"></span>
+                            <span className="fa fa-instagram fa-lg insta"></span>
                         </a>
                     );
                 }else{
                     return(
                         <a href={account.url}>
-                            <span className="fa fa-facebook fa-lg"></span>
+                            <span className="fa fa-facebook fa-lg fb"></span>
                         </a>
                     );
                 }
