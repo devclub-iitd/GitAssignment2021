@@ -2,7 +2,7 @@ import { Card, CardImg, CardText, CardBody, CardImgOverlay, CardTitle, CardFoote
 import React, {useState} from 'react';
 import './App.css';
 
-function CardWrapper(fresher) {
+function CardWrapper({fresher}) {
   const [isOpen, setIsOpen] =useState(false);
   const toggle= () => setIsOpen(!isOpen);
 

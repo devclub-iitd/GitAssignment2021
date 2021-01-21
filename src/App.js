@@ -1,5 +1,4 @@
 import './App.css';
-import CardWrapper from './CardWrapper';
 import Cards from './Cards';
 import Header from './Header';
 import Footer from "./Footer";
