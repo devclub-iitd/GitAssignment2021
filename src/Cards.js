@@ -1,28 +1,56 @@
-import React from 'react';
-import Card from './CardWrapper';
-import Freshers from './Freshers';
+import React, {useState} from 'react';
+import { FRESHERS } from "./Freshers";
+import { Card, CardImg, CardText, CardBody, CardImgOverlay, CardTitle, CardFooter, CardHeader} from 'reactstrap';
 
-function Cards() {
+function displayCardFooter(contact){
     return(
-        <div className="container">
-            <div className="row row-header">
-                <div id="1" className="col-12 col-sm-6 col-md-4">
-                    <Card />
+        <CardFooter>
+            
+        </CardFooter>
+    );
+}
+
+const Cards=() => {
+    const freshers= FRESHERS;
+    const [isOpen, setIsOpen] =useState(false);
+    const toggle= () => setIsOpen(!isOpen); 
+
+    const renderCards= freshers.map((fresher) => {
+        if (!isOpen) {
+            return(
+                <div className="CardWrapper col-12 col-sm-6 col-md-4" key="fresher.entryNum" onClick={toggle} >
+                    <Card class="card" inverse>
+                        <CardImg max-height="350px" src={fresher.image} alt={fresher.name}  />
+                        <CardImgOverlay className="overlay">
+                            <CardTitle tag="h2">{fresher.name}</CardTitle>
+                        </CardImgOverlay>
+                    </Card>
                 </div>
-                <div id="2" className="col-12 col-sm-6 col-md-4">
-                    <Card />
+            );
+        } else {
+            return(
+                <div className="CardWrapper col-12 col-sm-6 col-md-4" key="fresher.entryNum" onClick={toggle} >
+                    <Card class="card">
+                        <CardHeader tag="h2">{fresher.name}</CardHeader>
+                        <CardBody>
+                            <CardText tag='h5'>Branch: {fresher.branch}</CardText>
+                            <CardText tag='h5'>
+                                About
+                                <CardText tag='h6'>{fresher.about}</CardText>
+                            </CardText>
+                        </CardBody>
+                        {fresher.contact ? <displayCardFooter contact={fresher.contact} /> : null}
+                    </Card>
                 </div>
-                <div id="3" className="col-12 col-sm-6 col-md-4">
-                    <Card />
-                </div>
-                <div id="4"className="col-12 col-sm-6 col-md-4">
-                    <Card />
-                </div>
-                <div id="5" className="col-12 col-sm-6 col-md-4">
-                    <Card />
-                </div>
-                <div id="6" className="col-12 col-sm-6 col-md-4">
-                    <Card />
+            );
+        }
+    });
+
+    return (
+        <div>
+            <div className="container">
+                <div className="row">
+                    {renderCards}
                 </div>
             </div>
         </div>
