@@ -1,13 +1,14 @@
-import { Card, CardImg, CardText, CardBody, CardImgOverlay, CardSubtitle, CardTitle, CardFooter, CardHeader, Collapse} from 'reactstrap';
+import { Card, CardImg, CardText, CardBody, CardImgOverlay, CardTitle, CardFooter, CardHeader, Collapse} from 'reactstrap';
 import React, {useState} from 'react';
 import './App.css';
 
 function CardWrapper(fresher) {
   const [isOpen, setIsOpen] =useState(false);
   const toggle= () => setIsOpen(!isOpen);
+  console.log("123");
 
   return (
-    <div className="CardWrapper col-12 col-sm-6 col-md-4" key="fresher.entryNum" onClick={toggle}>
+    <div className="CardWrapper col-12 col-sm-6 col-md-4" key={fresher.entryNum} onClick={toggle}>
       <Collapse isOpen={!isOpen}>
         <Card class="card" inverse>
           <CardImg max-height="350px" src={fresher.image} alt={fresher.name}  />
@@ -17,7 +18,7 @@ function CardWrapper(fresher) {
         </Card>
       </Collapse>
       <Collapse isOpen={isOpen}>
-        <Card class="card col-12 col-sm-6 col-md-4" key="fresher.entryNum">
+        <Card class="card col-12 col-sm-6 col-md-4" key={fresher.entryNum}>
           <CardHeader tag="h2">{fresher.name}</CardHeader>
           <CardBody>
             <CardText tag='h5'>Branch: {fresher.branch}</CardText>
@@ -25,9 +26,8 @@ function CardWrapper(fresher) {
               About
               <CardText tag='h6'>{fresher.about}</CardText>
             </CardText>
-            {fresher.contact ? <FresherContact contact={fresher.contact}></FresherContact> : null}
+            {fresher.contact ? <CardFooter></CardFooter> : null}
           </CardBody>
-          <CardFooter tag='h6'>Social media (fb/insta/none...)</CardFooter>
         </Card>
       </Collapse>
     </div>
