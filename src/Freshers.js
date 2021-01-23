@@ -34,9 +34,9 @@ export const FRESHERS = [
     },
     {
         entryNum: 3,
-        name : "ABCD",
+        name : "Japneet",
         image: '/assets/cardImg.png',
-        branch: "cs5",
+        branch: "mt1",
         about: 'Nothing much',
         contact: [
             {
