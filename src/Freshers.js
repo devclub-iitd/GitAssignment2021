@@ -52,5 +52,19 @@ export const FRESHERS = [
         image: '/assets/cardImg.png',
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
+    },
+    {
+        entryNum: 5,
+        name : "Deepit Patil",
+        image: '/assets/cardImg.png',
+        branch: "ECM",
+        about: 'I like to code',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/deepit_patil'
+            }
+        ]
     }
 ];
