@@ -33,6 +33,20 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 0696,
+        name : "Japneet",
+        image: '/assets/cardImg.png',
+        branch: "mt1",
+        about: 'Nothing much',
+        contact: [
+            {
+                id: 0,
+                type: 'fb',
+                url: 'https://www.facebook.com/'
+            }
+        ]
+    },
+    {
         entryNum: 3,
         name : "Japneet",
         image: '/assets/cardImg.png',
