@@ -53,4 +53,11 @@ export const FRESHERS = [
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
     }
+    {
+        entryNum: 911,
+        name : "Anish Roy"
+        image: 
+        branch: "ME1"
+        about: 'Just living a life and shizz; Like watching football and reading books '
+    }
 ];
