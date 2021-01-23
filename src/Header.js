@@ -29,7 +29,7 @@ function Header(){
                             </a>
                         </NavItem>
                         <NavItem>
-                            <a className="nav-link" href="https://www.instagram.com/umdevclub/?hl=en">
+                            <a className="nav-link" href="https://www.instagram.com/devclub_iitd/">
                                 <span className="fa fa-instagram fa-lg"></span> Instagram
                             </a>
                         </NavItem>
