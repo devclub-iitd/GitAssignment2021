@@ -52,5 +52,12 @@ export const FRESHERS = [
         image: '/assets/cardImg.png',
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
+    },
+    {
+        entryNum: 5,
+        name : "T Pratham",
+        image: '/assets/Joker_Heath_Ledger.png',
+        branch: "EE1",
+        about: 'Quizzer by heart (My answer is 42 :p). I want to learn a lot from DevClub IITD to increase my skill-set, improve it, and apply in real life problems.',
     }
 ];
