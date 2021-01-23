@@ -52,5 +52,13 @@ export const FRESHERS = [
         image: '/assets/cardImg.png',
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
-    }
+    },
+
+    {
+        entryNum: 18,
+        name : "Nishant",
+        image: 'https://i.pinimg.com/736x/2d/11/a3/2d11a390094c8851ec366c4742d37f1c.jpg',
+        branch: "mt1",
+        about: 'lorem ipsum',
+    },
 ];
