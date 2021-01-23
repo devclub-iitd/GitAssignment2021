@@ -54,7 +54,7 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
-        entryNum: 0393,
+        entryNum: '0393',
         name : "Sreemanti Dey",
         image: 'https://images.indianexpress.com/2020/01/Sreemanti-759.jpg',
         branch: "CS1",
