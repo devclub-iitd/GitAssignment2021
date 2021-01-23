@@ -54,7 +54,7 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
-        entryNum: 5,
+        entryNum: 1121,
         name : "Jasraj Singh Bhatia",
         image: '/assets/cardImg.png',
         branch: "TT1",
