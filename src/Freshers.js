@@ -54,7 +54,7 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
-        entryNum: 0559,
+        entryNum: 559,
         name : "T Pratham",
         image: '/assets/Joker_Heath_Ledger.png',
         branch: "EE1",
