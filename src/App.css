@@ -1,0 +1,69 @@
+.App{
+    background-color: #eefbfb;
+}
+
+.Navbar{
+    background-color: #203647;
+}
+#NavbarBrand{
+    color: #ffffff;
+}
+
+.jumbotron{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 800;
+    font-variant: small-caps;
+    color: #ffffff;
+    background-color: #010610;
+    background-image: url('https://image.shutterstock.com/image-illustration/abstract-plexus-structure-many-glowing-260nw-1203459940.jpg');
+
+}
+
+.CardWrapper{
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.card{
+    background-color: #9dc88d;
+    border: 0 none;
+    background-color: #9dc88d;
+    border-style: ridge;
+    border-color: #164a41;
+    border-width: 3px;
+}
+.overlay{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 48%;
+    margin-bottom: auto;
+}
+
+.insta{
+    color: #fb3958;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+.fb{
+    color: #3b5998;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.footer{
+    background-color: #203647;
+    min-height: 50px;
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+.footerpara{
+    padding-top: 5px;
+}
