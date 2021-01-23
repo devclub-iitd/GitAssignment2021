@@ -52,5 +52,24 @@ export const FRESHERS = [
         image: '/assets/cardImg.png',
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
+    },
+    {
+        entryNum: 5,
+        name : "Jasraj Singh Bhatia",
+        image: '/assets/cardImg.png',
+        branch: "TT1",
+        about: 'I like to Code.',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/jasrajsb'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/jasrajsb'
+            }
+        ]
     }
 ];
