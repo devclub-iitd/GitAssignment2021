@@ -56,7 +56,7 @@ export const FRESHERS = [
     {
         entryNum: 1121,
         name : "Jasraj Singh Bhatia",
-        image: '/assets/cardImg.png',
+        image: '/assets/jsb.jpg',
         branch: "TT1",
         about: 'I like to Code.',
         contact: [
