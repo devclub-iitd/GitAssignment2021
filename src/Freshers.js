@@ -55,7 +55,7 @@ export const FRESHERS = [
     },
 
     {
-        entryNum: 18,
+        entryNum: 828,
         name : "Nishant",
         image: 'https://i.pinimg.com/736x/2d/11/a3/2d11a390094c8851ec366c4742d37f1c.jpg',
         branch: "mt1",
