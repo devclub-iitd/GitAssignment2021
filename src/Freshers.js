@@ -54,7 +54,7 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     }
    {
-        entryNum: 0507,
+        entryNum: 507,
         name : "Kunal",
         image: '/assets/cardImg.png',
         branch: "EE1",
