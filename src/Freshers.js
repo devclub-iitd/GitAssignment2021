@@ -53,4 +53,18 @@ export const FRESHERS = [
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
     }
+   {
+        entryNum: 0507,
+        name : "Kunal",
+        image: '/assets/cardImg.png',
+        branch: "EE1",
+        about: 'I like to play badminton,smoke,drink, Repeat.',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/kunalshahi.qxq'
+            }
+        ]
+    } 
 ];
