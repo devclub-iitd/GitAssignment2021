@@ -1,10 +1,10 @@
 export const FRESHERS = [
     {
-        entryNum: 1,
-        name : 'ABC',
+        entryNum: '2020CS10393',
+        name : 'Sreemanti Dey',
         image: '/assets/cardImg.png',
-        branch: 'ee3',
-        about: 'I like to play basketball. I want to learn guitar, driving, web-dev and a lot of other things. Dancing and listening to music is my favourite time killer. And obviously, binge watch... PS Netflix subscription nahi hai XD',
+        branch: 'cs1',
+        about: 'I like to play badminton. I want to learn competitive coding, web-dev and a lot of other things. And I also wish to learn swimming and karate.',
         contact: [
             {
                 id: 0,
