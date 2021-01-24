@@ -35,6 +35,25 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
+        entryNum: 1121,
+        name : "Jasraj Singh Bhatia",
+        image: '/assets/jsb.jpg',
+        branch: "TT1",
+        about: 'I like to Code.',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/jasrajsb'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/jasrajsb'
+            }
+        ]
+},
+{
         entryNum: 828,
         name : "Nishant",
         image: 'https://i.pinimg.com/736x/2d/11/a3/2d11a390094c8851ec366c4742d37f1c.jpg',
