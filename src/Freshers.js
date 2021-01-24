@@ -53,4 +53,21 @@ export const FRESHERS = [
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
     }
+    {
+        entryNum: 639,
+        name : "Amod",
+        image: '/assets/cardImg.png',
+        branch: "AM1",
+        about: 'lol',
+        contact: [
+            {
+                id: 0,
+                type:'insta'
+                url: 'https://www.instagram.com/__a.mod__/'
+            }
+
+
+
+        ]
+    }
 ];
