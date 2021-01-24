@@ -35,6 +35,13 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
+        entryNum: 828,
+        name : "Nishant",
+        image: 'https://i.pinimg.com/736x/2d/11/a3/2d11a390094c8851ec366c4742d37f1c.jpg',
+        branch: "mt1",
+        about: 'lorem ipsum',
+    },
+    {
         entryNum: 559,
         name : "T Pratham",
         image: '/assets/Joker_Heath_Ledger.png',
