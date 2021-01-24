@@ -52,7 +52,7 @@ export const FRESHERS = [
         image: '/assets/cardImg.png',
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
-    }
+    },
     {
         entryNum: 639,
         name : "Amod",
@@ -62,7 +62,7 @@ export const FRESHERS = [
         contact: [
             {
                 id: 0,
-                type:'insta'
+                type:'insta',
                 url: 'https://www.instagram.com/__a.mod__/'
             }
 
