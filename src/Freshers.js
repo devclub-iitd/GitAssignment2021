@@ -59,7 +59,7 @@ export const FRESHERS = [
         name : "Divyansh Agarrwal",
         image: '/assets/cardImg.png',
         branch: "EE1",
-        about: 'I like watching Hindi movies, web series and Marvel movies. Also like music - Arijit Singh, Darshan Raval, Raftaar, Kr$na. I am a big football enthusiast. You will find me watching any football match on a Sunday evening. And most importantly- Visca el Barca',
+        about: 'I like Hindi movies, web series and Marvel movies. Also like music - Arijit Singh, Darshan Raval, Raftaar, Kr$na. I am a big football enthusiast. You will find me watching any football match on a Sunday evening. And most importantly- Visca el Barca',
         contact: [
           {
               id: 0,
