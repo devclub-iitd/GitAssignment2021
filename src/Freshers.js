@@ -46,9 +46,6 @@ export const FRESHERS = [
                 type:'insta',
                 url: 'https://www.instagram.com/__a.mod__/'
             }
-
-
-
         ]
 },
   {
@@ -65,9 +62,6 @@ export const FRESHERS = [
             }
         ]
     },
- ];
- 
-},
 {
         entryNum: "2020CS10326",
         name : "Arin Kedia",
