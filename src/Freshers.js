@@ -62,6 +62,20 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
+        entryNum: 776,
+        name : 'AADIL AKHTAR',
+        image: '/assets/MT1200776.jpg',
+        branch: 'MT1',
+        about: 'I love to watch movies, TV series, animes. I like playing badminton, table tennis and pencil sketching.',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/aadil_akhtar_3402/'
+            }
+        ]
+},
+  {
         entryNum: 447,
         name : 'Vaibhav Agarwal',
         image: '/assets/2020CS50447.jpeg',
