@@ -55,14 +55,16 @@ export const FRESHERS = [
     },
     {
         entryNum: "2020CS10326",
-        name: "Arin Kedia",
+        name : "Arin Kedia",
         image: '/assets/cardImg.png',
         branch: "cs1",
-        about: 'Love playing football and reading novels. Have a great interest in learning music.',
+        about: 'Love playing football and reading novel. Have a great interest in learning music.',
         contact: [
-            id: "Arin Kedia",
-            type: "fb",
-            url: "https://www.facebook.com/Arin.Kedia21",
+            {
+                id: "Arin Kedia",
+                type: "fb",
+                url: 'https://www.facebook.com/Arin.Kedia21'
+            }
         ]
-    }
+    },
 ];
