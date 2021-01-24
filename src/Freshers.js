@@ -61,6 +61,20 @@ export const FRESHERS = [
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
+   {
+        entryNum: 507,
+        name : "Kunal",
+        image: '/assets/cardImg.png',
+        branch: "EE1",
+        about: 'I like to play badminton,smoke,drink, Repeat.',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/kunalshahi.qxq'
+            }
+        ]
+},
     {
         entryNum: 776,
         name : 'AADIL AKHTAR',
@@ -158,6 +172,7 @@ export const FRESHERS = [
         image: '/assets/jsb.jpg',
         branch: "TT1",
         about: 'I like to Code.',
+
         contact: [
             {
                 id: 0,
