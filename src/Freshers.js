@@ -35,6 +35,20 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
+        entryNum: 795,
+        name : "Chaxu Garg",
+        image : '/assets/Chaxu.jpeg',
+        branch : "MT1",
+        about : 'Just having fun and getting to know about clubs...',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/chaxu_garg/'
+            }
+        ]
+    },
+  {
         entryNum: 639,
         name : "Amod",
         image: '/assets/cardImg.png',
