@@ -52,5 +52,24 @@ export const FRESHERS = [
         image: '/assets/cardImg.png',
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
+    },
+    {
+        entryNum: 398,
+        name : 'Tanish Tuteja',
+        image: '/assets/2020CS10398.jpg',
+        branch: 'CS1',
+        about: 'I almost always have my headphones on cuz music is life. Wathcing TV series is a great utilization (read : wastage) of time. TBBT is an awesome series. Aur haan, coding bhi kar leta hoon :) P.S. I\'m learning guitar, man it\'s tough.',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/tanish_tuteja/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/tanish.tuteja.9/'
+            }
+        ]
     }
 ];
