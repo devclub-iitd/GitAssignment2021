@@ -35,6 +35,13 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
+        entryNum: 559,
+        name : "T Pratham",
+        image: '/assets/Joker_Heath_Ledger.png',
+        branch: "EE1",
+        about: 'Quizzer by heart (My answer is 42 :p). I want to learn a lot from DevClub IITD to increase my skill-set, improve it, and apply in real life problems.',
+    },
+  {
         entryNum: '0393',
         name : "Sreemanti Dey",
         image: 'https://images.indianexpress.com/2020/01/Sreemanti-759.jpg',
