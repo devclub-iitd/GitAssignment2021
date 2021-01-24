@@ -29,6 +29,13 @@ export const FRESHERS = [
     },
     
     {
+        entryNum: 335,
+        name : "CHETAN GAIKWAD",
+        image: 'https://instagram.fbho4-1.fna.fbcdn.net/v/t51.2885-19/s150x150/127300414_1113030522490110_5085034867865187640_n.jpg?_nc_ht=instagram.fbho4-1.fna.fbcdn.net&_nc_ohc=3yOGS-Yjay8AX-nn6eM&tp=1&oh=2fc08164ab40f86ed9e303241bf1e0cf&oe=603716C4',
+        branch: "CS1",
+        about: 'I am passionate about startup ,loves to play bastketball ,learning new technology and software',
+    },
+      {
         entryNum: 4,
         name : "WXYZ",
         image: '/assets/cardImg.png',
@@ -152,4 +159,5 @@ export const FRESHERS = [
         branch: "CS1",
         about: 'Love reading and writing. Love badminton. Wish to learn competitive coding, webdev and swimming',
     }
+
 ];
