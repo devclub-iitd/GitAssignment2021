@@ -27,6 +27,7 @@ export const FRESHERS = [
             }
         ]
     },
+    
     {
         entryNum: 4,
         name : "WXYZ",
@@ -35,6 +36,20 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
+        entryNum: 447,
+        name : 'Vaibhav Agarwal',
+        image: '/assets/2020CS50447.jpeg',
+        branch: 'CS5',
+        about: 'I like to play Chess',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/vaibhavag31/'
+            }
+        ]
+},
+  {
         entryNum: 795,
         name : "Chaxu Garg",
         image : '/assets/Chaxu.jpeg',
