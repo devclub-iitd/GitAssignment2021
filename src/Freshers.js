@@ -54,7 +54,7 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
-        entryNum: 0649,
+        entryNum: 649,
         name : "Geetansh Juneja",
         image: '/assets/cardImg.png',
         branch: "am1",
