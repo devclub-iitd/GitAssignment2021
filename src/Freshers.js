@@ -59,5 +59,5 @@ export const FRESHERS = [
         image: 'https://i.pinimg.com/originals/ca/80/1a/ca801a860d0bc507e21b2f4a1b0d463f.png'
         branch: "ME1"
         about: 'Just living a life and shizz; Like watching football and reading books '
-    }
+    },
 ];
