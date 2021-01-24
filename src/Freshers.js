@@ -1,20 +1,20 @@
 export const FRESHERS = [
     {
-        entryNum: 1,
-        name : 'ABC',
-        image: '/assets/cardImg.png',
-        branch: 'ee3',
-        about: 'I like to play basketball. I want to learn guitar, driving, web-dev and a lot of other things. Dancing and listening to music is my favourite time killer. And obviously, binge watch... PS Netflix subscription nahi hai XD',
+        entryNum: 351,
+        name : 'Kartik Sharma',
+        image: '/assets/2020CS10351.jpeg',
+        branch: 'CS1',
+        about: 'I  like playing badminton and chess. Watching movies and listening music are favourite time pass. Exploring different things out here. Planning a day trip, count me in :).',
         contact: [
             {
                 id: 0,
                 type: "insta",
-                url: 'https://www.instagram.com/'
+                url: 'https://www.instagram.com/_kartiks_'
             },
             {
                 id: 1,
                 type: 'fb',
-                url: 'https://www.facebook.com/'
+                url: 'https://www.facebook.com/kartik.sharma.581187'
             }
         ]
     },
@@ -52,5 +52,24 @@ export const FRESHERS = [
         image: '/assets/cardImg.png',
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
-    }
+    },
+    {
+        entryNum: 351,
+        name : 'Kartik Sharma',
+        image: '/assets/2020CS10351.jpeg',
+        branch: 'CS1',
+        about: 'I  like playing badminton and chess. Watching movies and listening music are favourite time pass. Exploring different things out here. Planning a day trip, count me in :).',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/_kartiks_'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/kartik.sharma.581187'
+            }
+        ]
+    },
 ];
