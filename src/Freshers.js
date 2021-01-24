@@ -35,6 +35,13 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
+        entryNum: 336,
+        name : "CHINMAYMITTAL",
+        image: 'https://qph.fs.quoracdn.net/main-thumb-536223418-200-ttyantfkjeettdrjbgiljezgfaularsh.jpeg',
+        branch: "CS1",
+        about: 'Nothing much',
+    }, 
+      {
         entryNum: 1121,
         name : "Jasraj Singh Bhatia",
         image: '/assets/jsb.jpg',
