@@ -35,6 +35,20 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
+        entryNum: 639,
+        name : "Amod",
+        image: '/assets/cardImg.png',
+        branch: "AM1",
+        about: 'lol',
+        contact: [
+            {
+                id: 0,
+                type:'insta',
+                url: 'https://www.instagram.com/__a.mod__/'
+            }
+        ]
+},
+  {
         entryNum: 649,
         name : "Geetansh Juneja",
         image: '/assets/cardImg.png',
@@ -48,9 +62,6 @@ export const FRESHERS = [
             }
         ]
     },
- ];
- 
-},
 {
         entryNum: "2020CS10326",
         name : "Arin Kedia",
