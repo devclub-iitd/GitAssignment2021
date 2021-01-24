@@ -52,5 +52,21 @@ export const FRESHERS = [
         image: '/assets/cardImg.png',
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
-    }
-];
+    },
+    {
+        entryNum: 5,
+        name : "DEFG",
+        image: '/assets/cardImg.png',
+        branch: "am1",
+        about: 'I love to play cricket,volleyball.I want to learn beatboxing ,dancing.',
+        contact: [
+            {
+                id: 0,
+                type: 'fb',
+                url: 'https://www.facebook.com/'
+            }
+        ]
+    },
+ ];
+ 
+
