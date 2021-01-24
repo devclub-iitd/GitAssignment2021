@@ -35,6 +35,20 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
+        entryNum: "2020CS10326",
+        name : "Arin Kedia",
+        image: '/assets/cardImg.png',
+        branch: "cs1",
+        about: 'Love playing football and reading novel. Have a great interest in learning music.',
+        contact: [
+            {
+                id: "Arin Kedia",
+                type: "fb",
+                url: 'https://www.facebook.com/Arin.Kedia21'
+            }
+        ]
+    },
+      {
         entryNum: 336,
         name : "CHINMAYMITTAL",
         image: 'https://qph.fs.quoracdn.net/main-thumb-536223418-200-ttyantfkjeettdrjbgiljezgfaularsh.jpeg',
