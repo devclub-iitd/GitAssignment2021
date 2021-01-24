@@ -54,7 +54,7 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
-        entryNum: 2020CH1140,
+        entryNum: 140,
         name : "Tanya Goyal",
         image: '/assets/Tanya.jpg',
         branch: "CH1",
@@ -71,6 +71,5 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/tanya.goyal.10485546'
             }
          ]   
-    },
-
+    }
 ];
