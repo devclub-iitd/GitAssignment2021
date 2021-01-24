@@ -52,5 +52,24 @@ export const FRESHERS = [
         image: '/assets/cardImg.png',
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
-    }
+    },
+    {
+        entryNum: 776,
+        name : 'AADIL AKHTAR',
+        image: '/assets/MT1200776.jpg',
+        branch: 'MT1',
+        about: 'I love to watch movies, TV series, animes. I like playing badminton, table tennis and pencil sketching.',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/aadil_akhtar_3402/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/aadil.akhtar.3538/'
+            },
+        ]
+    },
 ];
