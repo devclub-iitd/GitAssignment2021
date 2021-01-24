@@ -53,4 +53,24 @@ export const FRESHERS = [
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
     }
+    {
+        entryNum: 2020CH10140,
+        name : "Tanya Goyal",
+        image: '/assets/Tanya.jpg',
+        branch: "CH1",
+        about: 'Love to learn and explore new fields. Never learned coding but always wanted to, though not the way it is being taught in college. Lastly, Hail Satan! Hail Hydra! ',
+        contact: [
+            {
+                id: 1,
+                type: 'insta',
+                url: 'https://www.instagram.com/tanyagoyal07/'
+            },
+            {
+                id: 2,
+                type: 'fb',
+                url: 'https://www.facebook.com/tanya.goyal.10485546'
+            }
+         ]   
+    },
+
 ];
