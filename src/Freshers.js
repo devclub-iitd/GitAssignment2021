@@ -15,7 +15,7 @@ export const FRESHERS = [
                 id: 1,
                 type: 'fb',
                 url: 'https://www.facebook.com/'
-            }
+            },
         ]
     },
     {
@@ -29,7 +29,7 @@ export const FRESHERS = [
                 id: 0,
                 type: "insta",
                 url: 'https://www.instagram.com/'
-            }
+            },
         ]
     },
     {
@@ -43,7 +43,7 @@ export const FRESHERS = [
                 id: 0,
                 type: 'fb',
                 url: 'https://www.facebook.com/'
-            }
+            },
         ]
     },
     {
@@ -52,12 +52,12 @@ export const FRESHERS = [
         image: '/assets/cardImg.png',
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
-    }
+    },
     {
         entryNum: 911,
-        name : "Anish Roy"
-        image: 'https://i.pinimg.com/originals/ca/80/1a/ca801a860d0bc507e21b2f4a1b0d463f.png'
-        branch: "ME1"
-        about: 'Just living a life and shizz; Like watching football and reading books '
+        name : "Anish Roy",
+        image: 'https://i.pinimg.com/originals/ca/80/1a/ca801a860d0bc507e21b2f4a1b0d463f.png',
+        branch: "ME1",
+        about: 'Just living a life and shizz; Like watching football and reading books ',
     },
 ];
