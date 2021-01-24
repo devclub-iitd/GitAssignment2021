@@ -52,17 +52,17 @@ export const FRESHERS = [
         image: '/assets/cardImg.png',
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
-    }
+    },
     {
-        entryNum: "2020CS10326"
-        name: "Arin Kedia"
-        image: '/assets/cardImg.png'
-        branch: "cs1"
-        about: 'Love playing football and reading novels. Have a great interest in learning music.'
+        entryNum: "2020CS10326",
+        name: "Arin Kedia",
+        image: '/assets/cardImg.png',
+        branch: "cs1",
+        about: 'Love playing football and reading novels. Have a great interest in learning music.',
         contact: [
-            id: "Arin Kedia"
-            type: "fb"
-            url: "https://www.facebook.com/Arin.Kedia21"
+            id: "Arin Kedia",
+            type: "fb",
+            url: "https://www.facebook.com/Arin.Kedia21",
         ]
     }
 ];
