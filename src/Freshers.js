@@ -64,7 +64,7 @@ export const FRESHERS = [
     {
         entryNum: 776,
         name : 'AADIL AKHTAR',
-        image: '/assets/MT1200776.jpg',
+        image: '/assets/2020MT10776.jpg',
         branch: 'MT1',
         about: 'I love to watch movies, TV series, animes. I like playing badminton, table tennis and pencil sketching.',
         contact: [
