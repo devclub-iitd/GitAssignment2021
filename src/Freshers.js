@@ -1,5 +1,24 @@
 export const FRESHERS = [
     {
+        entryNum: 351,
+        name : 'Kartik Sharma',
+        image: '/assets/2020CS10351.jpeg',
+        branch: 'CS1',
+        about: 'I  like playing badminton and chess. Watching movies and listening music are favourite time pass. Exploring different things out here. Planning a day trip, count me in :).',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/_kartiks_'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/kartik.sharma.581187'
+            }
+        ]
+    },
+    {
         entryNum: 2,
         name : "XYZ",
         image: '/assets/cardImg.png',
@@ -159,5 +178,4 @@ export const FRESHERS = [
         branch: "CS1",
         about: 'Love reading and writing. Love badminton. Wish to learn competitive coding, webdev and swimming',
     }
-
 ];
