@@ -500,5 +500,12 @@ export const FRESHERS = [
         branch: "ME1",
         about: 'Born to be an Engineer',
     },
+    {
+        entryNum: 424,
+        name: "Eshan Jain",
+        image: '/assets/cardImg.png',
+        branch: "CS5",
+        about: "I am a Gaming Enthusiast who likes to play cricket,chess and piano.I am also a tech freak and look forward to all kinds of new technologies.",
+    },
 ];
         
