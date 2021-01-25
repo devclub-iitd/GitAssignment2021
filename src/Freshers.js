@@ -361,7 +361,6 @@ export const FRESHERS = [
         image: '/assets/cardImg.png',
         branch: "MT6",
         about: 'Interested in mathematics.I want to learn coding',
-
     },
   {
         entryNum: 344,
