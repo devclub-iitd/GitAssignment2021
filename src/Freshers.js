@@ -364,6 +364,13 @@ export const FRESHERS = [
     about: 'Interested in mathematics.I want to learn coding',
 
 },
+{
+    entryNum: 934
+    name : 'Harsh Vardhan Singh'
+    image : 
+    branch: 'ME1'
+    about: 'Intrested in Mathmatics , Astronomy.I Want to learn Coding'
+},
 ];
         
  
