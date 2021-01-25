@@ -225,12 +225,13 @@ export const FRESHERS = [
         image: 'https://images.indianexpress.com/2020/01/Sreemanti-759.jpg',
         branch: "CS1",
         about: 'Love reading and writing. Love badminton. Wish to learn competitive coding, webdev and swimming',
-    }
-];
-{
-        entryNum: 394,
+    },
+
+
+    {
+        entryNum:394,
         name : "Stitiprajna Sahoo",
-        image: 'http://davcsp.org/File/50/Stitiprajna%20Sahoo.jpg'
+        image: 'http://davcsp.org/File/50/Stitiprajna%20Sahoo.jpg',
         branch: "CS1",
         about: 'Passionate about singing. Simple girl',
         contact: [
@@ -245,7 +246,5 @@ export const FRESHERS = [
                 url: 'https://www.instagram.com/stiti_sahoo/?hl=en'
             },
         ]
-}
-
-
-
+    },
+]
