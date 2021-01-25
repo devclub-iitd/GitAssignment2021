@@ -52,5 +52,26 @@ export const FRESHERS = [
         image: '/assets/cardImg.png',
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
-    }
+    },
+    {
+        entryNum:476,
+        name: "Aryan Sinha",
+        image:"https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg"
+        ,branch:"EE1",
+        about:"nothing much",
+        contact:[
+            {
+                id:0,
+                type:"fb",
+                url: "https://www.facebook.com/aryan.sinha.10485/",
+
+            },
+            
+            
+        ]
+
+        
+
+    },
+
 ];
