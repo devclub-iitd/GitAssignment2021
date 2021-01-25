@@ -62,6 +62,20 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
+        entryNum: 0488,
+        name : "Divyansh Agarrwal",
+        image: '/assets/cardImg.png',
+        branch: "EE1",
+        about: 'I like Hindi movies, web series and Marvel movies. Also like music - Arijit Singh, Darshan Raval, Raftaar, Kr$na. I am a big football enthusiast. You will find me watching any football match on a Sunday evening. And most importantly- Visca el Barca',
+        contact: [
+          {
+              id: 0,
+              type: 'insta',
+              url: 'https://www.instagram.com/divyanshagarrwal/?hl=en'
+          }
+          ]
+  },
+  {
         entryNum:476,
         name: "Aryan Sinha",
         image:"https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg",
@@ -76,10 +90,7 @@ export const FRESHERS = [
             },
             
             
-        ]
-
-        
-
+        ]    
     },
 
       {
