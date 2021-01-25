@@ -21,7 +21,7 @@ export const FRESHERS = [
     {
         entryNum: 648,
         name : "Deepit Patil",
-        image: 'https://www.instagram.com/p/CGJvm06pdN9/',
+        image: 'https://instagram.fdel17-1.fna.fbcdn.net/v/t51.2885-15/e35/121070622_1297229483956651_1302866949774790023_n.jpg?_nc_ht=instagram.fdel17-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=c1Bet97Ns1sAX9RQOjK&tp=1&oh=9c3158588192ffe3e74f90167ff1ef42&oe=6038FFCB',
         branch: "ECM",
         about: 'I like to code and play table tennis.',
         contact: [
@@ -117,7 +117,8 @@ export const FRESHERS = [
 },
     { entryNum: 1175,
         name: "Tejaswini Nathawat",
-        branch: "tt1"
+        branch: "tt1",
+        image: '/assets/cardImg.png',
 },
     {
         entryNum: 911,
@@ -142,7 +143,7 @@ export const FRESHERS = [
   {
         entryNum: 840,
         name : "Sachit Sachdeva",
-        image: 'https://www.bing.com/images/search?view=detailV2&ccid=4%2bswZSVM&id=5D21EDF0A7553EE4B3B78C5EA1FB99F2D58C4DB6&thid=OIP.4-swZSVMu51RK50IyAjC1QHaEK&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fRe3eb3065254cbb9d512b9d08c808c2d5%3frik%3dtk2M1fKZ%252b6FejA%26riu%3dhttp%253a%252f%252fwww.pixelstalk.net%252fwp-content%252fuploads%252f2016%252f10%252fDesktop-nature-photo-hd-download-free.jpg%26ehk%3d5%252b5QNpcF%252blOtAonShvE%252froQCCQzfUdi7WbxIockMBzY%253d%26risl%3d%26pid%3dImgRaw&exph=1080&expw=1920&q=photo&simid=608030484809713154&ck=1988A282876F9AF9D7CB988892C9408D&selectedIndex=0&FORM=IRPRST&ajaxhist=0',
+        image: 'https://th.bing.com/th/id/OIP.4-swZSVMu51RK50IyAjC1QHaEK?pid=Api&rs=1',
         branch: "MT1",
         about: 'nothing much',
     },
@@ -313,7 +314,7 @@ export const FRESHERS = [
     {
         entryNum: 841,
         name : "Saksham Singh",
-        image: '/assets/saksham.png',
+        image: '/assets/cardImg.png',
         branch: "MT1",
         about: 'Like playing the guitar and football. (Newbie) Coding enthusiast.',
     },
