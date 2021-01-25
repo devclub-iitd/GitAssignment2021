@@ -290,6 +290,13 @@ export const FRESHERS = [
         about: 'Love reading and writing. Love badminton. Wish to learn competitive coding, webdev and swimming',
     },
     {
+        entryNum: 841,
+        name : "Saksham Singh",
+        image: '/assets/saksham.png',
+        branch: "MT1",
+        about: 'Like playing the guitar and football. (Newbie) Coding enthusiast.',
+    },
+  {
         entryNum: 372,
         name : 'Reedam Dhake',
         image: '/assets/2020CS10372.jpeg',
@@ -318,3 +325,5 @@ export const FRESHERS = [
 
 },
 ];
+        
+ 
