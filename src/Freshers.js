@@ -35,7 +35,7 @@ export const FRESHERS = [
     {
         entryNum: 700,
         name : "Ishaan Jain",
-        image: 'public\assets\2020PH10700.PNG',
+        image: 'public/assets/2020PH10700.PNG',
         branch: "EP",
         about: 'Bonjour People.!! I am in EP dept. cause of my first love physics and astronomy. I am a proud Nerd.And I love this innitative by DevClub to teach us Git&bash.',
         contact: [
