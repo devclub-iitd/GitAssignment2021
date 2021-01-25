@@ -62,7 +62,7 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
-        entryNum: 0488,
+        entryNum: 488,
         name : "Divyansh Agarrwal",
         image: '/assets/cardImg.png',
         branch: "EE1",
@@ -367,7 +367,7 @@ export const FRESHERS = [
 {
     entryNum: 934,
     name: 'Harsh Vardhan Singh',
-    image: 'blob:https://web.whatsapp.com/f12b5972-6915-4aa6-8de3-6485b39b38d4',
+    image: '',
     branch: 'ME1',
     about: 'Intrested in Mathmatics , Astronomy.I Want to learn Coding',
 },
