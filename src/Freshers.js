@@ -353,6 +353,20 @@ export const FRESHERS = [
     about: 'Interested in mathematics.I want to learn coding',
 
 },
+{
+    entryNum: '385',
+    name: "Shreyansh Singh",
+    image: '/assets/2020CS10385.jpeg',
+    branch: "CS1",
+    about: 'Love badminton and Rubiks cube',
+    contact: [
+        {
+            id: 0,
+            type: "insta",
+            url: 'https://www.instagram.com/shrey.sgh'
+        }
+}
+
 ];
         
  
