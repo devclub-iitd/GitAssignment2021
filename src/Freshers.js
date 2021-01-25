@@ -226,4 +226,23 @@ export const FRESHERS = [
         branch: "CS1",
         about: 'Love reading and writing. Love badminton. Wish to learn competitive coding, webdev and swimming',
     }
+    {
+        entryNum: 372,
+        name : 'Reedam Dhake',
+        image: '/assets/2020CS10372.jpeg',
+        branch: 'CS1',
+        about: 'I  like playing football and chess. Love exploring music tracks and singing them. I read a lot of novels and binge watch movies. Looking forward to join DevClub and develop an app of my own.',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/reedamdhake/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/reedam.dhake/'
+            }
+        ]
+    },
 ];
