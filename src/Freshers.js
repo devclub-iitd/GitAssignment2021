@@ -389,6 +389,21 @@ export const FRESHERS = [
     about: 'Interested in mathematics.I want to learn coding',
 
 },
+{ 
+    entryNum: 66,
+    name: "Yashdeep",
+    image: '/assets/2020BB10066.jpg',
+    branch: "BB1",
+    about: 'I love badminton and kabaddi. Sometimes read novels. Watching movies is my favourite timepass.',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/yashdeep0011/'
+        }
+    ]
+
+},
 {
     entryNum: 934,
     name: 'Harsh Vardhan Singh',
