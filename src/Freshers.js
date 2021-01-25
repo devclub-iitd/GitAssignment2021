@@ -395,5 +395,20 @@ export const FRESHERS = [
         branch: "CS1",
         about: 'Nothing much',
     },
+    {
+        entryNum:386
+        name:"Sibasish Rout"
+        image:"https://www.google.com/url?sa=i&url=http%3A%2F%2Fiitjeetoppers.com%2F&psig=AOvVaw1ud8zgfSxYUpIoyDfRwQGO&ust=1611675362772000&source=images&cd=vfe&ved=2ahUKEwjAy5ndtLfuAhUQSisKHTk4C_0Qr4kDegQIARBN"
+        branch:"CS1"
+        about:"I like playing cricket and chess,a big harry potter fan"
+        contact:
+        [
+            {
+                id:0,
+                type:"fb"
+                url:https:"//www.facebook.com/sibasish.rout.92/"
+            }
+        ]
+    }
 ];
         
