@@ -380,6 +380,41 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/reedam.dhake/'
             }
         ]
+    }
+,
+{
+    entryNum: 896,
+    name : "Vishvesh Patel",
+    image: '/assets/cardImg.png',
+    branch: "MT6",
+    about: 'Interested in mathematics.I want to learn coding',
+
+},
+{
+    entryNum: 385,
+    name : "Shreyansh Singh",
+    image: '/assets/2020CS10385.jpeg',
+    branch: "CS1",
+    about: 'Love badminton and Rubiks cube',    
+},
+{
+    entryNum: 349,
+    name : 'Hemank Bajaj',
+    image: '/assets/2020CS10349.jpg',
+    branch: 'CS1',
+    about: 'I like badminton,swimming and atheletics. I am very fond of music(EDM particularly). I hope to learn many new things from DevClub, IITD. ',
+    contact: [
+        {
+            id: 0,
+            type: "insta",
+            url: 'https://www.instagram.com/hemankbajaj/'
+        },
+        {
+            id: 1,
+            type: 'fb',
+            url: 'https://www.facebook.com/hemank.bajaj.7/'
+        }
+    ]
     },
 {
     entryNum: 896,
@@ -425,6 +460,20 @@ export const FRESHERS = [
         branch: "CS1",
         about: 'Nothing much',
     },
+ {
+        entryNum: 475,
+        name: "Aryan Dua",
+        image: '/assets/2020EE10475.jpg',
+        branch: "EE1",
+        about: 'Coding and robotics enthusiast, enjoys memeing. Youtube channel - https://www.youtube.com/c/tan90cot0',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/tan90cot0/?hl=en'
+            },
+        ]
+ },
   {
         entryNum: 172,
         name : 'Hemant Prakash Singh',
