@@ -225,7 +225,7 @@ export const FRESHERS = [
         image: 'https://images.indianexpress.com/2020/01/Sreemanti-759.jpg',
         branch: "CS1",
         about: 'Love reading and writing. Love badminton. Wish to learn competitive coding, webdev and swimming',
-    }
+    },
     {
         entryNum: 372,
         name : 'Reedam Dhake',
@@ -244,5 +244,5 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/reedam.dhake/'
             }
         ]
-    },
+    }
 ];
