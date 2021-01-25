@@ -62,6 +62,25 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
+        entryNum: 587,
+        name : "Bharat Kumar",
+        image: '/assets/2020EE30587.jpeg',
+        branch: "ee3",
+        about: 'Badminton player, basketball player, love coding, optimistic, fast learner, love talking to people',
+        contact: [
+            {
+                id: 0,
+                type: 'fb',
+                url: 'https://www.facebook.com/profile.php?id=100057989211005'
+            },
+             {
+                id: 1,
+                type: 'insta',
+                url: 'https://www.instagram.com/__bharat__14__/'
+            }
+        ]
+    },
+      {
         entryNum: 1010,
         name: "Chirag Kansal",
         image: '/assets/2020ME21010.jpg',
