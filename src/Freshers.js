@@ -52,5 +52,25 @@ export const FRESHERS = [
         image: '/assets/cardImg.png',
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
+    },
+    {
+        entryNum: 1010,
+        name: "Chirag Kansal",
+        image: '/assets/2020ME21010.jpg',
+        branch: "ME2",
+        about: 'Waiting for college in-campus experience😔',
+        contact: [
+            {
+                id: 0,
+                type: 'insta',
+                url: 'https://instagram.com/chirag.kansal11/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/chirag.kansal.9277/'
+            }
+        ]
     }
+
 ];
