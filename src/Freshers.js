@@ -33,16 +33,16 @@ export const FRESHERS = [
         ]
     },
     {
-        entryNum: 3,
-        name : "ABCD",
-        image: '/assets/cardImg.png',
-        branch: "cs5",
-        about: 'Nothing much',
+        entryNum: 700,
+        name : "Ishaan Jain",
+        image: 'public/assets/2020PH10700.PNG',
+        branch: "EP",
+        about: 'Bonjour People.!! I am in EP dept. cause of my first love physics and astronomy. I am a proud Nerd.And I love this innitative by DevClub to teach us Git&bash.',
         contact: [
             {
-                id: 0,
-                type: 'fb',
-                url: 'https://www.facebook.com/'
+                id: 1,
+                type: 'insta',
+                url: 'https://www.instagram.com/ishaanjain_astrophile/'
             },
         ]
     },
