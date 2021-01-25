@@ -61,6 +61,20 @@ export const FRESHERS = [
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
+    {
+        entryNum: 1010,
+        name: "Chirag Kansal",
+        image: '/assets/2020ME21010.jpg',
+        branch: "ME2",
+        about: 'Waiting for college on-campus experience😔',
+        contact: [
+            {
+                id: 0,
+                type: 'insta',
+                url: 'https://instagram.com/chirag.kansal11/'
+  }
+  ]
+},
     { entryNum: 1175,
         name: "Tejaswini Nathawat",
         branch: "tt1"
@@ -222,7 +236,6 @@ export const FRESHERS = [
         image: '/assets/jsb.jpg',
         branch: "TT1",
         about: 'I like to Code.',
-
         contact: [
             {
                 id: 0,
