@@ -58,7 +58,7 @@ export const FRESHERS = [
         name: "Chirag Kansal",
         image: '/assets/2020ME21010.jpg',
         branch: "ME2",
-        about: 'Waiting for college in-campus experience😔',
+        about: 'Waiting for college on-campus experience😔',
         contact: [
             {
                 id: 0,
