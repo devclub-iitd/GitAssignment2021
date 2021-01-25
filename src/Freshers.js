@@ -69,7 +69,7 @@ export const FRESHERS = [
         
     },
   {
-        entryNum: 0488,
+        entryNum: 488,
         name : "Divyansh Agarrwal",
         image: '/assets/cardImg.png',
         branch: "EE1",
@@ -380,15 +380,20 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/reedam.dhake/'
             }
         ]
-    }
-,
-{
-    entryNum: 896,
-    name : "Vishvesh Patel",
-    image: '/assets/cardImg.png',
-    branch: "MT6",
-    about: 'Interested in mathematics.I want to learn coding',
-
-},
+    },
+  {
+        entryNum: 896,
+        name : "Vishvesh Patel",
+        image: '/assets/cardImg.png',
+        branch: "MT6",
+        about: 'Interested in mathematics.I want to learn coding',
+    },
+  {
+        entryNum: 344,
+        name: "Devanshi Khatsuriya",
+        image: '/assets/cardImg.png',
+        branch: "CS1",
+        about: 'Nothing much',
+    },
 ];
         
