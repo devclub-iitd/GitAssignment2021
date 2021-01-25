@@ -19,16 +19,16 @@ export const FRESHERS = [
         ]
     },
     {
-        entryNum: 2,
-        name : "XYZ",
-        image: '/assets/cardImg.png',
-        branch: "tt1",
-        about: 'I like to play cricket. Eat, Sleep, Repeat.',
+        entryNum: 648,
+        name : "Deepit Patil",
+        image: 'https://www.instagram.com/p/CGJvm06pdN9/',
+        branch: "ECM",
+        about: 'I like to code and play table tennis.',
         contact: [
             {
                 id: 0,
                 type: "insta",
-                url: 'https://www.instagram.com/'
+                url: 'https://www.instagram.com/deepit_patil/'
             }
         ]
     },
