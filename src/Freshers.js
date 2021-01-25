@@ -225,5 +225,14 @@ export const FRESHERS = [
         image: 'https://images.indianexpress.com/2020/01/Sreemanti-759.jpg',
         branch: "CS1",
         about: 'Love reading and writing. Love badminton. Wish to learn competitive coding, webdev and swimming',
-    }
+    },
+    {
+        entryNum: 841,
+        name : "Saksham Singh",
+        image: '/assets/saksham.png',
+        branch: "MT1",
+        about: 'Like playing the guitar and football. (Newbie) Coding enthusiast.',
+    },
 ];
+        
+ 
