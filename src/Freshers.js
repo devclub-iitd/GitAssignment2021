@@ -62,7 +62,7 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
-        entryNum: 0488,
+        entryNum: 488,
         name : "Divyansh Agarrwal",
         image: '/assets/cardImg.png',
         branch: "EE1",
