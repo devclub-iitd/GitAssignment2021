@@ -368,7 +368,7 @@ export const FRESHERS = [
     entryNum: 934,
     name: 'Harsh Vardhan Singh',
     image: 'blob:https://web.whatsapp.com/f12b5972-6915-4aa6-8de3-6485b39b38d4',
-    branch: 'ME1'
+    branch: 'ME1',
     about: 'Intrested in Mathmatics , Astronomy.I Want to learn Coding',
 },
 ];
