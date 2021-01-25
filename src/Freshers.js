@@ -395,5 +395,24 @@ export const FRESHERS = [
         branch: "CS1",
         about: 'Nothing much',
     },
+  {
+        entryNum: 172,
+        name : 'Hemant Prakash Singh',
+        image: '/assets/2019CH70172.jpeg',
+        branch: 'CH7',
+        about: 'I am a second year chemical department student. I am passionate about coding. I have a good hand on C++ language and want to learn more like web development and programming.',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/hemantprakash10/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/hemant.prakash.169/'
+            }
+        ]
+    }, 
 ];
         
