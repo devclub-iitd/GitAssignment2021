@@ -239,7 +239,7 @@ export const FRESHERS = [
                 id: 0,
                 type: 'fb',
                 url: 'https://www.facebook.com/rohanstarone/'
-            }
+            },
             {
                 id: 1,
                 type: 'insta',
