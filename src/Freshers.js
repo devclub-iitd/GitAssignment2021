@@ -43,7 +43,7 @@ export const FRESHERS = [
                 id: 0,
                 type: 'fb',
                 url: 'https://www.facebook.com/'
-            }
+            },
         ]
     },
     
@@ -60,6 +60,70 @@ export const FRESHERS = [
         image: '/assets/cardImg.png',
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
+    },
+    {
+        entryNum: 587,
+        name : "Bharat Kumar",
+        image: '/assets/2020EE30587.jpeg',
+        branch: "ee3",
+        about: 'Badminton player, basketball player, love coding, optimistic, fast learner, love talking to people',
+        contact: [
+            {
+                id: 0,
+                type: 'fb',
+                url: 'https://www.facebook.com/profile.php?id=100057989211005'
+            },
+             {
+                id: 1,
+                type: 'insta',
+                url: 'https://www.instagram.com/__bharat__14__/'
+            }
+        ]
+    },
+      {
+        entryNum: 1010,
+        name: "Chirag Kansal",
+        image: '/assets/2020ME21010.jpg',
+        branch: "ME2",
+        about: 'Waiting for college on-campus experience😔',
+        contact: [
+            {
+                id: 0,
+                type: 'insta',
+                url: 'https://instagram.com/chirag.kansal11/'
+  }
+  ]
+},
+    { entryNum: 1175,
+        name: "Tejaswini Nathawat",
+        branch: "tt1"
+},
+    {
+        entryNum: 911,
+        name : "Anish Roy",
+        image: 'https://i.pinimg.com/originals/ca/80/1a/ca801a860d0bc507e21b2f4a1b0d463f.png',
+        branch: "ME1",
+        about: 'Just living a life and shizz; Like watching football and reading books ',
+    },
+      {
+        name : 'Tanish Tuteja',
+        image: '/assets/2020CS10398.jpg',
+        branch: 'CS1',
+        about: 'I almost always have my headphones on cuz music is life. Wathcing TV series is a great utilization (read : wastage) of time. TBBT is an awesome series. Aur haan, coding bhi kar leta hoon :) P.S. I\'m learning guitar, man it\'s tough.',
+         contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/tanish_tuteja/'
+            }
+        ]
+    },
+  {
+        entryNum: 840,
+        name : "Sachit Sachdeva",
+        image: 'https://www.bing.com/images/search?view=detailV2&ccid=4%2bswZSVM&id=5D21EDF0A7553EE4B3B78C5EA1FB99F2D58C4DB6&thid=OIP.4-swZSVMu51RK50IyAjC1QHaEK&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fRe3eb3065254cbb9d512b9d08c808c2d5%3frik%3dtk2M1fKZ%252b6FejA%26riu%3dhttp%253a%252f%252fwww.pixelstalk.net%252fwp-content%252fuploads%252f2016%252f10%252fDesktop-nature-photo-hd-download-free.jpg%26ehk%3d5%252b5QNpcF%252blOtAonShvE%252froQCCQzfUdi7WbxIockMBzY%253d%26risl%3d%26pid%3dImgRaw&exph=1080&expw=1920&q=photo&simid=608030484809713154&ck=1988A282876F9AF9D7CB988892C9408D&selectedIndex=0&FORM=IRPRST&ajaxhist=0',
+        branch: "MT1",
+        about: 'nothing much',
     },
    {
         entryNum: 507,
@@ -191,7 +255,6 @@ export const FRESHERS = [
         image: '/assets/jsb.jpg',
         branch: "TT1",
         about: 'I like to Code.',
-
         contact: [
             {
                 id: 0,
@@ -233,6 +296,34 @@ export const FRESHERS = [
         branch: "MT1",
         about: 'Like playing the guitar and football. (Newbie) Coding enthusiast.',
     },
+  {
+        entryNum: 372,
+        name : 'Reedam Dhake',
+        image: '/assets/2020CS10372.jpeg',
+        branch: 'CS1',
+        about: 'I  like playing football and chess. Love exploring music tracks and singing them. I read a lot of novels and binge watch movies. Looking forward to join DevClub and develop an app of my own.',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/reedamdhake/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/reedam.dhake/'
+            }
+        ]
+    }
+,
+{
+    entryNum: 896,
+    name : "Vishvesh Patel",
+    image: '/assets/cardImg.png',
+    branch: "MT6",
+    about: 'Interested in mathematics.I want to learn coding',
+
+},
 ];
         
  
