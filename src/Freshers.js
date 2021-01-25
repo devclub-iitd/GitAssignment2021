@@ -62,6 +62,13 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
+        entryNum: 374,
+        name : "riya",
+        image: '/assets/cardImg.png',
+        branch: "cs1",
+        
+    },
+  {
         entryNum: 488,
         name : "Divyansh Agarrwal",
         image: '/assets/cardImg.png',
@@ -323,6 +330,25 @@ export const FRESHERS = [
         about: 'Love reading and writing. Love badminton. Wish to learn competitive coding, webdev and swimming',
     },
     {
+        entryNum:394,
+        name : "Stitiprajna Sahoo",
+        image: 'http://davcsp.org/File/50/Stitiprajna%20Sahoo.jpg',
+        branch: "CS1",
+        about: 'Passionate about singing. Simple girl',
+        contact: [
+            {
+                id: 'Stitiprajna Sahoo',
+                type: 'fb',
+                url: 'https://www.facebook.com/stitiprajna.sahoo.3/'
+            },
+            {
+                id: 'stiti_sahoo',
+                type: 'insta',
+                url: 'https://www.instagram.com/stiti_sahoo/?hl=en'
+            },
+        ]
+    },
+    {
         entrynum: 313,
         name: "Vibhor Sengar",
         image: '/assets/cardImg.png',
@@ -354,8 +380,7 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/reedam.dhake/'
             }
         ]
-    }
-,
+    },
 {
     entryNum: 896,
     name : "Vishvesh Patel",
@@ -371,6 +396,26 @@ export const FRESHERS = [
     branch: 'ME1',
     about: 'Intrested in Mathmatics , Astronomy.I Want to learn Coding',
 },
+  {
+        entryNum: 896,
+        name : "Vishvesh Patel",
+        image: '/assets/cardImg.png',
+        branch: "MT6",
+        about: 'Interested in mathematics.I want to learn coding',
+    },
+  {
+        entryNum: 344,
+        name: "Devanshi Khatsuriya",
+        image: '/assets/cardImg.png',
+        branch: "CS1",
+        about: 'Nothing much',
+    },
+    {
+        entryNum: 938,
+        name: "Ishan Jain",
+        image: '/assets/cardImg.png',
+        branch: "ME1",
+        about: 'Born to be an Engineer',
+    },
 ];
         
- 
