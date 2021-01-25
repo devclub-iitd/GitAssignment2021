@@ -364,6 +364,25 @@ export const FRESHERS = [
     about: 'Interested in mathematics.I want to learn coding',
 
 },
+{
+    entryNum: 349,
+    name : 'Hemank Bajaj',
+    image: '/assets/2020CS10349.jpg',
+    branch: 'CS1',
+    about: 'I like badminton,swimming and atheletics. I am very fond of music(EDM particularly). I hope to learn many new things from DevClub, IITD. ',
+    contact: [
+        {
+            id: 0,
+            type: "insta",
+            url: 'https://www.instagram.com/hemankbajaj/'
+        },
+        {
+            id: 1,
+            type: 'fb',
+            url: 'https://www.facebook.com/hemank.bajaj.7/'
+        }
+    ]
+},
 ];
         
  
