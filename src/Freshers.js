@@ -500,5 +500,19 @@ export const FRESHERS = [
         branch: "ME1",
         about: 'Born to be an Engineer',
     },
+    {
+        entryNum: 338,
+        name:"Daksh Khandelwal",
+        image: 'https://iitd-freshers2020.netlify.app/assets/cardImg.png',
+        branch: "CS1",
+        about: 'nothing much',
+        contact: [
+            {
+                id: 0,
+                type:'insta',
+                url: 'https://www.instagram.com/dakshkhandelwal1201'
+            },
+         ]   
+   },
 ];
         
