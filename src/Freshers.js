@@ -453,6 +453,20 @@ export const FRESHERS = [
         branch: "CS1",
         about: 'Nothing much',
     },
+ {
+        entryNum: 475,
+        name: "Aryan Dua",
+        image: '/assets/2020EE10475.jpg',
+        branch: "EE1",
+        about: 'Coding and robotics enthusiast, enjoys memeing. Youtube channel - https://www.youtube.com/c/tan90cot0',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/tan90cot0/?hl=en'
+            },
+        ]
+ },
   {
         entryNum: 172,
         name : 'Hemant Prakash Singh',
