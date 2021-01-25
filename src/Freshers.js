@@ -391,6 +391,13 @@ export const FRESHERS = [
 
 },
 {
+    entryNum: 385,
+    name : "Shreyansh Singh",
+    image: '/assets/2020CS10385.jpeg',
+    branch: "CS1",
+    about: 'Love badminton and Rubiks cube',    
+},
+{
     entryNum: 349,
     name : 'Hemank Bajaj',
     image: '/assets/2020CS10349.jpg',
