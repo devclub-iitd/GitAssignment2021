@@ -380,8 +380,7 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/reedam.dhake/'
             }
         ]
-    }
-,
+    },
 {
     entryNum: 896,
     name : "Vishvesh Patel",
@@ -390,4 +389,67 @@ export const FRESHERS = [
     about: 'Interested in mathematics.I want to learn coding',
 
 },
+{ 
+    entryNum: 66,
+    name: "Yashdeep",
+    image: '/assets/2020BB10066.jpg',
+    branch: "BB1",
+    about: 'I love badminton and kabaddi. Sometimes read novels. Watching movies is my favourite timepass.',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/yashdeep0011/'
+        }
+    ]
+
+},
+{
+    entryNum: 934,
+    name: 'Harsh Vardhan Singh',
+    image: '',
+    branch: 'ME1',
+    about: 'Intrested in Mathmatics , Astronomy.I Want to learn Coding',
+},
+  {
+        entryNum: 896,
+        name : "Vishvesh Patel",
+        image: '/assets/cardImg.png',
+        branch: "MT6",
+        about: 'Interested in mathematics.I want to learn coding',
+    },
+  {
+        entryNum: 344,
+        name: "Devanshi Khatsuriya",
+        image: '/assets/cardImg.png',
+        branch: "CS1",
+        about: 'Nothing much',
+    },
+  {
+        entryNum: 172,
+        name : 'Hemant Prakash Singh',
+        image: '/assets/2019CH70172.jpeg',
+        branch: 'CH7',
+        about: 'I am a second year chemical department student. I am passionate about coding. I have a good hand on C++ language and want to learn more like web development and programming.',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/hemantprakash10/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/hemant.prakash.169/'
+            }
+        ]
+    }, 
+    {
+        entryNum: 938,
+        name: "Ishan Jain",
+        image: '/assets/cardImg.png',
+        branch: "ME1",
+        about: 'Born to be an Engineer',
+    },
 ];
+        
