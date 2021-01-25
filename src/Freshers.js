@@ -381,6 +381,21 @@ export const FRESHERS = [
             }
         ]
     },
+{
+    entryNum: 896,
+    name : "Vishvesh Patel",
+    image: '/assets/cardImg.png',
+    branch: "MT6",
+    about: 'Interested in mathematics.I want to learn coding',
+
+},
+{
+    entryNum: 934,
+    name: 'Harsh Vardhan Singh',
+    image: '',
+    branch: 'ME1',
+    about: 'Intrested in Mathmatics , Astronomy.I Want to learn Coding',
+},
   {
         entryNum: 896,
         name : "Vishvesh Patel",
@@ -414,5 +429,12 @@ export const FRESHERS = [
             }
         ]
     }, 
+    {
+        entryNum: 938,
+        name: "Ishan Jain",
+        image: '/assets/cardImg.png',
+        branch: "ME1",
+        about: 'Born to be an Engineer',
+    },
 ];
         
