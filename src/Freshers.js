@@ -43,7 +43,7 @@ export const FRESHERS = [
                 id: 0,
                 type: 'fb',
                 url: 'https://www.facebook.com/'
-            }
+            },
         ]
     },
     
@@ -66,7 +66,13 @@ export const FRESHERS = [
         branch: "tt1"
 },
     {
-        entryNum: 398,
+        entryNum: 911,
+        name : "Anish Roy",
+        image: 'https://i.pinimg.com/originals/ca/80/1a/ca801a860d0bc507e21b2f4a1b0d463f.png',
+        branch: "ME1",
+        about: 'Just living a life and shizz; Like watching football and reading books ',
+    },
+      {
         name : 'Tanish Tuteja',
         image: '/assets/2020CS10398.jpg',
         branch: 'CS1',
