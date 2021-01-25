@@ -62,6 +62,13 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
+        entryNum: 374,
+        name : "riya",
+        image: '/assets/cardImg.png',
+        branch: "cs1",
+        
+    },
+  {
         entryNum: 488,
         name : "Divyansh Agarrwal",
         image: '/assets/cardImg.png',
@@ -323,6 +330,25 @@ export const FRESHERS = [
         about: 'Love reading and writing. Love badminton. Wish to learn competitive coding, webdev and swimming',
     },
     {
+        entryNum:394,
+        name : "Stitiprajna Sahoo",
+        image: 'http://davcsp.org/File/50/Stitiprajna%20Sahoo.jpg',
+        branch: "CS1",
+        about: 'Passionate about singing. Simple girl',
+        contact: [
+            {
+                id: 'Stitiprajna Sahoo',
+                type: 'fb',
+                url: 'https://www.facebook.com/stitiprajna.sahoo.3/'
+            },
+            {
+                id: 'stiti_sahoo',
+                type: 'insta',
+                url: 'https://www.instagram.com/stiti_sahoo/?hl=en'
+            },
+        ]
+    },
+    {
         entrynum: 313,
         name: "Vibhor Sengar",
         image: '/assets/cardImg.png',
@@ -371,4 +397,3 @@ export const FRESHERS = [
     },
 ];
         
- 
