@@ -62,6 +62,13 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
+        entryNum: 374,
+        name : "riya",
+        image: '/assets/cardImg.png',
+        branch: "cs1",
+        
+    },
+  {
         entryNum: 0488,
         name : "Divyansh Agarrwal",
         image: '/assets/cardImg.png',
@@ -385,4 +392,3 @@ export const FRESHERS = [
 },
 ];
         
-
