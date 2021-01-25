@@ -19,16 +19,16 @@ export const FRESHERS = [
         ]
     },
     {
-        entryNum: 2,
-        name : "XYZ",
-        image: '/assets/cardImg.png',
-        branch: "tt1",
-        about: 'I like to play cricket. Eat, Sleep, Repeat.',
+        entryNum: 648,
+        name : "Deepit Patil",
+        image: 'https://www.instagram.com/p/CGJvm06pdN9/',
+        branch: "ECM",
+        about: 'I like to code and play table tennis.',
         contact: [
             {
                 id: 0,
                 type: "insta",
-                url: 'https://www.instagram.com/'
+                url: 'https://www.instagram.com/deepit_patil/'
             }
         ]
     },
@@ -43,7 +43,7 @@ export const FRESHERS = [
                 id: 0,
                 type: 'fb',
                 url: 'https://www.facebook.com/'
-            }
+            },
         ]
     },
     
@@ -81,6 +81,84 @@ export const FRESHERS = [
         ]
     },
       {
+        entryNum: 1010,
+        name: "Chirag Kansal",
+        image: '/assets/2020ME21010.jpg',
+        branch: "ME2",
+        about: 'Waiting for college on-campus experience😔',
+        contact: [
+            {
+                id: 0,
+                type: 'insta',
+                url: 'https://instagram.com/chirag.kansal11/'
+  }
+  ]
+},
+    { entryNum: 1175,
+        name: "Tejaswini Nathawat",
+        branch: "tt1"
+},
+    {
+        entryNum: 911,
+        name : "Anish Roy",
+        image: 'https://i.pinimg.com/originals/ca/80/1a/ca801a860d0bc507e21b2f4a1b0d463f.png',
+        branch: "ME1",
+        about: 'Just living a life and shizz; Like watching football and reading books ',
+    },
+      {
+        name : 'Tanish Tuteja',
+        image: '/assets/2020CS10398.jpg',
+        branch: 'CS1',
+        about: 'I almost always have my headphones on cuz music is life. Wathcing TV series is a great utilization (read : wastage) of time. TBBT is an awesome series. Aur haan, coding bhi kar leta hoon :) P.S. I\'m learning guitar, man it\'s tough.',
+         contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/tanish_tuteja/'
+            }
+        ]
+    },
+  {
+        entryNum: 840,
+        name : "Sachit Sachdeva",
+        image: 'https://www.bing.com/images/search?view=detailV2&ccid=4%2bswZSVM&id=5D21EDF0A7553EE4B3B78C5EA1FB99F2D58C4DB6&thid=OIP.4-swZSVMu51RK50IyAjC1QHaEK&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fRe3eb3065254cbb9d512b9d08c808c2d5%3frik%3dtk2M1fKZ%252b6FejA%26riu%3dhttp%253a%252f%252fwww.pixelstalk.net%252fwp-content%252fuploads%252f2016%252f10%252fDesktop-nature-photo-hd-download-free.jpg%26ehk%3d5%252b5QNpcF%252blOtAonShvE%252froQCCQzfUdi7WbxIockMBzY%253d%26risl%3d%26pid%3dImgRaw&exph=1080&expw=1920&q=photo&simid=608030484809713154&ck=1988A282876F9AF9D7CB988892C9408D&selectedIndex=0&FORM=IRPRST&ajaxhist=0',
+        branch: "MT1",
+        about: 'nothing much',
+    },
+   {
+        entryNum: 507,
+        name : "Kunal",
+        image: '/assets/cardImg.png',
+        branch: "EE1",
+        about: 'I like to play badminton,smoke,drink, Repeat.',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/kunalshahi.qxq'
+            }
+        ]
+},
+    {
+        entryNum: 140,
+        name : "Tanya Goyal",
+        image: '/assets/Tanya.jpg',
+        branch: "CH1",
+        about: 'Love to learn and explore new fields. Never learned coding but always wanted to, though not the way it is being taught in college. Lastly, Hail Satan! Hail Hydra! ',
+        contact: [
+            {
+                id: 1,
+                type: 'insta',
+                url: 'https://www.instagram.com/tanyagoyal07/'
+            },
+            {
+                id: 2,
+                type: 'fb',
+                url: 'https://www.facebook.com/tanya.goyal.10485546'
+            }
+         ]   
+},
+  {
         entryNum: 776,
         name : 'AADIL AKHTAR',
         image: '/assets/2020MT10776.jpg',
@@ -210,5 +288,14 @@ export const FRESHERS = [
         image: 'https://images.indianexpress.com/2020/01/Sreemanti-759.jpg',
         branch: "CS1",
         about: 'Love reading and writing. Love badminton. Wish to learn competitive coding, webdev and swimming',
-    }
+    },
+
+{
+    entryNum: 896,
+    name : "Vishvesh Patel",
+    image: '/assets/cardImg.png',
+    branch: "MT6",
+    about: 'Interested in mathematics.I want to learn coding',
+
+},
 ];
