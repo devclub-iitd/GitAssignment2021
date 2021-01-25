@@ -225,5 +225,12 @@ export const FRESHERS = [
         image: 'https://images.indianexpress.com/2020/01/Sreemanti-759.jpg',
         branch: "CS1",
         about: 'Love reading and writing. Love badminton. Wish to learn competitive coding, webdev and swimming',
+    },
+    {
+        entrynum: 313,
+        name: "Vibhor Sengar",
+        image: '/assets/cardImg.png',
+        branch: "CE1",
+        about: 'I am ready to learn evrything',
     }
 ];
