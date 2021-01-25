@@ -358,15 +358,7 @@ export const FRESHERS = [
     name : "Shreyansh Singh",
     image: '/assets/2020CS10385.jpeg',
     branch: "CS1",
-    about: 'Love badminton and Rubiks cube',
-    contact:
-    [
-        {
-            id: 0,
-            type: 'insta',
-            url: 'https://www.instagram.com/shrey.sgh'
-        }
-    ]    
+    about: 'Love badminton and Rubiks cube',    
 }
 
 
