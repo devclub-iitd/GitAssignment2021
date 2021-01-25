@@ -395,5 +395,12 @@ export const FRESHERS = [
         branch: "CS1",
         about: 'Nothing much',
     },
+    {
+        entryNum: 938,
+        name: "Ishan Jain",
+        image: '/assets/cardImg.png',
+        branch: "ME1",
+        about: 'Born to be an Engineer',
+    },
 ];
         
