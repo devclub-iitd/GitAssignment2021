@@ -227,3 +227,25 @@ export const FRESHERS = [
         about: 'Love reading and writing. Love badminton. Wish to learn competitive coding, webdev and swimming',
     }
 ];
+{
+        entryNum: 394,
+        name : "Stitiprajna Sahoo",
+        image: 'http://davcsp.org/File/50/Stitiprajna%20Sahoo.jpg'
+        branch: "CS1",
+        about: 'Passionate about singing. Simple girl',
+        contact: [
+            {
+                id: 'Stitiprajna Sahoo',
+                type: 'fb',
+                url: 'https://www.facebook.com/stitiprajna.sahoo.3/'
+            },
+            {
+                id: 'stiti_sahoo',
+                type: 'insta',
+                url: 'https://www.instagram.com/stiti_sahoo/?hl=en'
+            },
+        ]
+}
+
+
+
