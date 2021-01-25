@@ -312,6 +312,13 @@ export const FRESHERS = [
         about: 'Love reading and writing. Love badminton. Wish to learn competitive coding, webdev and swimming',
     },
     {
+        entrynum: 313,
+        name: "Vibhor Sengar",
+        image: '/assets/cardImg.png',
+        branch: "CE1",
+        about: 'I am ready to learn evrything',
+    },
+  {
         entryNum: 841,
         name : "Saksham Singh",
         image: '/assets/cardImg.png',
