@@ -353,6 +353,7 @@ export const FRESHERS = [
     about: 'Interested in mathematics.I want to learn coding',
 
 },
+
 {
     entryNum: 385,
     name : "Shreyansh Singh",
@@ -363,4 +364,4 @@ export const FRESHERS = [
 
 
         
- 
+]
