@@ -1,5 +1,19 @@
 export const FRESHERS = [
     {
+        entryNum: 461,
+        name : 'Aditya Singh',
+        image: '/assets/2020EE10461.jpg',
+        branch: 'Electrical Engineering',
+        about: 'Just figuring things out',
+        contact: [
+            {
+                id: 0,
+                type: 'fb',
+                url: 'https://www.facebook.com/aditya.singh.dgr8/'
+            }
+        ]
+    },
+    {
         entryNum: 351,
         name : 'Kartik Sharma',
         image: '/assets/2020CS10351.jpeg',
