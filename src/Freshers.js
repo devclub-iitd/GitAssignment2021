@@ -687,4 +687,18 @@ export const FRESHERS = [
         }
     ]
 },
+{
+    entryNum: 342,
+    name : 'Divyansh Mittal',
+    image: 'https://tenor.com/view/rick-ashtley-never-gonna-give-up-rick-roll-gif-4819894',
+    branch: 'CS1',
+    about: 'COL ka assignment karliya, jo mera about padh rhe ho',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/divyanshmittal.exe/?hl=en'
+        }
+    ]
+    },
 ];
