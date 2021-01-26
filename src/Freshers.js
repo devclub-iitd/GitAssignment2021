@@ -573,6 +573,13 @@ export const FRESHERS = [
         about: 'Born to be an Engineer',
     },
     {
+        entryNum: 424,
+        name: "Eshan Jain",
+        image: '/assets/cardImg.png',
+        branch: "CS5",
+        about: "I am a Gaming Enthusiast who likes to play cricket,chess and piano.I am also a tech freak and look forward to all kinds of new technologies.",
+    },
+  {
         entryNum: 69,
         name: "Abhijeet Gautam",
         image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
