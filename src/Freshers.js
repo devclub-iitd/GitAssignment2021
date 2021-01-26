@@ -510,6 +510,13 @@ export const FRESHERS = [
         branch: "CS1",
         about: 'Nothing much',
     },
+  {
+        entryNum: 494,
+        name: "Goonjan Saha",
+        image: '/assets/cardImg.png',
+        branch: "EE1",
+        about: 'Nothing much',
+    },
     {
         entryNum:386,
         name:"Sibasish Rout",
