@@ -500,5 +500,21 @@ export const FRESHERS = [
         branch: "ME1",
         about: 'Born to be an Engineer',
     },
+
+    {
+        entryNum: 761,
+        name : "Rajat Gupta",
+        image: '/assets/2020MS10761.jpeg',
+        branch: "MS1",
+        about: 'I am a First year student and I am passionate about software development',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/hemantprakash10/'
+            }
+            
+        ]
+    },
 ];
         
