@@ -301,7 +301,7 @@ export const FRESHERS = [
 {
     entryNum: 643,
     name : "Ashutosh Sharma",
-    image: '\assets\2020AM10643.jpg',
+    image: '/assets/2020AM10643.jpg',
     branch: "AM1",
     about: 'Love to play music, think about mechanical systems and my optional subject during last two years at school also got me interested in coding.',
 
