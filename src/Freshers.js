@@ -565,6 +565,25 @@ export const FRESHERS = [
         branch: "ME1",
         about: 'Born to be an Engineer',
     },
+{
+    entryNum: 573,
+    name : 'Aditya Agrawal',
+    image: '/assets/cardImg.png',
+    branch: 'EE3',
+    about: 'Interested in mathematics, physics and coding. Enjoy reading',
+    contact: [
+        {
+            id: 0,
+            type: "insta",
+            url: 'https://www.instagram.com/aditya07agrawal/'
+        },
+        {
+            id: 1,
+            type: 'fb',
+            url: 'https://www.facebook.com/profile.php?id=100019589294703'
+        }
+    ]
+},
     {
         entryNum: 761,
         name : "Rajat Gupta",
@@ -595,4 +614,4 @@ export const FRESHERS = [
          ]   
    },
 ];
-        
+
