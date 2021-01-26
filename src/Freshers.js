@@ -511,7 +511,7 @@ export const FRESHERS = [
             {
                 id: 0,
                 type: "insta",
-                url: 'https://www.instagram.com/hemantprakash10/'
+                url: 'https://www.instagram.com/rajat_gupta02/'
             }
             
         ]
