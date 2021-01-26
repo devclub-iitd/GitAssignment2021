@@ -500,5 +500,24 @@ export const FRESHERS = [
         branch: "ME1",
         about: 'Born to be an Engineer',
     },
+    {
+        entryNum: 771,
+        name : 'Shubham Varshneya',
+        image: '/assets/2020MS10771.jpg',
+        branch: 'MS1',
+        about: 'Just wanna learn to code',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/shubham.varshneya/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/shubham.varshneya/'
+            }
+        ]
+    }, 
 ];
         
