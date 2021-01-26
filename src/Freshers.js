@@ -545,6 +545,21 @@ export const FRESHERS = [
         about: 'Born to be an Engineer',
     },
     {
+        entryNum: 761,
+        name : "Rajat Gupta",
+        image: '/assets/2020MS10761.jpeg',
+        branch: "MS1",
+        about: 'I am a First year student and I am passionate about software development',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/rajat_gupta02/'
+            }
+            
+        ]
+    },
+    {
         entryNum: 338,
         name:"Daksh Khandelwal",
         image: 'https://iitd-freshers2020.netlify.app/assets/cardImg.png',
