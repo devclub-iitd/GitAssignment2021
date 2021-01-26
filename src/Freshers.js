@@ -502,3 +502,18 @@ export const FRESHERS = [
     },
 ];
         
+{
+    entryNum: 82;
+    name: 'Ayush Kumar Baranwal';
+    image: '/assets/cardImg.png';
+    branch: 'CH1';
+    about: 'I love to play video games and watch web series. I am alos very intersted in web and video game development. I alos play basketball and love music. i know a little web development and have made a few simple games on blender.';
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/cybershot_x/',
+        }
+    ]
+};
+    
