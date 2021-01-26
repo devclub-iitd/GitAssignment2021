@@ -226,4 +226,11 @@ export const FRESHERS = [
         branch: "CS1",
         about: 'Love reading and writing. Love badminton. Wish to learn competitive coding, webdev and swimming',
     }
+  {
+        entryNum: 812,
+        name : "Kartik Rastogi",
+        image: '/assets/cardImg.png',
+        branch: "MT1",
+        about: 'Nothing Interesting.',
+    }
 ];
