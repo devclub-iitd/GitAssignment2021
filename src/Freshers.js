@@ -500,5 +500,18 @@ export const FRESHERS = [
         branch: "ME1",
         about: 'Born to be an Engineer',
     },
-];
-        
+{
+        entryNum: 358,
+        name:"Manthan Dalmia",
+        image: '/assets/cardImg.png',
+        branch: "CS1",
+        about: "I like to play badminton and intrested in sketching.I also love mobile photography and have intrest in physics",git statu
+        contact: [
+            {
+              id:0,
+              type:"insta",
+              url: 'https://www.instagram.com/manthan.dalmia/'
+            }
+        ]
+    },
+]; 
