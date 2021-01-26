@@ -33,16 +33,16 @@ export const FRESHERS = [
         ]
     },
     {
-        entryNum: 3,
-        name : "ABCD",
-        image: '/assets/cardImg.png',
-        branch: "cs5",
-        about: 'Nothing much',
+        entryNum: 700,
+        name : "Ishaan Jain",
+        image: '/assets/2020PH10700.PNG',
+        branch: "EP",
+        about: 'Bonjour People.!! I am in EP dept. cause of my first love physics and astronomy. I am a proud Nerd.And I love this innitative by DevClub to teach us Git&bash.',
         contact: [
             {
-                id: 0,
-                type: 'fb',
-                url: 'https://www.facebook.com/'
+                id: 1,
+                type: 'insta',
+                url: 'https://www.instagram.com/ishaanjain_astrophile/'
             },
         ]
     },
@@ -178,7 +178,7 @@ export const FRESHERS = [
                 url: 'https://www.instagram.com/kunalshahi.qxq'
             }
         ]
-},
+    },
     {
         entryNum: 140,
         name : "Tanya Goyal",
@@ -197,8 +197,8 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/tanya.goyal.10485546'
             }
          ]   
-},
-  {
+    },
+    {
         entryNum: 776,
         name : 'AADIL AKHTAR',
         image: '/assets/2020MT10776.jpg',
@@ -211,8 +211,8 @@ export const FRESHERS = [
                 url: 'https://www.instagram.com/aadil_akhtar_3402/'
             }
         ]
-},
-  {
+    },
+    { 
         entryNum: 447,
         name : 'Vaibhav Agarwal',
         image: '/assets/2020CS50447.jpeg',
@@ -225,8 +225,8 @@ export const FRESHERS = [
                 url: 'https://www.instagram.com/vaibhavag31/'
             }
         ]
-},
-  {
+    },
+    {
         entryNum: 795,
         name : "Chaxu Garg",
         image : '/assets/Chaxu.jpeg',
@@ -240,7 +240,7 @@ export const FRESHERS = [
             }
         ]
     },
-  {
+    {
         entryNum: 639,
         name : "Amod",
         image: '/assets/cardImg.png',
@@ -253,8 +253,8 @@ export const FRESHERS = [
                 url: 'https://www.instagram.com/__a.mod__/'
             }
         ]
-},
-  {
+    },
+    {
         entryNum: 649,
         name : "Geetansh Juneja",
         image: '/assets/cardImg.png',
@@ -268,7 +268,7 @@ export const FRESHERS = [
             }
         ]
     },
-{
+    {
         entryNum: "2020CS10326",
         name : "Arin Kedia",
         image: '/assets/cardImg.png',
@@ -282,14 +282,14 @@ export const FRESHERS = [
             }
         ]
     },
-      {
+    {
         entryNum: 336,
         name : "CHINMAYMITTAL",
         image: 'https://qph.fs.quoracdn.net/main-thumb-536223418-200-ttyantfkjeettdrjbgiljezgfaularsh.jpeg',
         branch: "CS1",
         about: 'Nothing much',
     }, 
-      {
+    {
         entryNum: 1121,
         name : "Jasraj Singh Bhatia",
         image: '/assets/jsb.jpg',
@@ -307,8 +307,8 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/jasrajsb'
             }
         ]
-},
-{
+    },
+    {
         entryNum: 828,
         name : "Nishant",
         image: 'https://i.pinimg.com/736x/2d/11/a3/2d11a390094c8851ec366c4742d37f1c.jpg',
@@ -322,12 +322,33 @@ export const FRESHERS = [
         branch: "EE1",
         about: 'Quizzer by heart (My answer is 42 :p). I want to learn a lot from DevClub IITD to increase my skill-set, improve it, and apply in real life problems.',
     },
-  {
+    {
         entryNum: '0393',
         name : "Sreemanti Dey",
         image: 'https://images.indianexpress.com/2020/01/Sreemanti-759.jpg',
         branch: "CS1",
         about: 'Love reading and writing. Love badminton. Wish to learn competitive coding, webdev and swimming',
+    },
+    {
+        entryNum: 1156,
+        name: "Rohan Vig",
+        image: '/assets/cardImg.png',
+        branch: "TT1",
+        about: "I like sports, music, art, entrepreneurship, coding and open to learn new things everyday :) ",
+        contact: 
+        [
+            {
+                id: 0,
+                type: 'fb',
+                url: 'https://www.facebook.com/rohanstarone/'
+            },
+            {
+                id: 1,
+                type: 'insta',
+                url: 'https://www.instagram.com/givnahor/'
+            }
+        
+        ]
     },
     {
         entryNum:394,
@@ -380,7 +401,72 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/reedam.dhake/'
             }
         ]
+    }
+,
+{
+    entryNum: 896,
+    name : "Vishvesh Patel",
+    image: '/assets/cardImg.png',
+    branch: "MT6",
+    about: 'Interested in mathematics.I want to learn coding',
+
+},
+{
+    entryNum: 385,
+    name : "Shreyansh Singh",
+    image: '/assets/2020CS10385.jpeg',
+    branch: "CS1",
+    about: 'Love badminton and Rubiks cube',    
+},
+{
+    entryNum: 349,
+    name : 'Hemank Bajaj',
+    image: '/assets/2020CS10349.jpg',
+    branch: 'CS1',
+    about: 'I like badminton,swimming and atheletics. I am very fond of music(EDM particularly). I hope to learn many new things from DevClub, IITD. ',
+    contact: [
+        {
+            id: 0,
+            type: "insta",
+            url: 'https://www.instagram.com/hemankbajaj/'
+        },
+        {
+            id: 1,
+            type: 'fb',
+            url: 'https://www.facebook.com/hemank.bajaj.7/'
+        }
+    ]
     },
+{
+    entryNum: 896,
+    name : "Vishvesh Patel",
+    image: '/assets/cardImg.png',
+    branch: "MT6",
+    about: 'Interested in mathematics.I want to learn coding',
+
+},
+{ 
+    entryNum: 66,
+    name: "Yashdeep",
+    image: '/assets/2020BB10066.jpg',
+    branch: "BB1",
+    about: 'I love badminton and kabaddi. Sometimes read novels. Watching movies is my favourite timepass.',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/yashdeep0011/'
+        }
+    ]
+
+},
+{
+    entryNum: 934,
+    name: 'Harsh Vardhan Singh',
+    image: '',
+    branch: 'ME1',
+    about: 'Intrested in Mathmatics , Astronomy.I Want to learn Coding',
+},
   {
         entryNum: 896,
         name : "Vishvesh Patel",
@@ -409,6 +495,46 @@ export const FRESHERS = [
                 url:"https://www.facebook.com/sibasish.rout.92/",
             }
         ]
+},
+ {
+        entryNum: 475,
+        name: "Aryan Dua",
+        image: '/assets/2020EE10475.jpg',
+        branch: "EE1",
+        about: 'Coding and robotics enthusiast, enjoys memeing. Youtube channel - https://www.youtube.com/c/tan90cot0',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/tan90cot0/?hl=en'
+            },
+        ]
+ },
+  {
+        entryNum: 172,
+        name : 'Hemant Prakash Singh',
+        image: '/assets/2019CH70172.jpeg',
+        branch: 'CH7',
+        about: 'I am a second year chemical department student. I am passionate about coding. I have a good hand on C++ language and want to learn more like web development and programming.',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/hemantprakash10/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/hemant.prakash.169/'
+            }
+        ]
+    }, 
+    {
+        entryNum: 938,
+        name: "Ishan Jain",
+        image: '/assets/cardImg.png',
+        branch: "ME1",
+        about: 'Born to be an Engineer',
     },
 ];
         
