@@ -573,6 +573,14 @@ export const FRESHERS = [
         about: 'Born to be an Engineer',
     },
     {
+        entryNum: 69,
+        name: "Abhijeet Gautam",
+        image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
+    
+        branch: "CH1",
+        about: 'softwares and websites fascinate me '
+    },
+  {
         entryNum: 771,
         name : 'Shubham Varshneya',
         image: '/assets/2020MS10771.jpg',
