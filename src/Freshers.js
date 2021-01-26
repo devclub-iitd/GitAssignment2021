@@ -674,9 +674,7 @@ export const FRESHERS = [
         }
     ]
 },
-];
-      
-{
+    {
     entryNum: 82,
     name: 'Ayush Kumar Baranwal',
     image: '/assets/cardImg.png',
@@ -689,5 +687,8 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/cybershot_x/'
         }
     ]
-};
+}
+];
+      
+
     
