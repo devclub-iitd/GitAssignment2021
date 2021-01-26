@@ -507,7 +507,7 @@ export const FRESHERS = [
     name: 'Ayush Kumar Baranwal';
     image: '/assets/cardImg.png';
     branch: 'CH1';
-    about: 'I love to play video games and watch web series. I also play basketball and love music. I know a little web development and have made a few simple games on blender.';
+    about: 'I love to play video games and watch web series. I also play basketball and love listening to music. I know a little web development and have made a few simple games on blender.';
     contact: [
         {
             id: 0,
