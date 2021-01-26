@@ -673,5 +673,18 @@ export const FRESHERS = [
             url: 'https://www.facebook.com/profile.php?id=100042023780555'
         }
     ]
+    },
+    {
+    entryNum: 548,
+    name : 'Sankalp Swarup',
+    branch: 'EE1',
+    about: 'First Year Electrical Engineering student.',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/_.jarvis_2001/?hl=en'
+        }
+    ]
 },
 ];
