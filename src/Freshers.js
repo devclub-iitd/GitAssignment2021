@@ -572,6 +572,14 @@ export const FRESHERS = [
         branch: "ME1",
         about: 'Born to be an Engineer',
     },
+    {
+        entryNum: 663,
+        name : 'Raj Shah',
+        image: '/assets/2020AM10663.jpg',
+        branch: 'AM1',
+        about: 'First Year student in ECM branch'
+        
+    },
 {
     entryNum: 573,
     name : 'Aditya Agrawal',
@@ -621,4 +629,3 @@ export const FRESHERS = [
          ]   
    },
 ];
-
