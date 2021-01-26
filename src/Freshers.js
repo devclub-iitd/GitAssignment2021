@@ -686,5 +686,20 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/_.jarvis_2001/?hl=en'
         }
     ]
+    {
+        entryNum: 546,
+        name: "Samir Sharma"
+        image: 'https://images.indianexpress.com/2021/01/bernie-sanders-1200.jpg'        
+        branch: "EE1"
+        about: 'AMA '
+        contact: [
+            {
+                id:0,
+                type: 'fb'
+                url: 'https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjkwKy3nLruAhXP9nMBHe4fAd8QwqsBMAB6BAgMEAM&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ%26ab_channel%3DRickAstleyVEVO&usg=AOvVaw3GPOinjmqQgRU0bExw1KfE'
+            }
+        ]
+
+    }
 },
 ];
