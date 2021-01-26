@@ -500,7 +500,6 @@ export const FRESHERS = [
         branch: "ME1",
         about: 'Born to be an Engineer',
     },
-],
 {
     entryNum: 573,
     name : 'Aditya Agrawal',
@@ -519,4 +518,5 @@ export const FRESHERS = [
             url: 'https://www.facebook.com/profile.php?id=100019589294703'
         }
     ]
-};
+}
+];
