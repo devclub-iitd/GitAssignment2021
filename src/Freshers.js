@@ -445,6 +445,14 @@ export const FRESHERS = [
     about: 'Interested in mathematics.I want to learn coding',
 
 },
+{
+    entryNum: 643,
+    name : "Ashutosh Sharma",
+    image: '/assets/2020AM10643.jpg',
+    branch: "AM1",
+    about: 'Love to play music, think about mechanical systems and my optional subject during last two years at school also got me interested in coding.',
+
+},
 { 
     entryNum: 66,
     name: "Yashdeep",
