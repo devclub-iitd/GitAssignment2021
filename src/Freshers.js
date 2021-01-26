@@ -505,7 +505,7 @@ export const FRESHERS = [
         name:"Manthan Dalmia",
         image: '/assets/cardImg.png',
         branch: "CS1",
-        about: "I like to play badminton and intrested in sketching.I also love mobile photography and have intrest in physics",git statu
+        about: "I like to play badminton and intrested in sketching.I also love mobile photography and have intrest in physics",
         contact: [
             {
               id:0,
