@@ -573,12 +573,30 @@ export const FRESHERS = [
         about: 'Born to be an Engineer',
     },
     {
+        entryNum: 771,
+        name : 'Shubham Varshneya',
+        image: '/assets/2020MS10771.jpg',
+        branch: 'MS1',
+        about: 'Just wanna learn to code',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/shubham.varshneya/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/shubham.varshneya/'
+            }
+        ]
+    }, 
+      {
         entryNum: 663,
         name : 'Raj Shah',
         image: '/assets/2020AM10663.jpg',
         branch: 'AM1',
-        about: 'First Year student in ECM branch'
-        
+        about: 'First Year student in ECM branch'      
     },
 {
     entryNum: 573,
