@@ -501,7 +501,6 @@ export const FRESHERS = [
         about: 'Born to be an Engineer',
     },
 ],
-
 {
     entryNum: 573,
     name : 'Aditya Agrawal',
