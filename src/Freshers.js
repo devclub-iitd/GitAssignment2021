@@ -1,5 +1,19 @@
 export const FRESHERS = [
     {
+        entryNum: 461,
+        name : 'Aditya Singh',
+        image: '/assets/2020EE10461.jpg',
+        branch: 'Electrical Engineering',
+        about: 'Just figuring things out',
+        contact: [
+            {
+                id: 0,
+                type: 'fb',
+                url: 'https://www.facebook.com/aditya.singh.dgr8/'
+            }
+        ]
+    },
+    {
         entryNum: 351,
         name : 'Kartik Sharma',
         image: '/assets/2020CS10351.jpeg',
@@ -178,7 +192,7 @@ export const FRESHERS = [
                 url: 'https://www.instagram.com/kunalshahi.qxq'
             }
         ]
-},
+    },
     {
         entryNum: 140,
         name : "Tanya Goyal",
@@ -197,8 +211,8 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/tanya.goyal.10485546'
             }
          ]   
-},
-  {
+    },
+    {
         entryNum: 776,
         name : 'AADIL AKHTAR',
         image: '/assets/2020MT10776.jpg',
@@ -211,8 +225,8 @@ export const FRESHERS = [
                 url: 'https://www.instagram.com/aadil_akhtar_3402/'
             }
         ]
-},
-  {
+    },
+    { 
         entryNum: 447,
         name : 'Vaibhav Agarwal',
         image: '/assets/2020CS50447.jpeg',
@@ -225,8 +239,8 @@ export const FRESHERS = [
                 url: 'https://www.instagram.com/vaibhavag31/'
             }
         ]
-},
-  {
+    },
+    {
         entryNum: 795,
         name : "Chaxu Garg",
         image : '/assets/Chaxu.jpeg',
@@ -240,7 +254,7 @@ export const FRESHERS = [
             }
         ]
     },
-  {
+    {
         entryNum: 639,
         name : "Amod",
         image: '/assets/cardImg.png',
@@ -253,8 +267,8 @@ export const FRESHERS = [
                 url: 'https://www.instagram.com/__a.mod__/'
             }
         ]
-},
-  {
+    },
+    {
         entryNum: 649,
         name : "Geetansh Juneja",
         image: '/assets/cardImg.png',
@@ -268,7 +282,7 @@ export const FRESHERS = [
             }
         ]
     },
-{
+    {
         entryNum: "2020CS10326",
         name : "Arin Kedia",
         image: '/assets/cardImg.png',
@@ -282,14 +296,14 @@ export const FRESHERS = [
             }
         ]
     },
-      {
+    {
         entryNum: 336,
         name : "CHINMAYMITTAL",
         image: 'https://qph.fs.quoracdn.net/main-thumb-536223418-200-ttyantfkjeettdrjbgiljezgfaularsh.jpeg',
         branch: "CS1",
         about: 'Nothing much',
     }, 
-      {
+    {
         entryNum: 1121,
         name : "Jasraj Singh Bhatia",
         image: '/assets/jsb.jpg',
@@ -307,8 +321,8 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/jasrajsb'
             }
         ]
-},
-{
+    },
+    {
         entryNum: 828,
         name : "Nishant",
         image: 'https://i.pinimg.com/736x/2d/11/a3/2d11a390094c8851ec366c4742d37f1c.jpg',
@@ -322,12 +336,40 @@ export const FRESHERS = [
         branch: "EE1",
         about: 'Quizzer by heart (My answer is 42 :p). I want to learn a lot from DevClub IITD to increase my skill-set, improve it, and apply in real life problems.',
     },
-  {
+    {
         entryNum: '0393',
         name : "Sreemanti Dey",
         image: 'https://images.indianexpress.com/2020/01/Sreemanti-759.jpg',
         branch: "CS1",
         about: 'Love reading and writing. Love badminton. Wish to learn competitive coding, webdev and swimming',
+    },
+    {
+        entryNum: 812,
+        name : "Kartik Rastogi",
+        image: '/assets/cardImg.png',
+        branch: "MT1",
+        about: 'Nothing Interesting.',
+    },
+  {
+        entryNum: 1156,
+        name: "Rohan Vig",
+        image: '/assets/cardImg.png',
+        branch: "TT1",
+        about: "I like sports, music, art, entrepreneurship, coding and open to learn new things everyday :) ",
+        contact: 
+        [
+            {
+                id: 0,
+                type: 'fb',
+                url: 'https://www.facebook.com/rohanstarone/'
+            },
+            {
+                id: 1,
+                type: 'insta',
+                url: 'https://www.instagram.com/givnahor/'
+            }
+        
+        ]
     },
     {
         entryNum:394,
@@ -424,6 +466,14 @@ export const FRESHERS = [
     about: 'Interested in mathematics.I want to learn coding',
 
 },
+{
+    entryNum: 643,
+    name : "Ashutosh Sharma",
+    image: '/assets/2020AM10643.jpg',
+    branch: "AM1",
+    about: 'Love to play music, think about mechanical systems and my optional subject during last two years at school also got me interested in coding.',
+
+},
 { 
     entryNum: 66,
     name: "Yashdeep",
@@ -460,6 +510,28 @@ export const FRESHERS = [
         branch: "CS1",
         about: 'Nothing much',
     },
+  {
+        entryNum: 494,
+        name: "Goonjan Saha",
+        image: '/assets/cardImg.png',
+        branch: "EE1",
+        about: 'Nothing much',
+    },
+    {
+        entryNum:386,
+        name:"Sibasish Rout",
+        image:"https://www.google.com/url?sa=i&url=http%3A%2F%2Fiitjeetoppers.com%2F&psig=AOvVaw1ud8zgfSxYUpIoyDfRwQGO&ust=1611675362772000&source=images&cd=vfe&ved=2ahUKEwjAy5ndtLfuAhUQSisKHTk4C_0Qr4kDegQIARBN",
+        branch:"CS1",
+        about:"I like playing cricket and chess,a big harry potter fan",
+        contact:
+        [
+            {
+                id:0,
+                type:"fb",
+                url:"https://www.facebook.com/sibasish.rout.92/",
+            }
+        ]
+},
  {
         entryNum: 475,
         name: "Aryan Dua",
@@ -519,5 +591,59 @@ export const FRESHERS = [
             }
         ]
     }, 
+      {
+        entryNum: 663,
+        name : 'Raj Shah',
+        image: '/assets/2020AM10663.jpg',
+        branch: 'AM1',
+        about: 'First Year student in ECM branch'      
+    },
+{
+    entryNum: 573,
+    name : 'Aditya Agrawal',
+    image: '/assets/cardImg.png',
+    branch: 'EE3',
+    about: 'Interested in mathematics, physics and coding. Enjoy reading',
+    contact: [
+        {
+            id: 0,
+            type: "insta",
+            url: 'https://www.instagram.com/aditya07agrawal/'
+        },
+        {
+            id: 1,
+            type: 'fb',
+            url: 'https://www.facebook.com/profile.php?id=100019589294703'
+        }
+    ]
+},
+    {
+        entryNum: 761,
+        name : "Rajat Gupta",
+        image: '/assets/2020MS10761.jpeg',
+        branch: "MS1",
+        about: 'I am a First year student and I am passionate about software development',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/rajat_gupta02/'
+            }
+            
+        ]
+    },
+    {
+        entryNum: 338,
+        name:"Daksh Khandelwal",
+        image: 'https://iitd-freshers2020.netlify.app/assets/cardImg.png',
+        branch: "CS1",
+        about: 'nothing much',
+        contact: [
+            {
+                id: 0,
+                type:'insta',
+                url: 'https://www.instagram.com/dakshkhandelwal1201'
+            },
+         ]   
+   },
 ];
-        
