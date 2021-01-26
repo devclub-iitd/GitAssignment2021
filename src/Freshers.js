@@ -178,7 +178,7 @@ export const FRESHERS = [
                 url: 'https://www.instagram.com/kunalshahi.qxq'
             }
         ]
-},
+    },
     {
         entryNum: 140,
         name : "Tanya Goyal",
@@ -197,8 +197,8 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/tanya.goyal.10485546'
             }
          ]   
-},
-  {
+    },
+    {
         entryNum: 776,
         name : 'AADIL AKHTAR',
         image: '/assets/2020MT10776.jpg',
@@ -211,8 +211,8 @@ export const FRESHERS = [
                 url: 'https://www.instagram.com/aadil_akhtar_3402/'
             }
         ]
-},
-  {
+    },
+    { 
         entryNum: 447,
         name : 'Vaibhav Agarwal',
         image: '/assets/2020CS50447.jpeg',
@@ -225,8 +225,8 @@ export const FRESHERS = [
                 url: 'https://www.instagram.com/vaibhavag31/'
             }
         ]
-},
-  {
+    },
+    {
         entryNum: 795,
         name : "Chaxu Garg",
         image : '/assets/Chaxu.jpeg',
@@ -240,7 +240,7 @@ export const FRESHERS = [
             }
         ]
     },
-  {
+    {
         entryNum: 639,
         name : "Amod",
         image: '/assets/cardImg.png',
@@ -253,8 +253,8 @@ export const FRESHERS = [
                 url: 'https://www.instagram.com/__a.mod__/'
             }
         ]
-},
-  {
+    },
+    {
         entryNum: 649,
         name : "Geetansh Juneja",
         image: '/assets/cardImg.png',
@@ -268,7 +268,7 @@ export const FRESHERS = [
             }
         ]
     },
-{
+    {
         entryNum: "2020CS10326",
         name : "Arin Kedia",
         image: '/assets/cardImg.png',
@@ -282,14 +282,14 @@ export const FRESHERS = [
             }
         ]
     },
-      {
+    {
         entryNum: 336,
         name : "CHINMAYMITTAL",
         image: 'https://qph.fs.quoracdn.net/main-thumb-536223418-200-ttyantfkjeettdrjbgiljezgfaularsh.jpeg',
         branch: "CS1",
         about: 'Nothing much',
     }, 
-      {
+    {
         entryNum: 1121,
         name : "Jasraj Singh Bhatia",
         image: '/assets/jsb.jpg',
@@ -307,8 +307,8 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/jasrajsb'
             }
         ]
-},
-{
+    },
+    {
         entryNum: 828,
         name : "Nishant",
         image: 'https://i.pinimg.com/736x/2d/11/a3/2d11a390094c8851ec366c4742d37f1c.jpg',
@@ -322,12 +322,33 @@ export const FRESHERS = [
         branch: "EE1",
         about: 'Quizzer by heart (My answer is 42 :p). I want to learn a lot from DevClub IITD to increase my skill-set, improve it, and apply in real life problems.',
     },
-  {
+    {
         entryNum: '0393',
         name : "Sreemanti Dey",
         image: 'https://images.indianexpress.com/2020/01/Sreemanti-759.jpg',
         branch: "CS1",
         about: 'Love reading and writing. Love badminton. Wish to learn competitive coding, webdev and swimming',
+    },
+    {
+        entryNum: 1156,
+        name: "Rohan Vig",
+        image: '/assets/cardImg.png',
+        branch: "TT1",
+        about: "I like sports, music, art, entrepreneurship, coding and open to learn new things everyday :) ",
+        contact: 
+        [
+            {
+                id: 0,
+                type: 'fb',
+                url: 'https://www.facebook.com/rohanstarone/'
+            },
+            {
+                id: 1,
+                type: 'insta',
+                url: 'https://www.instagram.com/givnahor/'
+            }
+        
+        ]
     },
     {
         entryNum:394,
