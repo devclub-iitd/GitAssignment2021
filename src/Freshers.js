@@ -701,6 +701,21 @@ export const FRESHERS = [
         }
     ]
 }
+    {
+        entryNum: 829,
+        name: 'Ojas Singh',
+        image: '/assets/2020MT10829.jpg',
+        branch: 'MT1',
+        about: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        contact: [
+            {
+                id: 0,
+                type: 'insta',
+                url: 'https://www.instagram.com/ojas__malhi/',
+
+            }
+        ]
+    }
 ];
       
 
