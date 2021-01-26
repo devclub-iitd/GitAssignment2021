@@ -654,4 +654,17 @@ export const FRESHERS = [
             },
          ]   
    },
+   {
+    entryNum: 422,
+    name : 'Anjali Sharma',
+    branch: 'CS5',
+    about: 'nothing much',
+    contact: [
+        {
+            id: 1,
+            type: 'fb',
+            url: 'https://www.facebook.com/profile.php?id=100042023780555'
+        }
+    ]
+},
 ];
