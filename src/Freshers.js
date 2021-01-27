@@ -1,5 +1,19 @@
 export const FRESHERS = [
     {
+        entryNum: 917,
+        name : "Aryan Saple",
+        image: '/assets/2020ME10917.jpg',
+        branch: "ME1",
+        about: 'I love football (GGMU) and basketball. Im enthusiastic about coding, physics - not PYL tho :( and economics. Movies and TV shows are bae. Loove godfather. Hoping to learn dance and maybe guitar in college :)',
+        contact: [
+            {
+                id: 0,
+                type: 'insta',
+                url: 'https://www.instagram.com/random_errorer/'
+            }
+        ]
+    },
+    {
         entryNum: 461,
         name : 'Aditya Singh',
         image: '/assets/2020EE10461.jpg',
@@ -53,7 +67,14 @@ export const FRESHERS = [
         branch: "MT6",
         about: 'I am tall but not athletic. I like movies, TV shows, anime and manga.'
         
-    },    
+    },  
+    {
+        entryNum: 583,
+        name : 'ANURAG GUPTA',
+        image: '/assets/2020EE30583.jpg',
+        branch: 'Electrical Engineering Power & Automation',
+        about: 'Like chess and technology, finding everything else',
+    },  
     {
         entryNum: 700,
         name : "Ishaan Jain",
@@ -68,7 +89,31 @@ export const FRESHERS = [
             },
         ]
     },
-    
+    {
+        entryNum: 468,
+        name : 'Animesh Jhawar',
+        image: '/assets/2020EE10468.jpg',
+        branch: 'Electrical Engineering 1',
+        about: 'Just Trying And Sorting Out Everything.',
+        contact: [
+            {
+                id: 0,
+                type: 'instagram',
+                url: 'https://www.instagram.com/animesh__jhawar/'
+            }
+            ,{
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/animesh-jhawar-28a8841b8/'
+            }
+            ,{
+                id: 2,
+                type: 'facebook',
+                url: 'https://www.facebook.com/animeshJhawariitd/'
+            }
+            
+        ]
+    },
     {
         entryNum: 335,
         name : "CHETAN GAIKWAD",
@@ -303,6 +348,13 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/Arin.Kedia21'
             }
         ]
+    },
+    {
+        entryNum: 747,
+        name: "Divya Gupta",
+        image: '/assets/k.jpg',
+        branch: "MS1",
+        about: 'I have interest in sports but am not good at it.',
     },
     {
         entryNum: 336,
@@ -861,4 +913,12 @@ export const FRESHERS = [
     branch: "ME2",
     about: 'you were expecting a profile picture,but it was me,DIO!',       
 },
+  {
+    entryNum: 330,
+    name : "Avval Amil",
+    image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
+    branch: "CS1",
+    about: 'Pata nahi yaar'
+        
+  },
 ];
