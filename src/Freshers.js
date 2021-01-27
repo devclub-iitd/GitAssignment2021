@@ -825,5 +825,19 @@ export const FRESHERS = [
                url: 'https://www.instagram.com/adityaa24__/'
            }
        ]
- }
+ },
+ {
+    entryNum: 180,
+    name : "Mitanshu Kansal",
+    image: '',
+    branch: "CH7",
+    about: 'nothing much',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/mitanshu_kansal/'
+        }
+    ]
+}
 ];
