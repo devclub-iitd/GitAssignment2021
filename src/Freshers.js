@@ -1097,5 +1097,24 @@ export const FRESHERS = [
     about: 'Nothing special'
         
   }
+  {
+      entryNum : 779,
+      name : "Aayush Gupta",
+      image : '/assets/Aayush_Gupta.jpg',
+      branch : 'MT1',
+      about : "I love to do nothing.",
+      contact : [
+          {
+              id : 0,
+              type : 'insta',
+              url : 'https://www.instagram.com/aayushg1713',
+          },
+          {
+              id : 1,
+              typr : 'fb',
+              url : 'https://www.facebook.com/aayushg1713/',
+          },
+      ]
+  },
 ];
 
