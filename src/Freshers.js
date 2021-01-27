@@ -907,6 +907,26 @@ export const FRESHERS = [
     ]
 },
 {
+    entryNum: 433,
+    name : "Nischay Diwan",
+    image: '/assets/cardImg.png',
+    branch: "cs5",
+    about: 'Hello frendzz',
+    contact: [
+        {
+            id: 0,
+            type: 'fb',
+            url: 'https://www.facebook.com/nischay.diwan'
+        },
+	    {
+               id: 1,
+               type: 'insta',
+               url: 'https://www.instagram.com/nischaydiwan/'
+           },
+
+    ]
+},
+  {
    entryNum: 128,
    name : "Shivam Madan",
    image: '',
