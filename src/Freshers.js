@@ -47,6 +47,14 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 868,
+        name : "Akshay Reddy",
+        image: 'https://drive.google.com/file/d/1sk1lghOhPfTjp7u9yvHvvmxgTLimMBrU/view?usp=sharing',
+        branch: "MT6",
+        about: 'I am tall but not athletic. I like movies, TV shows, anime and manga.'
+        
+    },    
+    {
         entryNum: 700,
         name : "Ishaan Jain",
         image: '/assets/2020PH10700.PNG',
@@ -510,13 +518,6 @@ export const FRESHERS = [
         branch: "CS1",
         about: 'Nothing much',
     },
-  {
-        entryNum: 494,
-        name: "Goonjan Saha",
-        image: '/assets/cardImg.png',
-        branch: "EE1",
-        about: 'Nothing much',
-    },
     {
         entryNum:386,
         name:"Sibasish Rout",
@@ -716,6 +717,4 @@ export const FRESHERS = [
     ]
     }
 ];
-      
 
-    
