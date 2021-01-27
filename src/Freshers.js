@@ -353,6 +353,8 @@ export const FRESHERS = [
         entryNum: "2020CS10326",
         name : "Arin Kedia",
         image: '/assets/cardImg.png',
+        branch: "me2",
+        about: 'Big fan of movies. Reading is not my cup of tea',
         branch: "cs1",
         about: 'Love playing football and reading novel. Have a great interest in learning music.',
         contact: [
@@ -360,6 +362,19 @@ export const FRESHERS = [
                 id: "Arin Kedia",
                 type: "fb",
                 url: 'https://www.facebook.com/Arin.Kedia21'
+            }
+        ]
+    },
+    {
+        entryNum: 20,
+        name : "Harsh Vardhan Singh Patel",
+        branch: "BB1",
+        about: 'I\'m into basketball,chess and football. I do calliagraphy and also have slight interest in books.',
+              contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/h.v.s.p/?hl=en'
             }
         ]
     },
