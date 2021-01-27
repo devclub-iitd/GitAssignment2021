@@ -963,4 +963,20 @@ export const FRESHERS = [
     about: 'Pata nahi yaar'
         
   },
-];
+
+{
+    entryNum: 411,
+    name : " Vishwas Kalani",
+    image: '/assets/2020CS10411.jpeg',
+    branch: "CS1",
+    about: 'Love playing cricket'
+    contact: [
+        {
+            id: 0,
+            type: "insta",
+            url: 'https://www.instagram.com/vishwaskalani/'
+        }
+
+    ]
+        
+  },
