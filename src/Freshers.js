@@ -853,5 +853,12 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/mitanshu_kansal/'
         }
     ]
-}
+},
+{
+    entryNum: 1054,
+    name: "shashwat khari",
+    image: 'https://nyc3.digitaloceanspaces.com/memecreator-cdn/media/__processed__/36f/template-but-it-was-me-dio-892-0c6db91aec9c.jpeg',
+    branch: "ME2",
+    about: 'you were expecting a profile picture,but it was me,DIO!',       
+},
 ];
