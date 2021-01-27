@@ -792,6 +792,26 @@ export const FRESHERS = [
             url :"https://www.instagram.com/dhruv___nagpal/"
         }
     ]
+}, 
+   {
+        entryNum:1014,
+        name : 'Dhruv Saini',
+        image: '/assets/2020ME21014.jpg',
+        branch: 'ME2',
+        about: 'I love to watch and play cricket. I am passionate about startup and coding' ,
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/sainidhruv01/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/dhruv.saini.3323457/'
+            }
+        ]
+    }
 },
  {
        entryNum: 739,
