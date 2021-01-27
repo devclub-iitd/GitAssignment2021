@@ -853,5 +853,19 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/mitanshu_kansal/'
         }
     ]
+},
+{
+    entryNum: 817,
+    name : "Madhav Goel",
+    image: '/assets/Madhav.jpg',
+    branch: "MT1",
+    about: "bachpan me socha tha cricketer banege fir aukat saamne aagyi aur ab me devclub me hu, interests - zindagi se khelna , palangtodna",
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/madhav_goel21/'
+        }
+    ]
 }
 ];
