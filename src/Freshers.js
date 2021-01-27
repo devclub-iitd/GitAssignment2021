@@ -54,7 +54,7 @@ export const FRESHERS = [
         about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
-        entryNum: 2020BB10020,
+        entryNum: 20,
         name : "Harsh Vardhan Singh Patel",
         branch: "BB1",
         about: 'I\'m into basketball,chess and football. I do calliagraphy and also have slight interest in books.',
