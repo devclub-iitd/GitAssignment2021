@@ -913,5 +913,20 @@ export const FRESHERS = [
     branch: "CS1",
     about: 'Pata nahi yaar'
         
-  ,}
+  ,},
+{
+    entryNum: 384,
+    name : "Shreya Sonone",
+    image: '/assets/2020CS10384.jpeg',
+    branch: "CS1",
+    about: 'I love to learn new things.I like painting,dancing and playing badminton.I dont have any prior knowledge of coding but I am looking forward to learn as much as I can.,
+    contact: [
+        {
+            id: 0,
+            type: 'instagram',
+            url: 'https://www.instagram.com/shreya.sonone/'
+        }
+    ]
+},
 ];
+
