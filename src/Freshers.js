@@ -963,4 +963,21 @@ export const FRESHERS = [
     about: 'Pata nahi yaar'
         
   },
+  {
+    entryNum: 672,
+    name  : "Shubh Goel",
+    image: '',
+    branch: "AM1",
+    about: 'I am an eager learner, who wants to try out new things',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/shubhgoel007/'
+        },
+	
+
+    ]
+}
+
 ];
