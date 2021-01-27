@@ -996,8 +996,23 @@ export const FRESHERS = [
     name : "Avval Amil",
     image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
     branch: "CS1",
-    about: 'Pata nahi yaar',
-  },
+    about: 'Pata nahi yaar'
+        
+  ,},
+{
+    entryNum: 384,
+    name : "Shreya Sonone",
+    image: '/assets/2020CS10384.jpeg',
+    branch: "CS1",
+    about: 'I love to learn new things.I like painting,dancing and playing badminton.I dont have any prior knowledge of coding but I am looking forward to learn as much as I can.',
+    contact: [
+        {
+            id: 0,
+            type: 'instagram',
+            url: 'https://www.instagram.com/shreya.sonone/'
+        }
+    ]
+},
   {
     entryNum:1014,
     name : 'Vatsal Mathur',
