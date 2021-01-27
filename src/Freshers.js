@@ -752,7 +752,15 @@ export const FRESHERS = [
             type: 'insta',
             url: 'https://www.instagram.com/_.jarvis_2001/?hl=en'
         }
-    ]
+       ]
+    },
+    {
+    entryNum: 546,
+    name: 'Samir Sharma',
+    image : 'https://images.indianexpress.com/2021/01/bernie-sanders-1200.jpg'  ,      
+    branch : 'EE1',
+    about : 'AMA',
+        
     },
     {
     entryNum: 981,
@@ -812,6 +820,20 @@ export const FRESHERS = [
             id: 0,
             type: 'insta',
             url: 'https://www.instagram.com/cybershot_x/'
+        }
+    ]
+},
+    {
+    entryNum: 134,
+    name: 'Soumya Bhartiya',
+    image: '/assets/2020CH10134.jpeg',
+    branch: 'CH1',
+    about: 'Avid reader, keen to learn and explore',
+    contact: [
+        {
+            id:0,
+            type: 'insta',
+            url: 'https://www.instagram.com/soumyaaaaaaa/'
         }
     ]
 },
@@ -892,6 +914,20 @@ export const FRESHERS = [
            }
        ]
  },
+{ 
+      entryNum: 174,
+      name : "Taukir Lalwala",
+      image : 'https://www.google.com/search?q=iron+man&rlz=1C1CHBD_enIN936IN936&sxsrf=ALeKk007eeJ0alqbsqtml0STOQ8gCcXdNw:1611751922630&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjnp8Hmk7zuAhVJzDgGHUlQBE4Q_AUoAXoECBUQAw#imgrc=xmDsKjhwOmopUM.jpg',
+      branch: "CH7",
+      about: 'keen learner',
+      contact: [
+          {
+              id: 0,
+              type: 'insta',
+              url: 'https://www.instagram.com/lalwalataukir/',
+          }
+      ]
+},
  {
     entryNum: 180,
     name : "Mitanshu Kansal",
@@ -962,6 +998,39 @@ export const FRESHERS = [
     branch: "CS1",
     about: 'Pata nahi yaar'
         
+  ,},
+{
+    entryNum: 384,
+    name : "Shreya Sonone",
+    image: '/assets/2020CS10384.jpeg',
+    branch: "CS1",
+    about: 'I love to learn new things.I like painting,dancing and playing badminton.I dont have any prior knowledge of coding but I am looking forward to learn as much as I can.',
+    contact: [
+        {
+            id: 0,
+            type: 'instagram',
+            url: 'https://www.instagram.com/shreya.sonone/'
+        }
+    ]
+},
+  {
+    entryNum:1014,
+    name : 'Vatsal Mathur',
+    image: '/assets/Vatsal.jpeg',
+    branch: 'TT1',
+    about: 'I love to watch and play cricket. I am also a bit into music production' ,
+    contact: [
+        {
+            id: 0,
+            type: "insta",
+            url: 'https://www.instagram.com/vatsalmathur_04/'
+        },
+        {
+            id: 1,
+            type: 'fb',
+            url: 'https://www.facebook.com/vatsal.mathur.5/'
+        }
+    ]
   },
   {
     entryNum: 672,
@@ -969,15 +1038,27 @@ export const FRESHERS = [
     image: '',
     branch: "AM1",
     about: 'I am an eager learner, who wants to try out new things',
-    contact: [
+        contact: [
         {
             id: 0,
             type: 'insta',
             url: 'https://www.instagram.com/shubhgoel007/'
         },
-	
-
+          ]
+  },
+  {
+    entryNum: 549,
+    name : "Sanyam",
+    image: 'https://miro.medium.com/max/1800/1*shucD0A6Q0h5gmB2bX0Jxg.jpeg',
+    branch: "EE1",
+    about: 'I like cricket, coding and comedy. Hoping to improve speaking skills in the college.',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/sanyam4543/'
+        }
     ]
-}
-
+    }
 ];
+
