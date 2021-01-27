@@ -28,6 +28,20 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 425,
+        name : 'Garvit Dhawan',
+        image: "/assets/2020CS50425.jpg",
+        branch: 'CS5',
+        about: 'Exploring my mind',
+        contact: [
+            {
+                id: 0,
+                type: 'insta',
+                url: 'https://www.instagram.com/_garvit.the.one_/'
+            }
+        ]
+    },
+    {
         entryNum: 351,
         name : 'Kartik Sharma',
         image: '/assets/2020CS10351.jpeg',
