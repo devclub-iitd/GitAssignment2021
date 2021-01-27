@@ -919,7 +919,7 @@ export const FRESHERS = [
     name : "Shreya Sonone",
     image: '/assets/2020CS10384.jpeg',
     branch: "CS1",
-    about: 'I love to learn new things.I like painting,dancing and playing badminton.I dont have any prior knowledge of coding but I am looking forward to learn as much as I can.,
+    about: 'I love to learn new things.I like painting,dancing and playing badminton.I dont have any prior knowledge of coding but I am looking forward to learn as much as I can.',
     contact: [
         {
             id: 0,
