@@ -1,5 +1,19 @@
 export const FRESHERS = [
     {
+        entryNum: 917,
+        name : "Aryan Saple",
+        image: '/assets/2020ME10917.jpg',
+        branch: "ME1",
+        about: 'I love football (GGMU) and basketball. Im enthusiastic about coding, physics - not PYL tho :( and economics. Movies and TV shows are bae. Loove godfather. Hoping to learn dance and maybe guitar in college :)',
+        contact: [
+            {
+                id: 0,
+                type: 'insta',
+                url: 'https://www.instagram.com/random_errorer/'
+            }
+        ]
+    },
+    {
         entryNum: 461,
         name : 'Aditya Singh',
         image: '/assets/2020EE10461.jpg',
