@@ -755,11 +755,11 @@ export const FRESHERS = [
        ]
     },
     {
-        entryNum: 546,
-        name: "Samir Sharma"
-        image : 'https://images.indianexpress.com/2021/01/bernie-sanders-1200.jpg'        
-        branch : "EE1"
-        about : 'AMA '
+    entryNum: 546,
+    name: 'Samir Sharma',
+    image : 'https://images.indianexpress.com/2021/01/bernie-sanders-1200.jpg'  ,      
+    branch : 'EE1',
+    about : 'AMA',
         
     },
     {
