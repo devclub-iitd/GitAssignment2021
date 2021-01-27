@@ -718,7 +718,7 @@ export const FRESHERS = [
    {
         entryNum:1014,
         name : 'Dhruv Saini',
-        image: 'C:\Users\dhruv saini\Desktop\C++\GitAssignment2021\public\assets\2020ME21014.jpg',
+        image: '/assets/2020ME21014.jpg',
         branch: 'ME2',
         about: 'I love to watch and play cricket. I am passionate about startup and coding' ,
         contact: [
