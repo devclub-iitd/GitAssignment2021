@@ -700,7 +700,22 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/cybershot_x/'
         }
     ]
-}
+},
+{
+    entryNum: 749,
+    name : 'Harshit Anand',
+    image: '/assets/https://www.instagram.com/p/CHlP2wRJgHRQiksIoi6TnsBF-SD6DIKq6RKMx00/',
+    branch: 'MS1',
+    about: 'OOF..kya hi bataun..Im Awesome :). Awfully friendly and an amazing chef(be good to me and i might cook for you.ok.)',
+    contact: [
+        {
+            id: 0,
+            type: "insta",
+            url: 'https://www.instagram.com/harshit_305/'
+        }
+       
+    ]
+},
 ];
       
 
