@@ -18,7 +18,7 @@ export const FRESHERS = [
         name : "Sanyam",
         image: 'https://miro.medium.com/max/1800/1*shucD0A6Q0h5gmB2bX0Jxg.jpeg',
         branch: "EE1",
-        about: 'I like cricket, coding and comedy. Hoping to develop speaking skills in the college.',
+        about: 'I like cricket, coding and comedy. Hoping to improve speaking skills in the college.',
         contact: [
             {
                 id: 0,
