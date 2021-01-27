@@ -47,6 +47,14 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 868,
+        name : "Akshay Reddy",
+        image: 'https://drive.google.com/file/d/1sk1lghOhPfTjp7u9yvHvvmxgTLimMBrU/view?usp=sharing',
+        branch: "MT6",
+        about: 'I am tall but not athletic. I like movies, TV shows, anime and manga.'
+        
+    },    
+    {
         entryNum: 700,
         name : "Ishaan Jain",
         image: '/assets/2020PH10700.PNG',
@@ -510,13 +518,6 @@ export const FRESHERS = [
         branch: "CS1",
         about: 'Nothing much',
     },
-  {
-        entryNum: 494,
-        name: "Goonjan Saha",
-        image: '/assets/cardImg.png',
-        branch: "EE1",
-        about: 'Nothing much',
-    },
     {
         entryNum:386,
         name:"Sibasish Rout",
@@ -571,6 +572,20 @@ export const FRESHERS = [
         image: '/assets/cardImg.png',
         branch: "ME1",
         about: 'Born to be an Engineer',
+    },
+{
+        entryNum: 358,
+        name:"Manthan Dalmia",
+        image: '/assets/cardImg.png',
+        branch: "CS1",
+        about: "I like to play badminton and intrested in sketching.I also love mobile photography and have intrest in physics",
+        contact: [
+            {
+              id:0,
+              type:"insta",
+              url: 'https://www.instagram.com/manthan.dalmia/'
+            }
+        ]
     },
     {
         entryNum: 424,
@@ -687,6 +702,39 @@ export const FRESHERS = [
         }
     ]
 },
+{
+    entryNum: 342,
+    name : 'Divyansh Mittal',
+    image: 'https://tenor.com/view/rick-ashtley-never-gonna-give-up-rick-roll-gif-4819894',
+    branch: 'CS1',
+    about: 'COL ka assignment karliya, jo mera about padh rhe ho',
+    contact: [
+      {
+          id: 0,
+          type: 'insta',
+          url: 'https://www.instagram.com/divyanshmittal.exe/?hl=en'
+      }
+  ]
+},
+    {   
+        entryNum: 745,
+        name : 'Ashutosh Gupta',
+        image: '/assets/2020MS10745.jpg',
+        branch: 'MS1',
+        about: 'I like to play Badminton,Table Tennis and Chess. I also love to solve brain teasers. I have a little knowledge of coding and hoping to learn more new stuff.',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/ashutosh_.25/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/profile.php?id=100025699536778'
+            }
+        ]
+    },
     {
     entryNum: 82,
     name: 'Ayush Kumar Baranwal',
@@ -699,6 +747,36 @@ export const FRESHERS = [
             type: 'insta',
             url: 'https://www.instagram.com/cybershot_x/'
         }
+    ]
+},
+    {
+        entryNum: 829,
+        name: 'Ojas Singh',
+        image: '/assets/2020MT10829.jpg',
+        branch: 'MT1',
+        about: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        contact: [
+            {
+                id: 0,
+                type: 'insta',
+                url: 'https://www.instagram.com/ojas__malhi/'
+
+            }
+        ]
+    },
+{
+    entryNum: 749,
+    name : 'Harshit Anand',
+    image: '/assets/https://www.instagram.com/p/CHlP2wRJgHRQiksIoi6TnsBF-SD6DIKq6RKMx00/',
+    branch: 'MS1',
+    about: 'OOF..kya hi bataun..Im Awesome :). Awfully friendly and an amazing chef(be good to me and i might cook for you.ok.)',
+    contact: [
+        {
+            id: 0,
+            type: "insta",
+            url: 'https://www.instagram.com/harshit_305/'
+        }
+       
     ]
 },
     {
@@ -734,7 +812,19 @@ export const FRESHERS = [
             }
         ]
     }
+},
+ {
+       entryNum: 739,
+       name : "Aditya",
+       image: 'https://images.wallpapersden.com/image/download/levi-ackerman_a2tlZmmUmZqaraWkpJRmbmdlrWZlbWU.jpg',
+       branch: "MS1",
+       about: 'nothing much',
+       contact: [
+           {
+               id: 0,
+               type: 'fb',
+               url: 'https://www.instagram.com/adityaa24__/'
+           }
+       ]
+ }
 ];
-      
-
-    
