@@ -811,7 +811,6 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/dhruv.saini.3323457/'
             }
         ]
-    }
 },
  {
        entryNum: 739,
