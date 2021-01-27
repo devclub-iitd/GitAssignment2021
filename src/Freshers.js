@@ -66,15 +66,15 @@ export const FRESHERS = [
         image: 'https://drive.google.com/file/d/1sk1lghOhPfTjp7u9yvHvvmxgTLimMBrU/view?usp=sharing',
         branch: "MT6",
         about: 'I am tall but not athletic. I like movies, TV shows, anime and manga.'
-        
-    },  
+
+    },
     {
         entryNum: 583,
         name : 'ANURAG GUPTA',
         image: '/assets/2020EE30583.jpg',
         branch: 'Electrical Engineering Power & Automation',
         about: 'Like chess and technology, finding everything else',
-    },  
+    },
     {
         entryNum: 700,
         name : "Ishaan Jain",
@@ -111,7 +111,7 @@ export const FRESHERS = [
                 type: 'facebook',
                 url: 'https://www.facebook.com/animeshJhawariitd/'
             }
-            
+
         ]
     },
     {
@@ -133,7 +133,7 @@ export const FRESHERS = [
         name : "riya",
         image: '/assets/cardImg.png',
         branch: "cs1",
-        
+
     },
   {
         entryNum: 488,
@@ -162,9 +162,9 @@ export const FRESHERS = [
                 url: "https://www.facebook.com/aryan.sinha.10485/",
 
             },
-            
-            
-        ]    
+
+
+        ]
     },
 
       {
@@ -263,7 +263,7 @@ export const FRESHERS = [
                 type: 'fb',
                 url: 'https://www.facebook.com/tanya.goyal.10485546'
             }
-         ]   
+         ]
     },
     {
         entryNum: 776,
@@ -279,7 +279,7 @@ export const FRESHERS = [
             }
         ]
     },
-    { 
+    {
         entryNum: 447,
         name : 'Vaibhav Agarwal',
         image: '/assets/2020CS50447.jpeg',
@@ -362,7 +362,7 @@ export const FRESHERS = [
         image: 'https://qph.fs.quoracdn.net/main-thumb-536223418-200-ttyantfkjeettdrjbgiljezgfaularsh.jpeg',
         branch: "CS1",
         about: 'Nothing much',
-    }, 
+    },
     {
         entryNum: 1121,
         name : "Jasraj Singh Bhatia",
@@ -416,7 +416,7 @@ export const FRESHERS = [
         image: '/assets/cardImg.png',
         branch: "TT1",
         about: "I like sports, music, art, entrepreneurship, coding and open to learn new things everyday :) ",
-        contact: 
+        contact:
         [
             {
                 id: 0,
@@ -428,7 +428,7 @@ export const FRESHERS = [
                 type: 'insta',
                 url: 'https://www.instagram.com/givnahor/'
             }
-        
+
         ]
     },
     {
@@ -497,7 +497,7 @@ export const FRESHERS = [
     name : "Shreyansh Singh",
     image: '/assets/2020CS10385.jpeg',
     branch: "CS1",
-    about: 'Love badminton and Rubiks cube',    
+    about: 'Love badminton and Rubiks cube',
 },
 {
     entryNum: 349,
@@ -534,7 +534,7 @@ export const FRESHERS = [
     about: 'Love to play music, think about mechanical systems and my optional subject during last two years at school also got me interested in coding.',
 
 },
-{ 
+{
     entryNum: 66,
     name: "Yashdeep",
     image: '/assets/2020BB10066.jpg',
@@ -617,7 +617,7 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/hemant.prakash.169/'
             }
         ]
-    }, 
+    },
     {
         entryNum: 938,
         name: "Ishan Jain",
@@ -650,7 +650,7 @@ export const FRESHERS = [
         entryNum: 69,
         name: "Abhijeet Gautam",
         image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
-    
+
         branch: "CH1",
         about: 'softwares and websites fascinate me '
     },
@@ -672,13 +672,13 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/shubham.varshneya/'
             }
         ]
-    }, 
+    },
       {
         entryNum: 663,
         name : 'Raj Shah',
         image: '/assets/2020AM10663.jpg',
         branch: 'AM1',
-        about: 'First Year student in ECM branch'      
+        about: 'First Year student in ECM branch'
     },
 {
     entryNum: 573,
@@ -711,7 +711,7 @@ export const FRESHERS = [
                 type: "insta",
                 url: 'https://www.instagram.com/rajat_gupta02/'
             }
-            
+
         ]
     },
     {
@@ -726,7 +726,7 @@ export const FRESHERS = [
                 type:'insta',
                 url: 'https://www.instagram.com/dakshkhandelwal1201'
             },
-         ]   
+         ]
    },
    {
     entryNum: 422,
@@ -782,7 +782,7 @@ export const FRESHERS = [
       }
   ]
 },
-    {   
+    {
         entryNum: 745,
         name : 'Ashutosh Gupta',
         image: '/assets/2020MS10745.jpg',
@@ -842,7 +842,7 @@ export const FRESHERS = [
             type: "insta",
             url: 'https://www.instagram.com/harshit_305/'
         }
-       
+
     ]
 },
     {
@@ -858,7 +858,7 @@ export const FRESHERS = [
             url :"https://www.instagram.com/dhruv___nagpal/"
         }
     ]
-}, 
+},
    {
         entryNum:1014,
         name : 'Dhruv Saini',
@@ -905,5 +905,13 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/mitanshu_kansal/'
         }
     ]
+},
+{
+   entryNum: 128,
+   name : "Shivam Madan",
+   image: '',
+   branch: "CH1",
+   about: ' i am  curious and eager  learner .   i  like doing meditation and exercise everday ',
+
 }
 ];
