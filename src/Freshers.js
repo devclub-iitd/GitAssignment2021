@@ -702,6 +702,25 @@ export const FRESHERS = [
         }
     ]
 },
+    {   
+        entryNum: 745,
+        name : 'Ashutosh Gupta',
+        image: '/assets/2020MS10745.jpg',
+        branch: 'MS1',
+        about: 'I like to play Badminton,Table Tennis and Chess. I also love to solve brain teasers. I have a little knowledge of coding and hoping to learn more new stuff.',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/ashutosh_.25/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/profile.php?id=100025699536778'
+            }
+        ]
+    },
     {
     entryNum: 82,
     name: 'Ayush Kumar Baranwal',
