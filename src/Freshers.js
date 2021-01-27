@@ -573,6 +573,47 @@ export const FRESHERS = [
         branch: "ME1",
         about: 'Born to be an Engineer',
     },
+    {
+        entryNum: 424,
+        name: "Eshan Jain",
+        image: '/assets/cardImg.png',
+        branch: "CS5",
+        about: "I am a Gaming Enthusiast who likes to play cricket,chess and piano.I am also a tech freak and look forward to all kinds of new technologies.",
+    },
+  {
+        entryNum: 69,
+        name: "Abhijeet Gautam",
+        image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
+    
+        branch: "CH1",
+        about: 'softwares and websites fascinate me '
+    },
+  {
+        entryNum: 771,
+        name : 'Shubham Varshneya',
+        image: '/assets/2020MS10771.jpg',
+        branch: 'MS1',
+        about: 'Just wanna learn to code',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/shubham.varshneya/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/shubham.varshneya/'
+            }
+        ]
+    }, 
+      {
+        entryNum: 663,
+        name : 'Raj Shah',
+        image: '/assets/2020AM10663.jpg',
+        branch: 'AM1',
+        about: 'First Year student in ECM branch'      
+    },
 {
     entryNum: 573,
     name : 'Aditya Agrawal',
@@ -621,5 +662,59 @@ export const FRESHERS = [
             },
          ]   
    },
+   {
+    entryNum: 422,
+    name : 'Anjali Sharma',
+    branch: 'CS5',
+    about: 'nothing much',
+    contact: [
+        {
+            id: 1,
+            type: 'fb',
+            url: 'https://www.facebook.com/profile.php?id=100042023780555'
+        }
+    ]
+    },
+    {
+    entryNum: 548,
+    name : 'Sankalp Swarup',
+    branch: 'EE1',
+    about: 'First Year Electrical Engineering student.',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/_.jarvis_2001/?hl=en'
+        }
+    ]
+},
+    {
+    entryNum: 82,
+    name: 'Ayush Kumar Baranwal',
+    image: '/assets/cardImg.png',
+    branch: 'CH1',
+    about: 'I love to play video games and watch web series. I also play basketball and love listening to music. I know a little web development and have made a few simple games on blender.',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/cybershot_x/'
+        }
+    ]
+},
+    {
+    entryNum: "1013",
+    name : "Dhruv Nagpal",
+    image: "https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F131870260_528700524756443_2272684149467313600_n.jpg%3Foh%3D4c846bf87052293690ac57c0c45c9311%26oe%3D6015F0BE&t=l&u=919591062204%40c.us&i=1608027223&n=fL3ocuzMi4KPppNXTc9N2cJrchGzJzTEIG7BAlL0Koo%3D",
+    branch : "ME2",
+    about : "I play the guitar.. also an intermediate squash and badminton player. Interested in web dev and currently working on an amazon clone",
+    contact : [
+        {
+            id:0,
+            type : "insta",
+            url :"https://www.instagram.com/dhruv___nagpal/"
+        }
+    ]
+    }
 ];
 
