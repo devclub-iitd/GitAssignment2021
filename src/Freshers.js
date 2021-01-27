@@ -825,5 +825,20 @@ export const FRESHERS = [
                url: 'https://www.instagram.com/adityaa24__/'
            }
        ]
- }
+ },
+{ 
+      entryNum: 174,
+      name : "Taukir Lalwala",
+      image : 'https://www.google.com/search?q=iron+man&rlz=1C1CHBD_enIN936IN936&sxsrf=ALeKk007eeJ0alqbsqtml0STOQ8gCcXdNw:1611751922630&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjnp8Hmk7zuAhVJzDgGHUlQBE4Q_AUoAXoECBUQAw#imgrc=xmDsKjhwOmopUM.jpg',
+      branch: "CH7",
+      about: 'keen learner',
+      contact: [
+          {
+              id: 0,
+              type: 'insta',
+              url: 'https://www.instagram.com/lalwalataukir/',
+          }
+      ]
+    }
 ];
+
