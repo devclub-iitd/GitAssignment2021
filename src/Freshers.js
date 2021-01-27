@@ -777,5 +777,19 @@ export const FRESHERS = [
             url :"https://www.instagram.com/dhruv___nagpal/"
         }
     ]
-    }
+},
+ {
+       entryNum: 739,
+       name : "Aditya",
+       image: 'https://images.wallpapersden.com/image/download/levi-ackerman_a2tlZmmUmZqaraWkpJRmbmdlrWZlbWU.jpg',
+       branch: "MS1",
+       about: 'nothing much',
+       contact: [
+           {
+               id: 0,
+               type: 'fb',
+               url: 'https://www.instagram.com/adityaa24__/'
+           }
+       ]
+ }
 ];
