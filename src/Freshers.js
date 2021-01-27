@@ -47,6 +47,14 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 868,
+        name : "Akshay Reddy",
+        image: 'https://drive.google.com/file/d/1sk1lghOhPfTjp7u9yvHvvmxgTLimMBrU/view?usp=sharing',
+        branch: "MT6",
+        about: 'I am tall but not athletic. I like movies, TV shows, anime and manga.'
+        
+    },    
+    {
         entryNum: 700,
         name : "Ishaan Jain",
         image: '/assets/2020PH10700.PNG',
@@ -510,13 +518,6 @@ export const FRESHERS = [
         branch: "CS1",
         about: 'Nothing much',
     },
-  {
-        entryNum: 494,
-        name: "Goonjan Saha",
-        image: '/assets/cardImg.png',
-        branch: "EE1",
-        about: 'Nothing much',
-    },
     {
         entryNum:386,
         name:"Sibasish Rout",
@@ -571,6 +572,20 @@ export const FRESHERS = [
         image: '/assets/cardImg.png',
         branch: "ME1",
         about: 'Born to be an Engineer',
+    },
+{
+        entryNum: 358,
+        name:"Manthan Dalmia",
+        image: '/assets/cardImg.png',
+        branch: "CS1",
+        about: "I like to play badminton and intrested in sketching.I also love mobile photography and have intrest in physics",
+        contact: [
+            {
+              id:0,
+              type:"insta",
+              url: 'https://www.instagram.com/manthan.dalmia/'
+            }
+        ]
     },
     {
         entryNum: 424,
@@ -693,12 +708,136 @@ export const FRESHERS = [
     image : '/assets/2020ME10981.jpeg',
     branch: 'ME1',
     about: 'nothing much',
-    contact: [
+          contact: [
         {
             id: 0,
             type: 'insta',
             url: 'https://www.instagram.com/varun__vaidyanathan/'
         }
     ]
-    }
+},
+{
+    entryNum: 342,
+    name : 'Divyansh Mittal',
+    image: 'https://tenor.com/view/rick-ashtley-never-gonna-give-up-rick-roll-gif-4819894',
+    branch: 'CS1',
+    about: 'COL ka assignment karliya, jo mera about padh rhe ho',
+    contact: [
+      {
+          id: 0,
+          type: 'insta',
+          url: 'https://www.instagram.com/divyanshmittal.exe/?hl=en'
+      }
+  ]
+},
+    {   
+        entryNum: 745,
+        name : 'Ashutosh Gupta',
+        image: '/assets/2020MS10745.jpg',
+        branch: 'MS1',
+        about: 'I like to play Badminton,Table Tennis and Chess. I also love to solve brain teasers. I have a little knowledge of coding and hoping to learn more new stuff.',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/ashutosh_.25/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/profile.php?id=100025699536778'
+            }
+        ]
+    },
+    {
+    entryNum: 82,
+    name: 'Ayush Kumar Baranwal',
+    image: '/assets/cardImg.png',
+    branch: 'CH1',
+    about: 'I love to play video games and watch web series. I also play basketball and love listening to music. I know a little web development and have made a few simple games on blender.',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/cybershot_x/'
+        }
+    ]
+},
+    {
+        entryNum: 829,
+        name: 'Ojas Singh',
+        image: '/assets/2020MT10829.jpg',
+        branch: 'MT1',
+        about: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        contact: [
+            {
+                id: 0,
+                type: 'insta',
+                url: 'https://www.instagram.com/ojas__malhi/'
+
+            }
+        ]
+    },
+{
+    entryNum: 749,
+    name : 'Harshit Anand',
+    image: '/assets/https://www.instagram.com/p/CHlP2wRJgHRQiksIoi6TnsBF-SD6DIKq6RKMx00/',
+    branch: 'MS1',
+    about: 'OOF..kya hi bataun..Im Awesome :). Awfully friendly and an amazing chef(be good to me and i might cook for you.ok.)',
+    contact: [
+        {
+            id: 0,
+            type: "insta",
+            url: 'https://www.instagram.com/harshit_305/'
+        }
+       
+    ]
+},
+    {
+    entryNum: "1013",
+    name : "Dhruv Nagpal",
+    image: "https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F131870260_528700524756443_2272684149467313600_n.jpg%3Foh%3D4c846bf87052293690ac57c0c45c9311%26oe%3D6015F0BE&t=l&u=919591062204%40c.us&i=1608027223&n=fL3ocuzMi4KPppNXTc9N2cJrchGzJzTEIG7BAlL0Koo%3D",
+    branch : "ME2",
+    about : "I play the guitar.. also an intermediate squash and badminton player. Interested in web dev and currently working on an amazon clone",
+    contact : [
+        {
+            id:0,
+            type : "insta",
+            url :"https://www.instagram.com/dhruv___nagpal/"
+        }
+    ]
+}, 
+   {
+        entryNum:1014,
+        name : 'Dhruv Saini',
+        image: '/assets/2020ME21014.jpg',
+        branch: 'ME2',
+        about: 'I love to watch and play cricket. I am passionate about startup and coding' ,
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/sainidhruv01/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/dhruv.saini.3323457/'
+            }
+        ]
+},
+ {
+       entryNum: 739,
+       name : "Aditya",
+       image: 'https://images.wallpapersden.com/image/download/levi-ackerman_a2tlZmmUmZqaraWkpJRmbmdlrWZlbWU.jpg',
+       branch: "MS1",
+       about: 'nothing much',
+       contact: [
+           {
+               id: 0,
+               type: 'fb',
+               url: 'https://www.instagram.com/adityaa24__/'
+           }
+       ]
+ }
 ];
