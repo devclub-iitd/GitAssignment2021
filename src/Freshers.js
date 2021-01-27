@@ -906,6 +906,13 @@ export const FRESHERS = [
         }
     ]
 },
+{
+    entryNum: 1054,
+    name: "shashwat khari",
+    image: 'https://nyc3.digitaloceanspaces.com/memecreator-cdn/media/__processed__/36f/template-but-it-was-me-dio-892-0c6db91aec9c.jpeg',
+    branch: "ME2",
+    about: 'you were expecting a profile picture,but it was me,DIO!',       
+},
   {
     entryNum: 330,
     name : "Avval Amil",
@@ -913,5 +920,5 @@ export const FRESHERS = [
     branch: "CS1",
     about: 'Pata nahi yaar'
         
-  ,}
+  },
 ];
