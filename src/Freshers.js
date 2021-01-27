@@ -1033,6 +1033,20 @@ export const FRESHERS = [
     ]
   },
   {
+    entryNum: 672,
+    name  : "Shubh Goel",
+    image: '',
+    branch: "AM1",
+    about: 'I am an eager learner, who wants to try out new things',
+        contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/shubhgoel007/'
+        },
+          ]
+  },
+  {
     entryNum: 549,
     name : "Sanyam",
     image: 'https://miro.medium.com/max/1800/1*shucD0A6Q0h5gmB2bX0Jxg.jpeg',
