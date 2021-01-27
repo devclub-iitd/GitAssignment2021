@@ -700,7 +700,21 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/cybershot_x/'
         }
     ]
-}
+},
+    {
+    entryNum: "1013",
+    name : "Dhruv Nagpal",
+    image: "https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F131870260_528700524756443_2272684149467313600_n.jpg%3Foh%3D4c846bf87052293690ac57c0c45c9311%26oe%3D6015F0BE&t=l&u=919591062204%40c.us&i=1608027223&n=fL3ocuzMi4KPppNXTc9N2cJrchGzJzTEIG7BAlL0Koo%3D",
+    branch : "ME2",
+    about : "I play the guitar.. also an intermediate squash and badminton player. Interested in web dev and currently working on an amazon clone",
+    contact : [
+        {
+            id:0,
+            type : "insta",
+            url :"https://www.instagram.com/dhruv___nagpal/"
+        }
+    ]
+    }
 ];
       
 
