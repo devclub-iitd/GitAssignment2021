@@ -913,5 +913,20 @@ export const FRESHERS = [
    branch: "CH1",
    about: ' i am  curious and eager  learner .   i  like doing meditation and exercise everday ',
 
-}
+},
+  {
+    entryNum: 1054,
+    name: "shashwat khari",
+    image: 'https://nyc3.digitaloceanspaces.com/memecreator-cdn/media/__processed__/36f/template-but-it-was-me-dio-892-0c6db91aec9c.jpeg',
+    branch: "ME2",
+    about: 'you were expecting a profile picture,but it was me,DIO!',       
+},
+  {
+    entryNum: 330,
+    name : "Avval Amil",
+    image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
+    branch: "CS1",
+    about: 'Pata nahi yaar'
+        
+  },
 ];
