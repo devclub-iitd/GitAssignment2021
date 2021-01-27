@@ -350,6 +350,13 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 747,
+        name: "Divya Gupta",
+        image: '/assets/k.jpg',
+        branch: "MS1",
+        about: 'I have interest in sports but am not good at it.',
+    },
+    {
         entryNum: 336,
         name : "CHINMAYMITTAL",
         image: 'https://qph.fs.quoracdn.net/main-thumb-536223418-200-ttyantfkjeettdrjbgiljezgfaularsh.jpeg',
