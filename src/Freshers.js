@@ -700,7 +700,7 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/cybershot_x/'
         }
     ]
-}
+},
     {
         entryNum: 829,
         name: 'Ojas Singh',
@@ -711,7 +711,7 @@ export const FRESHERS = [
             {
                 id: 0,
                 type: 'insta',
-                url: 'https://www.instagram.com/ojas__malhi/',
+                url: 'https://www.instagram.com/ojas__malhi/'
 
             }
         ]
