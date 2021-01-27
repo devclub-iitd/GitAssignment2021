@@ -686,5 +686,19 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/_.jarvis_2001/?hl=en'
         }
     ]
-},
+    },
+    {
+    entryNum: 981,
+    name : 'Varun Vaidyanathan',
+    image : '/assets/2020ME10981.jpeg',
+    branch: 'ME1',
+    about: 'nothing much',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/varun__vaidyanathan/'
+        }
+    ]
+    }
 ];
