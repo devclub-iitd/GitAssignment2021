@@ -1,5 +1,19 @@
 export const FRESHERS = [
     {
+        entryNum: 917,
+        name : "Aryan Saple",
+        image: '/assets/2020ME10917.jpg',
+        branch: "ME1",
+        about: 'I love football (GGMU) and basketball. Im enthusiastic about coding, physics - not PYL tho :( and economics. Movies and TV shows are bae. Loove godfather. Hoping to learn dance and maybe guitar in college :)',
+        contact: [
+            {
+                id: 0,
+                type: 'insta',
+                url: 'https://www.instagram.com/random_errorer/'
+            }
+        ]
+    },
+    {
         entryNum: 461,
         name : 'Aditya Singh',
         image: '/assets/2020EE10461.jpg',
@@ -47,6 +61,21 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 868,
+        name : "Akshay Reddy",
+        image: 'https://drive.google.com/file/d/1sk1lghOhPfTjp7u9yvHvvmxgTLimMBrU/view?usp=sharing',
+        branch: "MT6",
+        about: 'I am tall but not athletic. I like movies, TV shows, anime and manga.'
+
+    },
+    {
+        entryNum: 583,
+        name : 'ANURAG GUPTA',
+        image: '/assets/2020EE30583.jpg',
+        branch: 'Electrical Engineering Power & Automation',
+        about: 'Like chess and technology, finding everything else',
+    },
+    {
         entryNum: 700,
         name : "Ishaan Jain",
         image: '/assets/2020PH10700.PNG',
@@ -60,7 +89,31 @@ export const FRESHERS = [
             },
         ]
     },
-    
+    {
+        entryNum: 468,
+        name : 'Animesh Jhawar',
+        image: '/assets/2020EE10468.jpg',
+        branch: 'Electrical Engineering 1',
+        about: 'Just Trying And Sorting Out Everything.',
+        contact: [
+            {
+                id: 0,
+                type: 'instagram',
+                url: 'https://www.instagram.com/animesh__jhawar/'
+            }
+            ,{
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/animesh-jhawar-28a8841b8/'
+            }
+            ,{
+                id: 2,
+                type: 'facebook',
+                url: 'https://www.facebook.com/animeshJhawariitd/'
+            }
+
+        ]
+    },
     {
         entryNum: 335,
         name : "CHETAN GAIKWAD",
@@ -80,7 +133,7 @@ export const FRESHERS = [
         name : "riya",
         image: '/assets/cardImg.png',
         branch: "cs1",
-        
+
     },
   {
         entryNum: 488,
@@ -109,9 +162,9 @@ export const FRESHERS = [
                 url: "https://www.facebook.com/aryan.sinha.10485/",
 
             },
-            
-            
-        ]    
+
+
+        ]
     },
 
       {
@@ -210,7 +263,7 @@ export const FRESHERS = [
                 type: 'fb',
                 url: 'https://www.facebook.com/tanya.goyal.10485546'
             }
-         ]   
+         ]
     },
     {
         entryNum: 776,
@@ -226,7 +279,7 @@ export const FRESHERS = [
             }
         ]
     },
-    { 
+    {
         entryNum: 447,
         name : 'Vaibhav Agarwal',
         image: '/assets/2020CS50447.jpeg',
@@ -297,12 +350,19 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 747,
+        name: "Divya Gupta",
+        image: '/assets/k.jpg',
+        branch: "MS1",
+        about: 'I have interest in sports but am not good at it.',
+    },
+    {
         entryNum: 336,
         name : "CHINMAYMITTAL",
         image: 'https://qph.fs.quoracdn.net/main-thumb-536223418-200-ttyantfkjeettdrjbgiljezgfaularsh.jpeg',
         branch: "CS1",
         about: 'Nothing much',
-    }, 
+    },
     {
         entryNum: 1121,
         name : "Jasraj Singh Bhatia",
@@ -356,7 +416,7 @@ export const FRESHERS = [
         image: '/assets/cardImg.png',
         branch: "TT1",
         about: "I like sports, music, art, entrepreneurship, coding and open to learn new things everyday :) ",
-        contact: 
+        contact:
         [
             {
                 id: 0,
@@ -368,7 +428,7 @@ export const FRESHERS = [
                 type: 'insta',
                 url: 'https://www.instagram.com/givnahor/'
             }
-        
+
         ]
     },
     {
@@ -437,7 +497,7 @@ export const FRESHERS = [
     name : "Shreyansh Singh",
     image: '/assets/2020CS10385.jpeg',
     branch: "CS1",
-    about: 'Love badminton and Rubiks cube',    
+    about: 'Love badminton and Rubiks cube',
 },
 {
     entryNum: 349,
@@ -474,7 +534,7 @@ export const FRESHERS = [
     about: 'Love to play music, think about mechanical systems and my optional subject during last two years at school also got me interested in coding.',
 
 },
-{ 
+{
     entryNum: 66,
     name: "Yashdeep",
     image: '/assets/2020BB10066.jpg',
@@ -508,13 +568,6 @@ export const FRESHERS = [
         name: "Devanshi Khatsuriya",
         image: '/assets/cardImg.png',
         branch: "CS1",
-        about: 'Nothing much',
-    },
-  {
-        entryNum: 494,
-        name: "Goonjan Saha",
-        image: '/assets/cardImg.png',
-        branch: "EE1",
         about: 'Nothing much',
     },
     {
@@ -564,13 +617,27 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/hemant.prakash.169/'
             }
         ]
-    }, 
+    },
     {
         entryNum: 938,
         name: "Ishan Jain",
         image: '/assets/cardImg.png',
         branch: "ME1",
         about: 'Born to be an Engineer',
+    },
+{
+        entryNum: 358,
+        name:"Manthan Dalmia",
+        image: '/assets/cardImg.png',
+        branch: "CS1",
+        about: "I like to play badminton and intrested in sketching.I also love mobile photography and have intrest in physics",
+        contact: [
+            {
+              id:0,
+              type:"insta",
+              url: 'https://www.instagram.com/manthan.dalmia/'
+            }
+        ]
     },
     {
         entryNum: 424,
@@ -583,7 +650,7 @@ export const FRESHERS = [
         entryNum: 69,
         name: "Abhijeet Gautam",
         image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
-    
+
         branch: "CH1",
         about: 'softwares and websites fascinate me '
     },
@@ -605,13 +672,13 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/shubham.varshneya/'
             }
         ]
-    }, 
+    },
       {
         entryNum: 663,
         name : 'Raj Shah',
         image: '/assets/2020AM10663.jpg',
         branch: 'AM1',
-        about: 'First Year student in ECM branch'      
+        about: 'First Year student in ECM branch'
     },
 {
     entryNum: 573,
@@ -644,7 +711,7 @@ export const FRESHERS = [
                 type: "insta",
                 url: 'https://www.instagram.com/rajat_gupta02/'
             }
-            
+
         ]
     },
     {
@@ -659,7 +726,7 @@ export const FRESHERS = [
                 type:'insta',
                 url: 'https://www.instagram.com/dakshkhandelwal1201'
             },
-         ]   
+         ]
    },
    {
     entryNum: 422,
@@ -685,21 +752,238 @@ export const FRESHERS = [
             type: 'insta',
             url: 'https://www.instagram.com/_.jarvis_2001/?hl=en'
         }
-    ]
+       ]
+    },
     {
         entryNum: 546,
         name: "Samir Sharma"
-        image: 'https://images.indianexpress.com/2021/01/bernie-sanders-1200.jpg'        
-        branch: "EE1"
-        about: 'AMA '
+        image : 'https://images.indianexpress.com/2021/01/bernie-sanders-1200.jpg'        
+        branch : "EE1"
+        about : 'AMA '
+        
+    },
+    {
+    entryNum: 981,
+    name : 'Varun Vaidyanathan',
+    image : '/assets/2020ME10981.jpeg',
+    branch: 'ME1',
+    about: 'nothing much',
+          contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/varun__vaidyanathan/'
+        }
+    ]
+},
+{
+    entryNum: 342,
+    name : 'Divyansh Mittal',
+    image: 'https://tenor.com/view/rick-ashtley-never-gonna-give-up-rick-roll-gif-4819894',
+    branch: 'CS1',
+    about: 'COL ka assignment karliya, jo mera about padh rhe ho',
+    contact: [
+      {
+          id: 0,
+          type: 'insta',
+          url: 'https://www.instagram.com/divyanshmittal.exe/?hl=en'
+      }
+  ]
+},
+    {
+        entryNum: 745,
+        name : 'Ashutosh Gupta',
+        image: '/assets/2020MS10745.jpg',
+        branch: 'MS1',
+        about: 'I like to play Badminton,Table Tennis and Chess. I also love to solve brain teasers. I have a little knowledge of coding and hoping to learn more new stuff.',
         contact: [
             {
-                id:0,
-                type: 'fb'
-                url: 'https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjkwKy3nLruAhXP9nMBHe4fAd8QwqsBMAB6BAgMEAM&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ%26ab_channel%3DRickAstleyVEVO&usg=AOvVaw3GPOinjmqQgRU0bExw1KfE'
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/ashutosh_.25/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/profile.php?id=100025699536778'
             }
         ]
+    },
+    {
+    entryNum: 82,
+    name: 'Ayush Kumar Baranwal',
+    image: '/assets/cardImg.png',
+    branch: 'CH1',
+    about: 'I love to play video games and watch web series. I also play basketball and love listening to music. I know a little web development and have made a few simple games on blender.',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/cybershot_x/'
+        }
+    ]
 
-    }
 },
+    {
+        entryNum: 829,
+        name: 'Ojas Singh',
+        image: '/assets/2020MT10829.jpg',
+        branch: 'MT1',
+        about: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        contact: [
+            {
+                id: 0,
+                type: 'insta',
+                url: 'https://www.instagram.com/ojas__malhi/'
+
+            }
+        ]
+    },
+{
+    entryNum: 749,
+    name : 'Harshit Anand',
+    image: '/assets/https://www.instagram.com/p/CHlP2wRJgHRQiksIoi6TnsBF-SD6DIKq6RKMx00/',
+    branch: 'MS1',
+    about: 'OOF..kya hi bataun..Im Awesome :). Awfully friendly and an amazing chef(be good to me and i might cook for you.ok.)',
+    contact: [
+        {
+            id: 0,
+            type: "insta",
+            url: 'https://www.instagram.com/harshit_305/'
+        }
+
+    ]
+},
+    {
+    entryNum: "1013",
+    name : "Dhruv Nagpal",
+    image: "https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F131870260_528700524756443_2272684149467313600_n.jpg%3Foh%3D4c846bf87052293690ac57c0c45c9311%26oe%3D6015F0BE&t=l&u=919591062204%40c.us&i=1608027223&n=fL3ocuzMi4KPppNXTc9N2cJrchGzJzTEIG7BAlL0Koo%3D",
+    branch : "ME2",
+    about : "I play the guitar.. also an intermediate squash and badminton player. Interested in web dev and currently working on an amazon clone",
+    contact : [
+        {
+            id:0,
+            type : "insta",
+            url :"https://www.instagram.com/dhruv___nagpal/"
+        }
+    ]
+},
+   {
+        entryNum:1014,
+        name : 'Dhruv Saini',
+        image: '/assets/2020ME21014.jpg',
+        branch: 'ME2',
+        about: 'I love to watch and play cricket. I am passionate about startup and coding' ,
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/sainidhruv01/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/dhruv.saini.3323457/'
+            }
+        ]
+},
+ {
+       entryNum: 739,
+       name : "Aditya",
+       image: 'https://images.wallpapersden.com/image/download/levi-ackerman_a2tlZmmUmZqaraWkpJRmbmdlrWZlbWU.jpg',
+       branch: "MS1",
+       about: 'nothing much',
+       contact: [
+           {
+               id: 0,
+               type: 'fb',
+               url: 'https://www.instagram.com/adityaa24__/'
+           }
+       ]
+ },
+ {
+    entryNum: 180,
+    name : "Mitanshu Kansal",
+    image: '',
+    branch: "CH7",
+    about: 'nothing much',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/mitanshu_kansal/'
+        }
+    ]
+},
+{
+    entryNum: 817,
+    name : "Madhav Goel",
+    image: '/assets/Madhav.jpg',
+    branch: "MT1",
+    about: "bachpan me socha tha cricketer banege fir aukat saamne aagyi aur ab me devclub me hu, interests - zindagi se khelna , palangtodna",
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/madhav_goel21/'
+        }
+    ]
+},
+{
+    entryNum: 433,
+    name : "Nischay Diwan",
+    image: '/assets/cardImg.png',
+    branch: "cs5",
+    about: 'Hello frendzz',
+    contact: [
+        {
+            id: 0,
+            type: 'fb',
+            url: 'https://www.facebook.com/nischay.diwan'
+        },
+	    {
+               id: 1,
+               type: 'insta',
+               url: 'https://www.instagram.com/nischaydiwan/'
+           },
+
+    ]
+},
+  {
+   entryNum: 128,
+   name : "Shivam Madan",
+   image: '',
+   branch: "CH1",
+   about: ' i am  curious and eager  learner .   i  like doing meditation and exercise everday ',
+
+},
+  {
+    entryNum: 1054,
+    name: "shashwat khari",
+    image: 'https://nyc3.digitaloceanspaces.com/memecreator-cdn/media/__processed__/36f/template-but-it-was-me-dio-892-0c6db91aec9c.jpeg',
+    branch: "ME2",
+    about: 'you were expecting a profile picture,but it was me,DIO!',       
+},
+  {
+    entryNum: 330,
+    name : "Avval Amil",
+    image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
+    branch: "CS1",
+    about: 'Pata nahi yaar'
+        
+  },
+  {
+    entryNum: 549,
+    name : "Sanyam",
+    image: 'https://miro.medium.com/max/1800/1*shucD0A6Q0h5gmB2bX0Jxg.jpeg',
+    branch: "EE1",
+    about: 'I like cricket, coding and comedy. Hoping to improve speaking skills in the college.',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/sanyam4543/'
+        }
+    ]
+    }
 ];
