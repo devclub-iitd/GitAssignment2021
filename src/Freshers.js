@@ -752,7 +752,15 @@ export const FRESHERS = [
             type: 'insta',
             url: 'https://www.instagram.com/_.jarvis_2001/?hl=en'
         }
-    ]
+       ]
+    },
+    {
+    entryNum: 546,
+    name: 'Samir Sharma',
+    image : 'https://images.indianexpress.com/2021/01/bernie-sanders-1200.jpg'  ,      
+    branch : 'EE1',
+    about : 'AMA',
+        
     },
     {
     entryNum: 981,
@@ -814,6 +822,7 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/cybershot_x/'
         }
     ]
+
 },
     {
         entryNum: 829,
