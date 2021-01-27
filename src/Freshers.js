@@ -976,5 +976,13 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/sanyam4543/'
         }
     ]
-    }
+    },
+  {
+    entryNum: 81,
+    name : "Avik Ghosh",
+    image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThe_Amazing_Spider-Man_(film)&psig=AOvVaw1fcI_KrLNtuqG1JVVJQIaC&ust=1611859384469000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDdr6LivO4CFQAAAAAdAAAAABAD',
+    branch: "CH1",
+    about: 'Nothing special'
+        
+  }
 ];
