@@ -853,5 +853,13 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/mitanshu_kansal/'
         }
     ]
-}
+},
+  {
+    entryNum: 330,
+    name : "Avval Amil",
+    image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
+    branch: "CS1",
+    about: 'Pata nahi yaar'
+        
+  ,}
 ];
