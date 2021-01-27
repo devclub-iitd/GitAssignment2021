@@ -53,7 +53,14 @@ export const FRESHERS = [
         branch: "MT6",
         about: 'I am tall but not athletic. I like movies, TV shows, anime and manga.'
         
-    },    
+    },  
+    {
+        entryNum: 583,
+        name : 'ANURAG GUPTA',
+        image: '/assets/2020EE30583.jpg',
+        branch: 'Electrical Engineering Power & Automation',
+        about: 'Like chess and technology, finding everything else',
+    },  
     {
         entryNum: 700,
         name : "Ishaan Jain",
