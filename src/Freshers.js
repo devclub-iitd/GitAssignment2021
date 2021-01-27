@@ -700,8 +700,22 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/cybershot_x/'
         }
     ]
-}
+},
+    {
+    entryNum: 134,
+    name: 'Soumya Bhartiya',
+    image: '/assets/2020CH10134.jpeg',
+    branch: 'CH1',
+    about: 'Avid reader, keen to learn and explore',
+    contact: [
+        {
+            id:0,
+            type: 'insta',
+            url: 'https://www.instagram.com/soumyaaaaaaa/'
+        }
+    ]
+},
 ];
-      
+
 
     
