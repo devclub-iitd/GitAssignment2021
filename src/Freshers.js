@@ -52,5 +52,12 @@ export const FRESHERS = [
         image: '/assets/cardImg.png',
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
-    }
+    },
+    {
+        entryNum: 747,
+        name: "Divya Gupta",
+        image: '/assets/k.jpg',
+        branch: "MS1",
+        about: 'I have interest in sports but am not good at it.',
+    },
 ];
