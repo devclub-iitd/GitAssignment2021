@@ -68,7 +68,31 @@ export const FRESHERS = [
             },
         ]
     },
-    
+    {
+        entryNum: 468,
+        name : 'Animesh Jhawar',
+        image: '/assets/2020EE10468.jpg',
+        branch: 'Electrical Engineering 1',
+        about: 'Just Trying And Sorting Out Everything.',
+        contact: [
+            {
+                id: 0,
+                type: 'instagram',
+                url: 'https://www.instagram.com/animesh__jhawar/'
+            }
+            ,{
+                id: 1,
+                type: 'LinkedIn',
+                url: 'https://www.linkedin.com/in/animesh-jhawar-28a8841b8/'
+            }
+            ,{
+                id: 2,
+                type: 'facebook',
+                url: 'https://www.facebook.com/animeshJhawariitd/'
+            }
+            
+        ]
+    },
     {
         entryNum: 335,
         name : "CHETAN GAIKWAD",
