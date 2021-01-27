@@ -14,20 +14,6 @@ export const FRESHERS = [
         ]
     },
     {
-        entryNum: 549,
-        name : "Sanyam",
-        image: 'https://miro.medium.com/max/1800/1*shucD0A6Q0h5gmB2bX0Jxg.jpeg',
-        branch: "EE1",
-        about: 'I like cricket, coding and comedy. Hoping to improve speaking skills in the college.',
-        contact: [
-            {
-                id: 0,
-                type: 'insta',
-                url: 'https://www.instagram.com/sanyam4543/'
-            }
-        ]
-    },
-    {
         entryNum: 461,
         name : 'Aditya Singh',
         image: '/assets/2020EE10461.jpg',
@@ -927,5 +913,19 @@ export const FRESHERS = [
     branch: "CS1",
     about: 'Pata nahi yaar'
         
-  ,}
+  },
+  {
+    entryNum: 549,
+    name : "Sanyam",
+    image: 'https://miro.medium.com/max/1800/1*shucD0A6Q0h5gmB2bX0Jxg.jpeg',
+    branch: "EE1",
+    about: 'I like cricket, coding and comedy. Hoping to improve speaking skills in the college.',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/sanyam4543/'
+        }
+    ]
+    }
 ];
