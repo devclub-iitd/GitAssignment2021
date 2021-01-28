@@ -1097,5 +1097,20 @@ export const FRESHERS = [
     about: 'Nothing special'
         
   }
+  {
+    entryNum: 72,
+    name : "Animesh Kumar",
+    image: 'public\assets\2020CH10072.jpeg',
+    branch: "CH1",
+    about: 'Watashino namaewa animeshdes yoroshiku onegaishimasu',
+    contact: [
+     {
+            id: 0,
+            type: 'insta',
+            url: 'hhttps://www.instagram.com/animesh.sama/'
+        },
+    ]
+},
+
 ];
 
