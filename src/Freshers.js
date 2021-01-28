@@ -920,6 +920,19 @@ export const FRESHERS = [
       image:'https://www.facebook.com/photo?fbid=404488120645882&set=a.106604263767604',
       branch:"CSE",
       about:"Being Human enjoy every moment in life",
+      contact:
+      [
+          {
+              id:1,
+              type:'insta'
+              url:'https://www.instagram.com/the_raushan_bhaskar_101/',
+          },
+          {
+              id:2,
+              type:'fb',
+              url:'https://www.facebook.com/raushan.bhaskar.1/',
+          },
+      ]
   },
 
 ];
