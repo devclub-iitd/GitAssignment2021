@@ -370,6 +370,32 @@ export const FRESHERS = [
         branch: "ee3",
         about: 'I like reading books and listening to music',
     },
+    {
+        entryNum: 895,
+        name : "Sai Niketh",
+        image: '/assets/cardImg.png',
+        branch: "MT6",
+        about: 'I like to watch movies and TV series. I like to play chess',
+    },
+    {
+        entryNum: 687,
+        name : 'Aviral Gupta',
+        image: '/assets/ph1200687.jpeg',
+        branch: 'PH1',
+        about: 'As may be evident from the department I am in; I love Physics, especially mechanics (although APL is making me reconsider my interests). I have always wanted to learn to code, and I hope that this thirst of mine will be quenched in the near future.',
+              contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/alphaaviral/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/aviral.gupta.9484941'
+            }
+        ]
+    },
   {
         entryNum: 20,
         name : "Harsh Vardhan Singh Patel",
@@ -1240,8 +1266,54 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/aadyaagrawal_15/'
         }
     ]
+    },
+    {
+        entryNum: 408,
+        name : 'Vedant Mukesh Deo',
+        image: '/assets/2020CS10408.jpg',
+        branch: 'CS1',
+        about: 'I  like playing badminton, chess and football, watching web series and movies.',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/vedantdeo19/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/profile.php?100008192074505id='
+            }
+        ]
   },
   {
+    entryNum: 1196,
+    name : "Aryan Sharma",
+    image: '/assets/2020ME21196.jpg',
+    branch: "ME2",
+    about: "Not a programmer",
+    contact: [
+        {
+            id : 0,
+            type: 'fb',
+            url: 'https://www.facebook.com/aryanafgji/'
+        },
+        {
+            id: 1,
+            type: 'insta',
+            url: 'https://www.instagram.com/grimmrey/'
+        },
+    ]
+},
+  {
+    entryNum: 458,
+    name : "Adit Malhotra",
+    image: '',
+    branch: "EE1",
+    about: 'an avg geek',
+    
+    },
+	{
     entryNum: 619,
     name : "Rahul Gupta",
     image: '/assets/2020EE30619.jpg',
@@ -1327,6 +1399,25 @@ export const FRESHERS = [
     ]
   },
   {
+      entryNum: 404,
+      name : 'Vamshi Vangala',
+      image: '/assets/2020CS10404.jpg',
+      branch: 'CS1',
+      about: 'I  like playing basketball, swimming and table tennis. I enjoy watching movies, listening to music and scrolling memes. I also read books occasionally',
+      contact: [
+          {
+              id: 0,
+              type: "insta",
+              url: 'https://www.instagram.com/_vamshi_23/'
+          },
+          {
+              id: 1,
+              type: 'fb',
+              url: 'https://www.facebook.com/vamshi.vangala.921'
+          }
+      ]
+  },
+  {
     entryNum: 319,
     name: "Aman Bansal",
     image: "",
@@ -1380,6 +1471,27 @@ export const FRESHERS = [
         }
     ]
   },
+  {
+    entryNum: 454,
+    name : "Aaryan Goyal",
+    image: '/assets/2020EE10454.jpg',
+    branch: 'EE1',
+    about: 'No',
+    contact: [
+        {
+            id: 0,
+            type: 'instagram',
+            url: 'https://www.instagram.com/aaryan_goyal231/'
+        }
+        ,{
+            id: 1,
+            type: 'LinkedIn',
+            url: 'https://www.linkedin.com/in/aaryan-goyal-2ba256204/'
+        }
+        
+
+    ]
+},
     {
     entryNum: 339,
     name : "Danish Javed",

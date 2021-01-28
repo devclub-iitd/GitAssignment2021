@@ -8,13 +8,13 @@ function CardFooterDisplay({contact}){
             {contact.map((account)=>{
                 if(account.type==="insta"){
                     return(
-                        <a href={account.url}>
+                        <a href={account.url} target="_blank" rel="noreferrer">
                             <span className="fa fa-instagram fa-lg insta"></span>
                         </a>
                     );
                 }else{
                     return(
-                        <a href={account.url}>
+                        <a href={account.url} target="_blank" rel="noreferrer">
                             <span className="fa fa-facebook fa-lg fb"></span>
                         </a>
                     );
