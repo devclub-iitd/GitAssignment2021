@@ -1103,7 +1103,7 @@ export const FRESHERS = [
       image: '/assets/pfp827.jpg',
       branch: "MT1",
       about: 'Hey there ( ͡° ͜ʖ ͡°)',
-      contacts: [
+      contact: [
           {
               id: 0,
               type: 'fb',
