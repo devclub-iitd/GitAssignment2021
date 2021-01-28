@@ -1100,7 +1100,7 @@ export const FRESHERS = [
   {
     entryNum: 448,
     name : "Vaibhav Mishra",
-    image: '/assets/okokok.jpg',
+    image: '',
     branch: "CS5",
     about: 'Average Great Khali Fan',
     
