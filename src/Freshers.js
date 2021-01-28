@@ -1270,6 +1270,20 @@ export const FRESHERS = [
     ]
   },
   {
+    entryNum: 636,
+    name : "Aazra",
+    image: '/assets/cardImg.png',
+    branch: "AM1",
+    about: 'What do you wanna know',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/aazra.xv/'
+        }
+    ]
+  },
+  {
     entryNum: 319,
     name: "Aman Bansal",
     image: "",
