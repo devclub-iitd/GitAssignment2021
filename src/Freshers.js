@@ -52,5 +52,12 @@ export const FRESHERS = [
         image: '/assets/cardImg.png',
         branch: "me2",
         about: 'Big fan of movies. Reading is not my cup of tea',
+    },
+    {
+        entryNum: 895,
+        name : "Sai Niketh",
+        image: '/assets/cardImg.png',
+        branch: "MT6",
+        about: 'I like to watch movies and TV series. I like to play chess',
     }
 ];
