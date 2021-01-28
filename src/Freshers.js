@@ -1249,4 +1249,18 @@ export const FRESHERS = [
         }
     ]
   },
+  {
+    entryNum: 1041,
+    name : "Pranay Shah",
+    image: '/assets/pranayshah.jpg',
+    branch: "ME2",
+    about: 'I\'m the amest guy you\'ll meet',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/Shah_Pranay/'
+        }
+    ]
+  },
 ];
