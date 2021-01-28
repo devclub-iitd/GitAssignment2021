@@ -1374,6 +1374,25 @@ export const FRESHERS = [
     ]
   },
   {
+      entryNum: 404,
+      name : 'Vamshi Vangala',
+      image: '/assets/2020CS10404.jpg',
+      branch: 'CS1',
+      about: 'I  like playing basketball, swimming and table tennis. I enjoy watching movies, listening to music and scrolling memes. I also read books occasionally',
+      contact: [
+          {
+              id: 0,
+              type: "insta",
+              url: 'https://www.instagram.com/_vamshi_23/'
+          },
+          {
+              id: 1,
+              type: 'fb',
+              url: 'https://www.facebook.com/vamshi.vangala.921'
+          }
+      ]
+  },
+  {
     entryNum: 319,
     name: "Aman Bansal",
     image: "",
