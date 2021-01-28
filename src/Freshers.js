@@ -1096,8 +1096,8 @@ export const FRESHERS = [
     branch: "CH1",
     about: 'Nothing special'
         
-  },
-  {
+  }
+  ,{
     entryNum: 731,
     name : 'Subhav Mittal',
     image: "/assets/2020PH10731.jpg",
