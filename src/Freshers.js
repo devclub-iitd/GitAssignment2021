@@ -1096,13 +1096,13 @@ export const FRESHERS = [
     branch: "CH1",
     about: 'Nothing special'
         
-  },
+  }
   {
     entryNum: 777,
     name : "Aadya Agrawal",
-    image: '/assets/2020MT120777.jpg',
+    image: '/assets/2020MT120777.jpeg', 
     branch: "MT1",
-    about: 'Skilled Procrastinator' ,
+    about: 'Skilled Procrastinator',
     contact: [
         {
             id: 0,
@@ -1112,4 +1112,3 @@ export const FRESHERS = [
     ]
   },
 ];
-
