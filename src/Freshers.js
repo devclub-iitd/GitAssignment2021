@@ -916,7 +916,7 @@ export const FRESHERS = [
   },
   {
       entryNum:1190,
-      name:"Raushan kumar",
+      name:"Raushan Kumar",
       image:'https://drive.google.com/drive/u/0/folders/10WFGYhpa_t5n0lMdVC3s_8qRkCsBive_',
       branch:"CSE",
       about:"Being Human enjoy every moment in life",
