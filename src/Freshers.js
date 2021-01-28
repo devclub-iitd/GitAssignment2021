@@ -1291,6 +1291,20 @@ export const FRESHERS = [
     about: "like to play cricket"
   },
   {
+      entryNum: 416,
+      name : "Ananya Mathur",
+      image: '/assets/cardImg.png',
+      branch: "CS5",
+      about: "Passionate about coding. Like to read and play badminton.",
+      contact: [
+           {
+              id: 0,
+              type: 'insta',
+              url: 'https://www.instagram.com/ananyamathur_182/'
+           }
+    ]
+  },
+    {
     entryNum: 392,
     name : 'Soumil Aggarwal',
     image: '/assets/2020CS10392.jpg',
