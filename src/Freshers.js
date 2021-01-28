@@ -1256,6 +1256,25 @@ export const FRESHERS = [
     ]
   },
   {
+    entryNum: 698,
+    name : 'Ibrahim Khan',
+    image: '/assets/2020PH10698.jpeg',
+    branch: 'PH1',
+    about: 'I love sketching, painting, singing and playing outdoor sports.',
+    contact: [
+        {
+            id: 0,
+            type: "insta",
+            url: 'https://www.instagram.com/ibrahim.ik5/'
+        },
+        {
+            id: 1,
+            type: 'fb',
+            url: 'https://www.facebook.com/people/Ibrahim-Khan/100009358598892'
+        }
+    ]
+},
+  {
     entryNum: 375,
     name : "Rohit Janbandhu",
     image: 'https://www.bing.com/images/search?q=goku+ultra+instinct&id=EBFD382B4198FE61E670A3B412E3DAE6192DF19C&FORM=IQFRBA',
