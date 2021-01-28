@@ -1249,4 +1249,17 @@ export const FRESHERS = [
         }
     ]
   },
+ {
+   entryNum: 726,
+   name : "Samyak Mahajan",
+   image: '/assets/cardImg.png',
+   branch: "PH1",
+   about: "Not Applicable!",
+   contact: [{
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/samyak_mahajan/'
+        }]
+   
+}
 ];
