@@ -1031,8 +1031,14 @@ export const FRESHERS = [
     image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
     branch: "CS1",
     about: 'Pata nahi yaar'
-        
-  ,},
+},
+  {
+    entryNum: 539,
+    name : "Rashee Agarwal",
+    image: 'https://images.app.goo.gl/pMMNMvNNKTYdGFk27',
+    branch: "EE1",
+    about: 'Love listening music and a big fan of detetcive and thriller novels and web series (my picture suggests it), likes coding and exploring new things but by nature I am a very lazy person',
+},
 {
     entryNum: 384,
     name : "Shreya Sonone",
@@ -1248,6 +1254,40 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/rahul.g_9/'
         }
     ]
+  },     
+  {
+    entryNum: 163,
+    name : "Shashwat Narayan",
+    image: 'NA',
+    branch: "TT1",
+    about: 'I love cars and coding.',
+    contact: [
+        {
+            id: 0,
+            type: 'linkedin',
+            url: 'https://www.linkedin.com/in/snk-805902200'
+        }
+    ]
+  },
+ {
+   entryNum: 726,
+   name : "Samyak Mahajan",
+   image: '/assets/cardImg.png',
+   branch: "PH1",
+   about: "Not Applicable!",
+   contact: [{
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/samyak_mahajan/'
+        }]
+   
+},
+  { 
+    entryNum: 592,
+    name : "Dhruv Agarwal",
+    image: '',
+    branch: "EE3",
+    about: 'extraordinarily ordinary',
   },
   {
     entryNum: 671,
@@ -1258,6 +1298,146 @@ export const FRESHERS = [
     
     
   },
-
-
+  {
+    entryNum: 503,
+    name : "Kanishk Goel",
+    image: 'https://static.wikia.nocookie.net/gta/images/b/b6/Melvin_Harris_%28SA%29.jpg/revision/latest?cb=20140623205743&path-prefix=pl',
+    branch: "EE1",
+    about: 'Watches youtube.That is it.',
+    contact: [
+        {
+            id: 0,
+            type: "facebook",
+            url: 'https://www.facebook.com/kanishk.goel.148'
+        }
+    ]
+},
+  {
+    entryNum: 636,
+    name : "Aazra",
+    image: '/assets/cardImg.png',
+    branch: "AM1",
+    about: 'What do you wanna know',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/aazra.xv/'
+        }
+    ]
+  },
+  {
+    entryNum: 319,
+    name: "Aman Bansal",
+    image: "",
+    branch: "CS1",
+    about: "like to play cricket"
+  },
+  {
+      entryNum: 416,
+      name : "Ananya Mathur",
+      image: '/assets/cardImg.png',
+      branch: "CS5",
+      about: "Passionate about coding. Like to read and play badminton.",
+      contact: [
+           {
+              id: 0,
+              type: 'insta',
+              url: 'https://www.instagram.com/ananyamathur_182/'
+           }
+    ]
+  },
+    {
+    entryNum: 392,
+    name : 'Soumil Aggarwal',
+    image: '/assets/2020CS10392.jpg',
+    branch: 'CS1',
+    about: 'Meh',
+        contact: [
+        {
+            id: 0,
+            type: "insta",
+            url: 'https://www.instagram.com/soumilaggarwal_01/'
+        },
+        {
+            id: 1,
+            type: 'fb',
+            url: 'https://www.facebook.com/soumil.aggarwal01/'
+        }
+    ]
+  },
+  {
+    entryNum: 1041,
+    name : "Pranay Shah",
+    image: '/assets/pranayshah.jpg',
+    branch: "ME2",
+    about: 'I am the lamest guy you will ever meet',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/Shah_Pranay/'
+        }
+    ]
+  },
+    {
+    entryNum: 339,
+    name : "Danish Javed",
+    image: '',
+    branch: "CS1",
+    about: 'clueless',
+    
+    },
+  {  
+      entryNum: 1160,
+      name: "Sanat Vohra",
+      image:'/assets/Sanat.jpg',
+      branch: "TT1",
+      about: 'IIT mein pahunch fir sab chill hai',
+      contact:[
+          {
+              id: 0,
+              type:'insta',
+              url: 'https://www.instagram.com/vohrasanat/',
+       },
+          {
+              id: 1,
+              type: 'Linkedin',
+              url: 'https://www.linkedin.com/in/sanat-vohra-009079200/'
+          }
+    ] 
+},
+  {
+    entryNum: 698,
+    name : 'Ibrahim Khan',
+    image: '/assets/2020PH10698.jpeg',
+    branch: 'PH1',
+    about: 'I love sketching, painting, singing and playing outdoor sports.',
+    contact: [
+        {
+            id: 0,
+            type: "insta",
+            url: 'https://www.instagram.com/ibrahim.ik5/'
+        },
+        {
+            id: 1,
+            type: 'fb',
+            url: 'https://www.facebook.com/people/Ibrahim-Khan/100009358598892'
+        }
+    ]
+},
+  {
+    entryNum: 375,
+    name : "Rohit Janbandhu",
+    image: 'https://www.bing.com/images/search?q=goku+ultra+instinct&id=EBFD382B4198FE61E670A3B412E3DAE6192DF19C&FORM=IQFRBA',
+    branch: "CS1",
+    about: 'I like playing football and computer games',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/rohit.j.333'
+        }
+    ]    
+},     
 ];
