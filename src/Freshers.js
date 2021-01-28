@@ -962,5 +962,12 @@ export const FRESHERS = [
     branch: "CS1",
     about: 'Pata nahi yaar'
         
-  },
+},
+  {
+    entryNum: 539,
+    name : "Rashee Agarwal",
+    image: 'https://images.app.goo.gl/pMMNMvNNKTYdGFk27',
+    branch: "EE1",
+    about: 'Love listening music and a big fan of detetcive and thriller novels and web series (my picture suggests it), likes coding and exploring new things but by nature I am a very lazy person',
+},
 ];
