@@ -1096,6 +1096,20 @@ export const FRESHERS = [
     branch: "CH1",
     about: 'Nothing special'
         
-  }
+  },
+  {
+    entryNum: 448,
+    name : "Vaibhav Mishra",
+    image: 'https://www.gstatic.com/tv/thumb/persons/320213/320213_v9_ba.jpg',
+    branch: "CS5",
+    about: 'Average Great Khali Fan',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/vaibhavxmishra/'
+        }
+    ]
+         },
 ];
 
