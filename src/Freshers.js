@@ -1255,6 +1255,13 @@ export const FRESHERS = [
         }
     ]
   },
+  {
+    entryNum: 319,
+    name: "Aman Bansal",
+    image: "",
+    branch: "CS1",
+    about: "like to play cricket"
+  },
   {  
       entryNum: 1160,
       name: "Sanat Vohra",
