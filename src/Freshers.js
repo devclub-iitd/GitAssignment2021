@@ -1109,7 +1109,7 @@ export const FRESHERS = [
             type: 'insta',
             url: 'https://www.instagram.com/bizarre9304/'
         }
-    ]
-    }
+             ]
+},
 ];
 
