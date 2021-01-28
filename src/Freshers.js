@@ -1104,6 +1104,5 @@ export const FRESHERS = [
     branch: "TT1",
     about: 'I need Freedom'
 },
-}
 ];
 
