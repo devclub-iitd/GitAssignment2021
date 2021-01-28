@@ -1249,4 +1249,15 @@ export const FRESHERS = [
         }
     ]
   },
+  {
+    entryNum: 671,
+    name : "Shreya Singla",
+    image: '/assets/2020AM10671.jpg',
+    branch: "AM1",
+    about: 'Trying Something New',
+    
+    
+  },
+
+
 ];
