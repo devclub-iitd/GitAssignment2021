@@ -349,12 +349,10 @@ export const FRESHERS = [
             }
         ]
     },
-    {
+/*    {
         entryNum: "2020CS10326",
         name : "Arin Kedia",
         image: '/assets/cardImg.png',
-        branch: "me2",
-        about: 'Big fan of movies. Reading is not my cup of tea',
         branch: "cs1",
         about: 'Love playing football and reading novel. Have a great interest in learning music.',
         contact: [
@@ -364,7 +362,7 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/Arin.Kedia21'
             }
         ]
-    },
+    }, */
     {
         entryNum: 20,
         name : "Harsh Vardhan Singh Patel",
@@ -1116,5 +1114,23 @@ export const FRESHERS = [
           },
       ]
   },
+  {
+      entryNum: 827,
+      name : "Nikhil Raj Verma",
+      image: '/assets/pfp827.jpg',
+      branch: "MT1",
+      about: 'Hey there ( ͡° ͜ʖ ͡°)',
+      contact: [
+          {
+              id: 0,
+              type: 'fb',
+              url: 'https://www.facebook.com/nikhil.rajverma.777/'
+          },
+          {
+              id: 1,
+              type: 'insta',
+              url: 'https://www.instagram.com/enarv7817/'
+          }
+      ]
+  }
 ];
-
