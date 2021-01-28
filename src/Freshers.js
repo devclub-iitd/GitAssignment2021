@@ -1245,7 +1245,7 @@ export const FRESHERS = [
     about: 'an avg geek',
     
     },
-
+	{
     entryNum: 619,
     name : "Rahul Gupta",
     image: '/assets/2020EE30619.jpg',
