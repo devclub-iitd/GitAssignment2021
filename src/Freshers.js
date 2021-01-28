@@ -1255,6 +1255,25 @@ export const FRESHERS = [
         }
     ]
   },
+  {  
+      entryNum: 1160,
+      name: "Sanat Vohra",
+      image:'/assets/Sanat.jpg',
+      branch: "TT1",
+      about: 'IIT mein pahunch fir sab chill hai',
+      contact:[
+          {
+              id: 0,
+              type:'insta',
+              url: 'https://www.instagram.com/vohrasanat/',
+       },
+          {
+              id: 1,
+              type: 'Linkedin',
+              url: 'https://www.linkedin.com/in/sanat-vohra-009079200/'
+          }
+    ] 
+},
   {
     entryNum: 698,
     name : 'Ibrahim Khan',
