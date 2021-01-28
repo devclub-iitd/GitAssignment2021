@@ -371,6 +371,13 @@ export const FRESHERS = [
         about: 'I like reading books and listening to music',
     },
     {
+        entryNum: 895,
+        name : "Sai Niketh",
+        image: '/assets/cardImg.png',
+        branch: "MT6",
+        about: 'I like to watch movies and TV series. I like to play chess',
+    },
+    {
         entryNum: 687,
         name : 'Aviral Gupta',
         image: '/assets/ph1200687.jpeg',
