@@ -47,16 +47,10 @@ export const FRESHERS = [
         ]
     },
     {
-        entryNum: 4,
-        name : "WXYZ",
+        entryNum: 624,
+        name : "Sarrah",
         image: '/assets/cardImg.png',
-        branch: "me2",
-        about: 'Big fan of movies. Reading is not my cup of tea',
-    }
-    {
-        entryNum:624
-        name :"Sarrah Samaiyah"
-        branch:"ee3"
-        about: " I like reading books and listening to music."
+        branch: "ee3",
+        about: 'I like reading books and listening to music',
     }
 ];
