@@ -1102,7 +1102,7 @@ export const FRESHERS = [
     name : "Vaibhav Mishra",
     image: '',
     branch: "CS5",
-    about: 'peepo peepo'
+    about: 'peepo peepo',
     
     }
 ];
