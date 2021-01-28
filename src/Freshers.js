@@ -1252,7 +1252,7 @@ export const FRESHERS = [
   {
     entryNum: 392,
     name : 'Soumil Aggarwal',
-    image: '/assets/2020CS10392.jpeg',
+    image: '/assets/2020CS10392.jpg',
     branch: 'CS1',
     about: 'Meh',
     contact: [
