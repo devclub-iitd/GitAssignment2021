@@ -1280,7 +1280,25 @@ export const FRESHERS = [
         ]
   },
   {
-
+    entryNum: 1196,
+    name : "Aryan Sharma",
+    image: '/assets/2020ME21196.jpg',
+    branch: "ME2",
+    about: "Not a programmer",
+    contact: [
+        {
+            id : 0,
+            type: 'fb',
+            url: 'https://www.facebook.com/aryanafgji/'
+        },
+        {
+            id: 1,
+            type: 'insta',
+            url: 'https://www.instagram.com/grimmrey/'
+        },
+    ]
+},
+  {
     entryNum: 458,
     name : "Adit Malhotra",
     image: '',
