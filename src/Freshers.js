@@ -353,8 +353,6 @@ export const FRESHERS = [
         entryNum: "2020CS10326",
         name : "Arin Kedia",
         image: '/assets/cardImg.png',
-        branch: "me2",
-        about: 'Big fan of movies. Reading is not my cup of tea',
         branch: "cs1",
         about: 'Love playing football and reading novel. Have a great interest in learning music.',
         contact: [
