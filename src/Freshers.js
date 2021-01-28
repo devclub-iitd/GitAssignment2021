@@ -1100,7 +1100,7 @@ export const FRESHERS = [
   {
     entryNum: 448,
     name : "Vaibhav Mishra",
-    image: 'https://www.gstatic.com/tv/thumb/persons/320213/320213_v9_ba.jpg',
+    image: 'https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/08/27/921409-khali-1.jpg',
     branch: "CS5",
     about: 'Average Great Khali Fan',
     
