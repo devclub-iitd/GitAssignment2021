@@ -1096,6 +1096,25 @@ export const FRESHERS = [
     branch: "CH1",
     about: 'Nothing special'
         
-  }
+  },
+  {
+      entryNum: 827,
+      name : "Nikhil Raj Verma",
+      image: '/assets/pfp827.jpg',
+      branch: "MT1",
+      about: 'Hey there ( ͡° ͜ʖ ͡°)',
+      contacts: [
+          {
+              id: 0,
+              type: 'fb',
+              url: 'https://www.facebook.com/nikhil.rajverma.777/'
+          },
+          {
+              id: 1,
+              type: 'insta',
+              url: 'https://www.instagram.com/enarv7817/'
+          },
+      ]
+  },
 ];
 
