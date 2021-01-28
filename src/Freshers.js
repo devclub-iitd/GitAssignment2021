@@ -913,5 +913,13 @@ export const FRESHERS = [
     branch: "CS1",
     about: 'Pata nahi yaar'
         
-  ,}
+  },
+  {
+      entryNum:1190,
+      name:"Raushan kumar",
+      image:'https://www.facebook.com/photo?fbid=404488120645882&set=a.106604263767604',
+      branch:"CSE",
+      about:"Being Human enjoy every moment in life",
+  },
+
 ];
