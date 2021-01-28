@@ -1118,6 +1118,13 @@ export const FRESHERS = [
     about: 'Nothing special'
         
   },
+{
+    entryNum: 11146,
+    name : "Prabhat Kumar",
+    image: 'https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKIWgaiJUtss/v2/150x-1.jpg',
+    branch: "TT1",
+    about: 'I need Freedom'
+},
   {
     entryNum: 448,
     name : "Vaibhav Mishra",
@@ -1165,7 +1172,22 @@ export const FRESHERS = [
               url : 'https://www.facebook.com/aayushg1713/',
           },
       ]
-  },
+},
+ {
+      entryNum : 2,
+      name : "Aayushi Agrawal",
+      image: '/assets/cardImg.png',
+      branch: 'BB1',
+      about : "I love cycling and playing basketball. Mixed media art and acrylic painting are my other interests. ",
+      contact : [
+        {
+            id : 0,
+            type : 'insta',
+            url : 'https://www.instagram.com/na.aayushi/',
+        },
+        
+    ]
+},
   {
       entryNum: 827,
       name : "Nikhil Raj Verma",
@@ -1215,6 +1237,7 @@ export const FRESHERS = [
     
   },
   {
+
     entryNum: 458,
     name : "Adit Malhotra",
     image: '',
@@ -1222,4 +1245,19 @@ export const FRESHERS = [
     about: 'an avg geek',
     
     },
+
+    entryNum: 619,
+    name : "Rahul Gupta",
+    image: '/assets/2020EE30619.jpg',
+    branch: "EE3",
+    about: 'lazy (aka efficient)',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/rahul.g_9/'
+        }
+    ]
+  },
+    
 ];
