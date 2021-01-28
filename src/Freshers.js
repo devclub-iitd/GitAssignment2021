@@ -1119,6 +1119,14 @@ export const FRESHERS = [
         
   },
   {
+    entryNum: 448,
+    name : "Vaibhav Mishra",
+    image: '',
+    branch: "CS5",
+    about: 'peepo peepo',
+    
+    },
+  {
     entryNum: 143,
     name : "Vansh Kachhwal",
     image: '/assets/2020CH10143.jpg',
