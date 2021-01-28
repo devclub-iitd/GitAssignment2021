@@ -1031,8 +1031,14 @@ export const FRESHERS = [
     image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
     branch: "CS1",
     about: 'Pata nahi yaar'
-        
-  ,},
+},
+  {
+    entryNum: 539,
+    name : "Rashee Agarwal",
+    image: 'https://images.app.goo.gl/pMMNMvNNKTYdGFk27',
+    branch: "EE1",
+    about: 'Love listening music and a big fan of detetcive and thriller novels and web series (my picture suggests it), likes coding and exploring new things but by nature I am a very lazy person',
+},
 {
     entryNum: 384,
     name : "Shreya Sonone",
@@ -1268,4 +1274,18 @@ export const FRESHERS = [
         }
     ]
 },
+  {
+    entryNum: 375,
+    name : "Rohit Janbandhu",
+    image: 'https://www.bing.com/images/search?q=goku+ultra+instinct&id=EBFD382B4198FE61E670A3B412E3DAE6192DF19C&FORM=IQFRBA',
+    branch: "CS1",
+    about: 'I like playing football and computer games',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/rohit.j.333'
+        }
+    ]    
+},     
 ];
