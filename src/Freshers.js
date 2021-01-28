@@ -349,12 +349,10 @@ export const FRESHERS = [
             }
         ]
     },
-    {
+   {
         entryNum: "2020CS10326",
         name : "Arin Kedia",
         image: '/assets/cardImg.png',
-        branch: "me2",
-        about: 'Big fan of movies. Reading is not my cup of tea',
         branch: "cs1",
         about: 'Love playing football and reading novel. Have a great interest in learning music.',
         contact: [
@@ -366,6 +364,13 @@ export const FRESHERS = [
         ]
     },
     {
+        entryNum: 624,
+        name : "Sarrah",
+        image: '/assets/cardImg.png',
+        branch: "ee3",
+        about: 'I like reading books and listening to music',
+    },
+  {
         entryNum: 20,
         name : "Harsh Vardhan Singh Patel",
         branch: "BB1",
@@ -1075,6 +1080,22 @@ export const FRESHERS = [
         },
           ]
   },
+{
+    entryNum: 411,
+    name : " Vishwas Kalani",
+    image: '/assets/2020CS10411.jpeg',
+    branch: "CS1",
+    about: 'Love playing cricket',
+    contact: [
+        {
+            id: 0,
+            type: "insta",
+            url: 'https://www.instagram.com/vishwaskalani/'
+        }
+
+    ]
+        
+  },
   {
     entryNum: 549,
     name : "Sanyam",
@@ -1104,6 +1125,71 @@ export const FRESHERS = [
     branch: "CS5",
     about: 'peepo peepo',
     
-    }
+    },
+  {
+      entryNum : 779,
+      name : "Aayush Gupta",
+      image : '/assets/Aayush_Gupta.jpg',
+      branch : 'MT1',
+      about : "I love to do nothing.",
+      contact : [
+          {
+              id : 0,
+              type : 'insta',
+              url : 'https://www.instagram.com/aayushg1713',
+          },
+          {
+              id : 1,
+              typr : 'fb',
+              url : 'https://www.facebook.com/aayushg1713/',
+          },
+      ]
+  },
+  {
+      entryNum: 827,
+      name : "Nikhil Raj Verma",
+      image: '/assets/pfp827.jpg',
+      branch: "MT1",
+      about: 'Hey there ( ͡° ͜ʖ ͡°)',
+      contact: [
+          {
+              id: 0,
+              type: 'fb',
+              url: 'https://www.facebook.com/nikhil.rajverma.777/'
+          },
+          {
+              id: 1,
+              type: 'insta',
+              url: 'https://www.instagram.com/enarv7817/'
+          }
+      ]
+  }
+  ,{
+    entryNum: 731,
+    name : "Subhav Mittal",
+    image: '/assets/2020PH10731.jpg',
+    branch: "PH1",
+    about: "Here To Explore",
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/subhavmittal2002/'
+        }
+    ]
+  },
+  {
+    entryNum: 777,
+    name : "Aadya Agrawal",
+    image: '/assets/2020MT10777.jpg',
+    branch: "MT1",
+    about: 'Skilled Procrastinator',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/aadyaagrawal_15/'
+        }
+    ]
+  },
 ];
-
