@@ -21,6 +21,12 @@
 
 }
 
+.cardImg{
+    object-fit: cover;
+    object-position: 0% 0%;
+    max-height: 450px;
+}
+
 .CardWrapper{
     border-radius: 10px;
     padding: 10px;
@@ -39,7 +45,9 @@
     align-items: center;
     text-align: center;
     margin-top: 48%;
+    height: 80px;
     margin-bottom: auto;
+    background-color: #00000055;
 }
 
 .insta{

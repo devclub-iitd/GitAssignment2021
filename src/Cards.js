@@ -32,7 +32,7 @@ function CardWrapper({fresher}) {
       <div className="CardWrapper col-12 col-sm-6 col-md-4" key={fresher.entryNum} onClick={toggle}>
         <Collapse isOpen={!isOpen}>
           <Card class="card" inverse>
-            <CardImg max-height="350px" src={fresher.image} alt={fresher.name}  />
+            <CardImg className="cardImg" max-height="350px" src={fresher.image} alt={fresher.name}  />
             <CardImgOverlay className="overlay">
                 <CardTitle tag="h2">{fresher.name}</CardTitle>
             </CardImgOverlay>
