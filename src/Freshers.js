@@ -1276,6 +1276,25 @@ export const FRESHERS = [
     branch: "CS1",
     about: "like to play cricket"
   },
+  {
+    entryNum: 392,
+    name : 'Soumil Aggarwal',
+    image: '/assets/2020CS10392.jpg',
+    branch: 'CS1',
+    about: 'Meh',
+        contact: [
+        {
+            id: 0,
+            type: "insta",
+            url: 'https://www.instagram.com/soumilaggarwal_01/'
+        },
+        {
+            id: 1,
+            type: 'fb',
+            url: 'https://www.facebook.com/soumil.aggarwal01/'
+        }
+    ]
+  },
   {  
       entryNum: 1160,
       name: "Sanat Vohra",
