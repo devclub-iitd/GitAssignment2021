@@ -30,7 +30,7 @@ export const FRESHERS = [
     {
         entryNum: 425,
         name : 'Garvit Dhawan',
-        image: "/assets/2020CS50425.jpg",
+        image: "/assets/cardImg.png",
         branch: 'CS5',
         about: 'Exploring my mind',
         contact: [
@@ -77,7 +77,7 @@ export const FRESHERS = [
     {
         entryNum: 868,
         name : "Akshay Reddy",
-        image: 'https://drive.google.com/file/d/1sk1lghOhPfTjp7u9yvHvvmxgTLimMBrU/view?usp=sharing',
+        image: 'https://lh3.googleusercontent.com/seCNj-9geXdLAg7WgcZz4nYQH1_IePd1h4jzs6ico4Fv3NVyaisJH3Z_Cc8F7tdG2ggjpwVv5qyO5CXW8GpU=w3360-h1940',
         branch: "MT6",
         about: 'I am tall but not athletic. I like movies, TV shows, anime and manga.'
 
@@ -134,13 +134,6 @@ export const FRESHERS = [
         image: 'https://instagram.fbho4-1.fna.fbcdn.net/v/t51.2885-19/s150x150/127300414_1113030522490110_5085034867865187640_n.jpg?_nc_ht=instagram.fbho4-1.fna.fbcdn.net&_nc_ohc=3yOGS-Yjay8AX-nn6eM&tp=1&oh=2fc08164ab40f86ed9e303241bf1e0cf&oe=603716C4',
         branch: "CS1",
         about: 'I am passionate about startup ,loves to play bastketball ,learning new technology and software',
-    },
-      {
-        entryNum: 4,
-        name : "WXYZ",
-        image: '/assets/cardImg.png',
-        branch: "me2",
-        about: 'Big fan of movies. Reading is not my cup of tea',
     },
     {
         entryNum: 374,
@@ -399,6 +392,7 @@ export const FRESHERS = [
   {
         entryNum: 20,
         name : "Harsh Vardhan Singh Patel",
+	image: '/assets/cardImg.png',
         branch: "BB1",
         about: 'I\'m into basketball,chess and football. I do calliagraphy and also have slight interest in books.',
               contact: [
@@ -612,7 +606,7 @@ export const FRESHERS = [
 {
     entryNum: 934,
     name: 'Harsh Vardhan Singh',
-    image: '',
+    image: '/assets/cardImg.png',
     branch: 'ME1',
     about: 'Intrested in Mathmatics , Astronomy.I Want to learn Coding',
 },
@@ -633,7 +627,7 @@ export const FRESHERS = [
     {
         entryNum:386,
         name:"Sibasish Rout",
-        image:"https://www.google.com/url?sa=i&url=http%3A%2F%2Fiitjeetoppers.com%2F&psig=AOvVaw1ud8zgfSxYUpIoyDfRwQGO&ust=1611675362772000&source=images&cd=vfe&ved=2ahUKEwjAy5ndtLfuAhUQSisKHTk4C_0Qr4kDegQIARBN",
+        image:"http://sr.fiitjee-ftre.com/StudentPic/637375968083579152.jpg",
         branch:"CS1",
         about:"I like playing cricket and chess,a big harry potter fan",
         contact:
@@ -662,7 +656,7 @@ export const FRESHERS = [
   {
         entryNum: 172,
         name : 'Hemant Prakash Singh',
-        image: '/assets/2019CH70172.jpeg',
+        image: '/assets/cardImg.png',
         branch: 'CH7',
         about: 'I am a second year chemical department student. I am passionate about coding. I have a good hand on C++ language and want to learn more like web development and programming.',
         contact: [
@@ -791,6 +785,7 @@ export const FRESHERS = [
    {
     entryNum: 422,
     name : 'Anjali Sharma',
+	image: '/assets/cardImg.png',
     branch: 'CS5',
     about: 'nothing much',
     contact: [
@@ -805,6 +800,7 @@ export const FRESHERS = [
     entryNum: 548,
     name : 'Sankalp Swarup',
     branch: 'EE1',
+	            image: '/assets/cardImg.png',
     about: 'First Year Electrical Engineering student.',
     contact: [
         {
@@ -839,7 +835,7 @@ export const FRESHERS = [
 {
     entryNum: 342,
     name : 'Divyansh Mittal',
-    image: 'https://tenor.com/view/rick-ashtley-never-gonna-give-up-rick-roll-gif-4819894',
+    image: 'https://media1.tenor.com/images/56ff381b822120795100faf611cd6d73/tenor.gif',
     branch: 'CS1',
     about: 'COL ka assignment karliya, jo mera about padh rhe ho',
     contact: [
@@ -915,7 +911,7 @@ export const FRESHERS = [
 {
     entryNum: 749,
     name : 'Harshit Anand',
-    image: '/assets/https://www.instagram.com/p/CHlP2wRJgHRQiksIoi6TnsBF-SD6DIKq6RKMx00/',
+    image: '/assets/cardImg.png',
     branch: 'MS1',
     about: 'OOF..kya hi bataun..Im Awesome :). Awfully friendly and an amazing chef(be good to me and i might cook for you.ok.)',
     contact: [
@@ -930,7 +926,7 @@ export const FRESHERS = [
     {
     entryNum: "1013",
     name : "Dhruv Nagpal",
-    image: "https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F131870260_528700524756443_2272684149467313600_n.jpg%3Foh%3D4c846bf87052293690ac57c0c45c9311%26oe%3D6015F0BE&t=l&u=919591062204%40c.us&i=1608027223&n=fL3ocuzMi4KPppNXTc9N2cJrchGzJzTEIG7BAlL0Koo%3D",
+    image: '/assets/cardImg.png',
     branch : "ME2",
     about : "I play the guitar.. also an intermediate squash and badminton player. Interested in web dev and currently working on an amazon clone",
     contact : [
@@ -977,7 +973,7 @@ export const FRESHERS = [
 { 
       entryNum: 174,
       name : "Taukir Lalwala",
-      image : 'https://www.google.com/search?q=iron+man&rlz=1C1CHBD_enIN936IN936&sxsrf=ALeKk007eeJ0alqbsqtml0STOQ8gCcXdNw:1611751922630&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjnp8Hmk7zuAhVJzDgGHUlQBE4Q_AUoAXoECBUQAw#imgrc=xmDsKjhwOmopUM.jpg',
+      image : 'https://www.denofgeek.com/wp-content/uploads/2019/02/mcu-1-iron-man.jpg',
       branch: "CH7",
       about: 'keen learner',
       contact: [
@@ -991,7 +987,7 @@ export const FRESHERS = [
  {
     entryNum: 180,
     name : "Mitanshu Kansal",
-    image: '',
+    image: '/assets/cardImg.png',
     branch: "CH7",
     about: 'nothing much',
     contact: [
@@ -1039,7 +1035,7 @@ export const FRESHERS = [
   {
    entryNum: 128,
    name : "Shivam Madan",
-   image: '',
+    image: '/assets/cardImg.png',
    branch: "CH1",
    about: ' i am  curious and eager  learner .   i  like doing meditation and exercise everday ',
 
@@ -1061,14 +1057,14 @@ export const FRESHERS = [
   {
     entryNum: 539,
     name : "Rashee Agarwal",
-    image: 'https://images.app.goo.gl/pMMNMvNNKTYdGFk27',
+    image: 'data:image/jpeg;base64,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',
     branch: "EE1",
     about: 'Love listening music and a big fan of detetcive and thriller novels and web series (my picture suggests it), likes coding and exploring new things but by nature I am a very lazy person',
 },
 {
     entryNum: 384,
     name : "Shreya Sonone",
-    image: '/assets/2020CS10384.jpeg',
+    image: '/assets/cardImg.png',
     branch: "CS1",
     about: 'I love to learn new things.I like painting,dancing and playing badminton.I dont have any prior knowledge of coding but I am looking forward to learn as much as I can.',
     contact: [
@@ -1101,7 +1097,7 @@ export const FRESHERS = [
   {
     entryNum: 672,
     name  : "Shubh Goel",
-    image: '',
+    image: '/assets/cardImg.png',
     branch: "AM1",
     about: 'I am an eager learner, who wants to try out new things',
         contact: [
@@ -1115,7 +1111,7 @@ export const FRESHERS = [
 {
     entryNum: 411,
     name : " Vishwas Kalani",
-    image: '/assets/2020CS10411.jpeg',
+    image: '/assets/cardImg.png',
     branch: "CS1",
     about: 'Love playing cricket',
     contact: [
@@ -1145,7 +1141,7 @@ export const FRESHERS = [
   {
     entryNum: 81,
     name : "Avik Ghosh",
-    image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThe_Amazing_Spider-Man_(film)&psig=AOvVaw1fcI_KrLNtuqG1JVVJQIaC&ust=1611859384469000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDdr6LivO4CFQAAAAAdAAAAABAD',
+    image: 'https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spider-Man_theatrical_poster.jpeg',
     branch: "CH1",
     about: 'Nothing special'
         
@@ -1160,7 +1156,7 @@ export const FRESHERS = [
   {
     entryNum: 448,
     name : "Vaibhav Mishra",
-    image: '',
+    image: '/assets/cardImg.png',
     branch: "CS5",
     about: 'peepo peepo',
     
@@ -1168,7 +1164,7 @@ export const FRESHERS = [
   {
     entryNum: 143,
     name : "Vansh Kachhwal",
-    image: '/assets/2020CH10143.jpg',
+    image: '/assets/cardImg.png',
     branch: 'CH1',
     about: 'Trying to be myself',
     contact: [
@@ -1289,7 +1285,7 @@ export const FRESHERS = [
   {
     entryNum: 1196,
     name : "Aryan Sharma",
-    image: '/assets/2020ME21196.jpg',
+      image: '/assets/cardImg.png',
     branch: "ME2",
     about: "Not a programmer",
     contact: [
@@ -1308,7 +1304,7 @@ export const FRESHERS = [
   {
     entryNum: 458,
     name : "Adit Malhotra",
-    image: '',
+      image: '/assets/cardImg.png',
     branch: "EE1",
     about: 'an avg geek',
     
@@ -1330,7 +1326,7 @@ export const FRESHERS = [
   {
     entryNum: 163,
     name : "Shashwat Narayan",
-    image: 'NA',
+      image: '/assets/cardImg.png',
     branch: "TT1",
     about: 'I love cars and coding.',
     contact: [
@@ -1357,7 +1353,7 @@ export const FRESHERS = [
   { 
     entryNum: 592,
     name : "Dhruv Agarwal",
-    image: '',
+      image: '/assets/cardImg.png',
     branch: "EE3",
     about: 'extraordinarily ordinary',
   },
@@ -1420,7 +1416,7 @@ export const FRESHERS = [
   {
     entryNum: 319,
     name: "Aman Bansal",
-    image: "",
+      image: '/assets/cardImg.png',
     branch: "CS1",
     about: "like to play cricket"
   },
@@ -1474,7 +1470,7 @@ export const FRESHERS = [
   {
     entryNum: 454,
     name : "Aaryan Goyal",
-    image: '/assets/2020EE10454.jpg',
+      image: '/assets/cardImg.png',
     branch: 'EE1',
     about: 'No',
     contact: [
@@ -1495,7 +1491,7 @@ export const FRESHERS = [
     {
     entryNum: 339,
     name : "Danish Javed",
-    image: '',
+      image: '/assets/cardImg.png',
     branch: "CS1",
     about: 'clueless',
     
@@ -1503,7 +1499,7 @@ export const FRESHERS = [
   {  
       entryNum: 1160,
       name: "Sanat Vohra",
-      image:'/assets/Sanat.jpg',
+      image: '/assets/cardImg.png',
       branch: "TT1",
       about: 'IIT mein pahunch fir sab chill hai',
       contact:[
