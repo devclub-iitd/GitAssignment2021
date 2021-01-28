@@ -1220,4 +1220,18 @@ export const FRESHERS = [
         }
     ]
   },
+  {
+    entryNum: 619,
+    name : "Rahul Gupta",
+    image: '/assets/2020EE30619.jpg',
+    branch: "EE3",
+    about: 'lazy (aka efficient)',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/rahul.g_9/'
+        }
+    ]
+  },
 ];
