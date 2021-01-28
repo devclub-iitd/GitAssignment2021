@@ -1254,7 +1254,7 @@ export const FRESHERS = [
     name : "Pranay Shah",
     image: '/assets/pranayshah.jpg',
     branch: "ME2",
-    about: 'I\'m the amest guy you\'ll meet',
+    about: 'I am the lamest guy you will ever meet',
     contact: [
         {
             id: 0,
