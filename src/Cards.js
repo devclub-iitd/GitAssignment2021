@@ -8,13 +8,13 @@ function CardFooterDisplay({contact}){
             {contact.map((account)=>{
                 if(account.type==="insta"){
                     return(
-                        <a href={account.url}>
+                        <a href={account.url} target="_blank" rel="noreferrer">
                             <span className="fa fa-instagram fa-lg insta"></span>
                         </a>
                     );
                 }else{
                     return(
-                        <a href={account.url}>
+                        <a href={account.url} target="_blank" rel="noreferrer">
                             <span className="fa fa-facebook fa-lg fb"></span>
                         </a>
                     );
@@ -32,7 +32,7 @@ function CardWrapper({fresher}) {
       <div className="CardWrapper col-12 col-sm-6 col-md-4" key={fresher.entryNum} onClick={toggle}>
         <Collapse isOpen={!isOpen}>
           <Card class="card" inverse>
-            <CardImg max-height="350px" src={fresher.image} alt={fresher.name}  />
+            <CardImg className="cardImg" max-height="350px" src={fresher.image} alt={fresher.name}  />
             <CardImgOverlay className="overlay">
                 <CardTitle tag="h2">{fresher.name}</CardTitle>
             </CardImgOverlay>
