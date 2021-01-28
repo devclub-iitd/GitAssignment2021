@@ -969,7 +969,7 @@ export const FRESHERS = [
     name : " Vishwas Kalani",
     image: '/assets/2020CS10411.jpeg',
     branch: "CS1",
-    about: 'Love playing cricket'
+    about: 'Love playing cricket',
     contact: [
         {
             id: 0,
