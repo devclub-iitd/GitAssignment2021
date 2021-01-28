@@ -1234,4 +1234,25 @@ export const FRESHERS = [
         }
     ]
   },
+  {
+    entryNum: 454,
+    name : "Aaryan Goyal",
+    image: '/assets/2020EE10454.jpg',
+    branch: 'EE1',
+    about: 'No',
+    contact: [
+        {
+            id: 0,
+            type: 'instagram',
+            url: 'https://www.instagram.com/aaryan_goyal231/'
+        }
+        ,{
+            id: 1,
+            type: 'LinkedIn',
+            url: 'https://www.linkedin.com/in/aaryan-goyal-2ba256204/'
+        }
+        
+
+    ]
+}
 ];
