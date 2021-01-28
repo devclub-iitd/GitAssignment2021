@@ -1127,6 +1127,27 @@ export const FRESHERS = [
     
     },
   {
+    entryNum: 143,
+    name : "Vansh Kachhwal",
+    image: '/assets/2020CH10143.jpg',
+    branch: 'CH1',
+    about: 'Trying to be myself',
+    contact: [
+        {
+            id: 0,
+            type: 'instagram',
+            url: 'https://www.instagram.com/vk_230/'
+        }
+        ,{
+            id: 1,
+            type: 'LinkedIn',
+            url: 'https://www.linkedin.com/in/vansh-kachhwal-b638a8124/'
+        }
+        
+
+    ]
+},
+  {
       entryNum : 779,
       name : "Aayush Gupta",
       image : '/assets/Aayush_Gupta.jpg',
