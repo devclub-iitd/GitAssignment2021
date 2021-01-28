@@ -1089,28 +1089,28 @@ export const FRESHERS = [
         }
     ]
     },
-  {
+    {
+        entryNum: 72,
+        name : "Animesh Kumar",
+        image: 'public\assets\2020CH10072.jpeg',
+        branch: "CH1",
+        about: 'Hello Comrades, do you need to vent, want to empty the poison in your heart, wanna feel the heaviness ebbing out from your body, Trust me I will always be your secret-keeper',
+        contact: [
+         {
+                id: 0,
+                type: 'insta',
+                url: 'https://www.instagram.com/animesh.sama/'
+            },
+        ]
+    },
+    {
     entryNum: 81,
     name : "Avik Ghosh",
     image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThe_Amazing_Spider-Man_(film)&psig=AOvVaw1fcI_KrLNtuqG1JVVJQIaC&ust=1611859384469000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDdr6LivO4CFQAAAAAdAAAAABAD',
     branch: "CH1",
-    about: 'Nothing special'
+    about: 'Nothing special',
         
   },
-  {
-    entryNum: 72,
-    name : "Animesh Kumar",
-    image: 'public\assets\2020CH10072.jpeg',
-    branch: "CH1",
-    about: 'Hello Comrades, do you need to vent, want to empty the poison in your heart, wanna feel the heaviness ebbing out from your body, Trust me I will always be your secret-keeper',
-    contact: [
-     {
-            id: 0,
-            type: 'insta',
-            url: 'hhttps://www.instagram.com/animesh.sama/'
-        },
-    ]
-},
 
 ];
 
