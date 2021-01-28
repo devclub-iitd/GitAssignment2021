@@ -1118,6 +1118,13 @@ export const FRESHERS = [
     about: 'Nothing special'
         
   },
+{
+    entryNum: 11146,
+    name : "Prabhat Kumar",
+    image: 'https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKIWgaiJUtss/v2/150x-1.jpg',
+    branch: "TT1",
+    about: 'I need Freedom'
+},
   {
     entryNum: 448,
     name : "Vaibhav Mishra",
