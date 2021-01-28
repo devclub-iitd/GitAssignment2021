@@ -1102,7 +1102,7 @@ export const FRESHERS = [
     name : "Prabhat Kumar",
     image: 'https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKIWgaiJUtss/v2/150x-1.jpg',
     branch: "TT1",
-    about: 'I Love CS but landed in textile :('
+    about: 'I need Freedom'
 }
 ];
 
