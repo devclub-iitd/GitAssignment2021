@@ -982,4 +982,23 @@ export const FRESHERS = [
     about: 'Pata nahi yaar'
         
   },
+  {
+      entrynum:1190,
+      name: "Raushan Kumar",
+      image:'https://drive.google.com/drive/u/0/folders/10WFGYhpa_t5n0lMdVC3s_8qRkCsBive_',
+      about:"Being Human enjoy every moment in life",
+      contact:
+      [
+          {
+              id:1,
+              type:'insta',
+              url:'https://www.instagram.com/the_raushan_bhaskar_101/',
+          },
+          {
+              id:2,
+              type:'fb',
+              url:'https://www.facebook.com/raushan.bhaskar.1/',
+          },
+      ]
+  },
 ];
