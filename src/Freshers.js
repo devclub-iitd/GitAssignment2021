@@ -917,14 +917,14 @@ export const FRESHERS = [
   {
       entryNum:1190,
       name:"Raushan kumar",
-      image:'https://www.facebook.com/photo?fbid=404488120645882&set=a.106604263767604',
+      image:'https://drive.google.com/drive/u/0/folders/10WFGYhpa_t5n0lMdVC3s_8qRkCsBive_',
       branch:"CSE",
       about:"Being Human enjoy every moment in life",
       contact:
       [
           {
               id:1,
-              type:'insta'
+              type:'insta',
               url:'https://www.instagram.com/the_raushan_bhaskar_101/',
           },
           {
