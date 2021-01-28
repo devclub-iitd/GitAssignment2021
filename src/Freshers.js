@@ -349,7 +349,7 @@ export const FRESHERS = [
             }
         ]
     },
-    {
+/*    {
         entryNum: "2020CS10326",
         name : "Arin Kedia",
         image: '/assets/cardImg.png',
@@ -364,7 +364,7 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/Arin.Kedia21'
             }
         ]
-    },
+    }, */
     {
         entryNum: 20,
         name : "Harsh Vardhan Singh Patel",
