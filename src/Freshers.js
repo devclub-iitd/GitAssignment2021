@@ -1104,6 +1104,6 @@ export const FRESHERS = [
     branch: "CS5",
     about: 'Average Great Khali Fan'
     
-    },
+    }
 ];
 
