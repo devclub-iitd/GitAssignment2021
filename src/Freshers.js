@@ -1103,13 +1103,8 @@ export const FRESHERS = [
     image: 'https://www.gstatic.com/tv/thumb/persons/320213/320213_v9_ba.jpg',
     branch: "CS5",
     about: 'Average Great Khali Fan',
-    contact: [
-        {
-            id: 0,
-            type: 'insta',
-            url: 'https://www.instagram.com/vaibhavxmishra/'
-        }
+    
     ]
-         },
+    },
 ];
 
