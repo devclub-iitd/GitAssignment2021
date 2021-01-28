@@ -1095,10 +1095,10 @@ export const FRESHERS = [
     about: 'Nothing special'
         
   }
-  {
+  ,{
     entryNum: 777,
     name : "Aadya Agrawal",
-    image: '/assets/2020MT120777.jpeg',
+    image: '/assets/2020MT10777.jpg',
     branch: "MT1",
     about: 'Skilled Procrastinator',
     contact: [
@@ -1106,7 +1106,7 @@ export const FRESHERS = [
             id: 0,
             type: 'insta',
             url: 'https://www.instagram.com/aadyaagrawal_15/'
-        },
+        }
     ]
   },
 ];
