@@ -1254,6 +1254,20 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/rahul.g_9/'
         }
     ]
+  },     
+  {
+    entryNum: 163,
+    name : "Shashwat Narayan",
+    image: 'NA',
+    branch: "TT1",
+    about: 'I love cars and coding.',
+    contact: [
+        {
+            id: 0,
+            type: 'linkedin',
+            url: 'https://www.linkedin.com/in/snk-805902200'
+        }
+    ]
   },
   {
     entryNum: 319,
