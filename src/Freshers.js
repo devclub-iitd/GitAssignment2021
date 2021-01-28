@@ -1102,7 +1102,7 @@ export const FRESHERS = [
     name : "Animesh Kumar",
     image: 'public\assets\2020CH10072.jpeg',
     branch: "CH1",
-    about: 'Hello Comrades, need a vent, wanna empty your heart, have the heaviness removed from your body, I will always be your secret-keeper',
+    about: 'Hello Comrades, do you need to vent, want to empty the poison in your heart, wanna feel the heaviness ebbing out from your body, Trust me I will always be your secret-keeper',
     contact: [
      {
             id: 0,
