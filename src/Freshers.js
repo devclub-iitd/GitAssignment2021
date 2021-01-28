@@ -1249,4 +1249,18 @@ export const FRESHERS = [
         }
     ]
   },
+  {
+      entryNum: 416,
+      name : "Ananya Mathur",
+      image: '/assets/cardImg.png',
+      branch: "CS5",
+      about: "Passionate about coding. Like to read and play badminton.",
+      contact: [
+           {
+              id: 0,
+              type: 'insta',
+              url: 'https://www.instagram.com/ananyamathur_182/'
+           }
+    ]
+  },
 ];
