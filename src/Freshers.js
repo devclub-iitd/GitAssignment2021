@@ -1115,6 +1115,5 @@ export const FRESHERS = [
               url: 'https://www.instagram.com/enarv7817/'
           },
       ]
-  },
+  }
 ];
-
