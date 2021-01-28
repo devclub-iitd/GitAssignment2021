@@ -1345,6 +1345,20 @@ export const FRESHERS = [
     ]
   },
   {
+    entryNum: 1041,
+    name : "Pranay Shah",
+    image: '/assets/pranayshah.jpg',
+    branch: "ME2",
+    about: 'I am the lamest guy you will ever meet',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/Shah_Pranay/'
+        }
+    ]
+  },
+    {
     entryNum: 339,
     name : "Danish Javed",
     image: '',
