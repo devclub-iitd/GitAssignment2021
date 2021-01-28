@@ -370,6 +370,25 @@ export const FRESHERS = [
         branch: "ee3",
         about: 'I like reading books and listening to music',
     },
+    {
+        entryNum: 687,
+        name : 'Aviral Gupta',
+        image: '/assets/ph1200687.jpeg',
+        branch: 'PH1',
+        about: 'As may be evident from the department I am in; I love Physics, especially mechanics (although APL is making me reconsider my interests). I have always wanted to learn to code, and I hope that this thirst of mine will be quenched in the near future.',
+              contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/alphaaviral/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/aviral.gupta.9484941'
+            }
+        ]
+    },
   {
         entryNum: 20,
         name : "Harsh Vardhan Singh Patel",
