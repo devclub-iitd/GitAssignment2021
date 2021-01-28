@@ -1172,7 +1172,22 @@ export const FRESHERS = [
               url : 'https://www.facebook.com/aayushg1713/',
           },
       ]
-  },
+},
+ {
+      entryNum : 2,
+      name : "Aayushi Agrawal",
+      image: '/assets/cardImg.png',
+      branch: 'BB1',
+      about : "I love cycling and playing basketball. Mixed media art and acrylic painting are my other interests. ",
+      contact : [
+        {
+            id : 0,
+            type : 'insta',
+            url : 'https://www.instagram.com/na.aayushi/',
+        },
+        
+    ]
+},
   {
       entryNum: 827,
       name : "Nikhil Raj Verma",
