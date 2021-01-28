@@ -1219,5 +1219,24 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/aadyaagrawal_15/'
         }
     ]
-  },
+    },
+    {
+        entryNum: 408,
+        name : 'Vedant Mukesh Deo',
+        image: '/assets/2020CS10408.jpg',
+        branch: 'CS1',
+        about: 'I  like playing badminton, chess and football, watching web series and movies.',
+        contact: [
+            {
+                id: 0,
+                type: "insta",
+                url: 'https://www.instagram.com/vedantdeo19/'
+            },
+            {
+                id: 1,
+                type: 'fb',
+                url: 'https://www.facebook.com/profile.php?100008192074505id='
+            }
+        ]
+    }
 ];
