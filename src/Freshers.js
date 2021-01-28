@@ -1234,4 +1234,12 @@ export const FRESHERS = [
         }
     ]
   },
+  {
+    entryNum: 339,
+    name : "Danish Javed",
+    image: '',
+    branch: "CS1",
+    about: 'clueless',
+    
+    },
 ];
