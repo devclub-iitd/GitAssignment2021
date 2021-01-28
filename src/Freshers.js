@@ -349,7 +349,7 @@ export const FRESHERS = [
             }
         ]
     },
-    {
+/*    {
         entryNum: "2020CS10326",
         name : "Arin Kedia",
         image: '/assets/cardImg.png',
@@ -362,7 +362,7 @@ export const FRESHERS = [
                 url: 'https://www.facebook.com/Arin.Kedia21'
             }
         ]
-    },
+    }, */
     {
         entryNum: 20,
         name : "Harsh Vardhan Singh Patel",
@@ -1094,6 +1094,44 @@ export const FRESHERS = [
     branch: "CH1",
     about: 'Nothing special'
         
+  },
+  {
+      entryNum : 779,
+      name : "Aayush Gupta",
+      image : '/assets/Aayush_Gupta.jpg',
+      branch : 'MT1',
+      about : "I love to do nothing.",
+      contact : [
+          {
+              id : 0,
+              type : 'insta',
+              url : 'https://www.instagram.com/aayushg1713',
+          },
+          {
+              id : 1,
+              typr : 'fb',
+              url : 'https://www.facebook.com/aayushg1713/',
+          },
+      ]
+  },
+  {
+      entryNum: 827,
+      name : "Nikhil Raj Verma",
+      image: '/assets/pfp827.jpg',
+      branch: "MT1",
+      about: 'Hey there ( ͡° ͜ʖ ͡°)',
+      contact: [
+          {
+              id: 0,
+              type: 'fb',
+              url: 'https://www.facebook.com/nikhil.rajverma.777/'
+          },
+          {
+              id: 1,
+              type: 'insta',
+              url: 'https://www.instagram.com/enarv7817/'
+          }
+      ]
   }
   ,{
     entryNum: 731,
@@ -1108,5 +1146,19 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/subhavmittal2002/'
         }
     ]
-},
+  },
+  {
+    entryNum: 777,
+    name : "Aadya Agrawal",
+    image: '/assets/2020MT10777.jpg',
+    branch: "MT1",
+    about: 'Skilled Procrastinator',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/aadyaagrawal_15/'
+        }
+    ]
+  },
 ];
