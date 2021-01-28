@@ -1255,4 +1255,18 @@ export const FRESHERS = [
         }
     ]
   },
+  {
+    entryNum: 375,
+    name : "Rohit Janbandhu",
+    image: 'https://www.bing.com/images/search?q=goku+ultra+instinct&id=EBFD382B4198FE61E670A3B412E3DAE6192DF19C&FORM=IQFRBA',
+    branch: "CS1",
+    about: 'I like playing football and computer games',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/rohit.j.333'
+        }
+    ]    
+},     
 ];
