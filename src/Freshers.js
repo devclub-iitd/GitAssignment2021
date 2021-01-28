@@ -1547,5 +1547,24 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/rohit.j.333'
         }
     ]    
-},     
+}, 
+{ 
+entryNum: 321,
+      name: "Ananya Aakriti",
+      image:'/assets/2020CS10321.jpg',
+      branch: "CS1",
+      about: 'Novelty Seeker',
+      contact:[
+          {
+              id: 0,
+              type:'insta',
+              url: 'https://www.instagram.com/anni_aakriti/',
+       },
+          {
+              id: 1,
+              type: 'fb',
+              url: 'https://www.facebook.com/ananya.aakriti.9'
+          }
+    ] 
+},   
 ];
