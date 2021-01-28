@@ -1270,6 +1270,20 @@ export const FRESHERS = [
     ]
   },
   {
+    entryNum: 503,
+    name : "Kanishk Goel",
+    image: 'https://static.wikia.nocookie.net/gta/images/b/b6/Melvin_Harris_%28SA%29.jpg/revision/latest?cb=20140623205743&path-prefix=pl',
+    branch: "EE1",
+    about: 'Watches youtube.That is it.',
+    contact: [
+        {
+            id: 0,
+            type: "facebook",
+            url: 'https://www.facebook.com/kanishk.goel.148'
+        }
+    ]
+},
+  {
     entryNum: 636,
     name : "Aazra",
     image: '/assets/cardImg.png',
