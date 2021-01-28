@@ -916,23 +916,39 @@ export const FRESHERS = [
   },
   {
       entryNum:1190,
+<<<<<<< HEAD
       name:"Raushan kumar",
+=======
+      name:"Raushan Kumar",
+>>>>>>> 37f0e8498eba8ccf59538f73854c215996fa5b5d
       image:'https://drive.google.com/drive/u/0/folders/10WFGYhpa_t5n0lMdVC3s_8qRkCsBive_',
       branch:"CSE",
       about:"Being Human enjoy every moment in life",
       contact:
       [
           {
+<<<<<<< HEAD
               id:1,
+=======
+              id:0,
+>>>>>>> 37f0e8498eba8ccf59538f73854c215996fa5b5d
               type:'insta',
               url:'https://www.instagram.com/the_raushan_bhaskar_101/',
           },
           {
+<<<<<<< HEAD
               id:2,
               type:'fb',
               url:'https://www.facebook.com/raushan.bhaskar.1/',
           },
       ]
+=======
+              id:1,
+              type:'fb',
+              url:'https://www.facebook.com/raushan.bhaskar.1/',
+          },
+       ]
+>>>>>>> 37f0e8498eba8ccf59538f73854c215996fa5b5d
   },
 
 ];
