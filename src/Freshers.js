@@ -1133,4 +1133,18 @@ export const FRESHERS = [
           }
       ]
   }
+  ,{
+    entryNum: 777,
+    name : "Aadya Agrawal",
+    image: '/assets/2020MT10777.jpg',
+    branch: "MT1",
+    about: 'Skilled Procrastinator',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/aadyaagrawal_15/'
+        }
+    ]
+  },
 ];
