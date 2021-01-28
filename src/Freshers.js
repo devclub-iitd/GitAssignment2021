@@ -1212,5 +1212,14 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/aadyaagrawal_15/'
         }
     ]
+    
   },
+  {
+    entryNum: 458,
+    name : "Adit Malhotra",
+    image: '',
+    branch: "EE1",
+    about: 'an avg geek',
+    
+    },
 ];
