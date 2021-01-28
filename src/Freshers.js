@@ -1096,7 +1096,7 @@ export const FRESHERS = [
     branch: "CH1",
     about: 'Nothing special'
         
-  }
+  },
   {
     entryNum: 72,
     name : "Animesh Kumar",
