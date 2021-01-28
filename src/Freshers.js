@@ -1269,6 +1269,13 @@ export const FRESHERS = [
         }
     ]
   },
+  { 
+    entryNum: 592,
+    name : "Dhruv Agarwal",
+    image: '',
+    branch: "EE3",
+    about: 'extraordinarily ordinary',
+  },
   {
     entryNum: 503,
     name : "Kanishk Goel",
