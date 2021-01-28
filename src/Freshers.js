@@ -1134,6 +1134,20 @@ export const FRESHERS = [
       ]
   }
   ,{
+    entryNum: 731,
+    name : "Subhav Mittal",
+    image: '/assets/2020PH10731.jpg',
+    branch: "PH1",
+    about: "Here To Explore",
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/subhavmittal2002/'
+        }
+    ]
+  },
+  {
     entryNum: 777,
     name : "Aadya Agrawal",
     image: '/assets/2020MT10777.jpg',
