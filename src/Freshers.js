@@ -1096,6 +1096,25 @@ export const FRESHERS = [
     branch: "CH1",
     about: 'Nothing special'
         
-  }
+  },
+  {
+    entryNum: 0731,
+    name : "Subhav Mittal",
+    image: '/assets/2020PH10731.jpg',
+    branch: "PH1",
+    about: 'Here To Explore',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/subhavmittal2002/'
+        },
+    ]
+    },
 ];
+  
+
+
+
+
 
