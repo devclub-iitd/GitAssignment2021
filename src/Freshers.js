@@ -1290,6 +1290,15 @@ export const FRESHERS = [
     about: 'extraordinarily ordinary',
   },
   {
+    entryNum: 671,
+    name : "Shreya Singla",
+    image: '/assets/2020AM10671.jpg',
+    branch: "AM1",
+    about: 'Trying Something New',
+    
+    
+  },
+  {
     entryNum: 503,
     name : "Kanishk Goel",
     image: 'https://static.wikia.nocookie.net/gta/images/b/b6/Melvin_Harris_%28SA%29.jpg/revision/latest?cb=20140623205743&path-prefix=pl',
