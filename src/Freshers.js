@@ -1249,4 +1249,18 @@ export const FRESHERS = [
         }
     ]
   },
+  {
+      entryNum: 1164,
+      name : "Shivam Chawla",
+      image: '/assets/2020TT11164.jpeg',
+      branch: "TT1",
+      about: 'Want to explore every activity',
+      contact: [
+          {
+              id: 0,
+              type: 'insta',
+              url: 'https://www.instagram.com/__shivam0103/',
+          },
+        ]
+    },
 ];
