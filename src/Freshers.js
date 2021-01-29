@@ -1052,8 +1052,28 @@ export const FRESHERS = [
     name : "Avval Amil",
     image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
     branch: "CS1",
-    about: 'Pata nahi yaar'
-},
+    about: 'Pata nahi yaar'       
+  },
+  {
+      entryNum:1190,
+      name:"Raushan Kumar",
+      image:'https://drive.google.com/drive/u/0/folders/10WFGYhpa_t5n0lMdVC3s_8qRkCsBive_',
+      branch:"CSE",
+      about:"Being Human enjoy every moment in life",
+      contact:
+      [
+          {
+              id:0,
+              type:'insta',
+              url:'https://www.instagram.com/the_raushan_bhaskar_101/',
+          },
+          {
+              id:1,
+              type:'fb',
+              url:'https://www.facebook.com/raushan.bhaskar.1/',
+          },
+       ]
+  },
   {
     entryNum: 539,
     name : "Rashee Agarwal",
