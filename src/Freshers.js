@@ -1646,3 +1646,18 @@ entryNum: 321,
     ]
 },
 ];
+{
+    entryNum: 560,
+    name : "Tanish Singh Tak",
+    image: 'https://photos.app.goo.gl/RWeYKaM5B6rAZsYX6 ',
+    branch: "EE1",
+    about: 'I love kabaddi. Huge fan of marvel and DC.',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/tanish.tst1234/'
+        }
+    ]
+
+},
