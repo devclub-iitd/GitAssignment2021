@@ -30,7 +30,7 @@ export const FRESHERS = [
     {
         entryNum: 425,
         name : 'Garvit Dhawan',
-        image: "/assets/cardImg.png",
+        image: "/assets/2020CS50425.jpg",
         branch: 'CS5',
         about: 'Exploring my mind',
         contact: [
@@ -1659,4 +1659,43 @@ entryNum: 321,
         },
     ]
 },
-];
+  {
+    entryNum: 396,
+    name: "Supreeti Kumari",
+    image: 'https://photos.app.goo.gl/8RqzbsrALmrZ9epC6',
+    branch: "CS1",
+    about: 'I like to watch movies and play badminton',
+    contact: [
+        {
+            id: 0,
+            type: 'fb',
+            url: 'https://www.facebook.com/supreeti.kumari.75/'
+        },
+    ]
+},
+  {
+    entryNum:1074,
+    name: "Yash Shah",
+    branch: "ME2",
+    about: 'I like  to playoutdoor sports and watch movies',
+      contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/shahyash5/'
+        },
+    ]
+},
+  {
+    entryNum: 141,
+    name: "Tushar Kant Sao",
+    branch: "CH!",
+    about: 'Hi,want to meet you all soon',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/tushar_2510_/'
+        },
+    ]
+}];
