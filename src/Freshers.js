@@ -1650,7 +1650,7 @@ entryNum: 321,
     name: "Yash Shah",
     branch: "ME2",
     about: 'I like  to playoutdoor sports and watch movies',
-    contact: [
+      contact: [
         {
             id: 0,
             type: 'insta',
@@ -1658,4 +1658,16 @@ entryNum: 321,
         },
     ]
 },
-];
+  {
+    entryNum: 141,
+    name: "Tushar Kant Sao",
+    branch: "CH!",
+    about: 'Hi,want to meet you all soon',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/tushar_2510_/'
+        },
+    ]
+}];
