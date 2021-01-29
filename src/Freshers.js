@@ -1567,4 +1567,23 @@ entryNum: 321,
           }
     ] 
 },   
+{ 
+    entryNum: 436,
+          name: "Rajat Bhardwaj",
+          image:'https://www.facebook.com/photo?fbid=3019223778304885&set=a.1374570529436893.jpg',
+          branch: "CS5",
+          about: 'foodie, gamer',
+          contact:[
+              {
+                  id: 0,
+                  type:'insta',
+                  url: 'https://www.instagram.com/r.b._._/',
+           },
+              {
+                  id: 1,
+                  type: 'fb',
+                  url: 'https://www.facebook.com/rajat.bharadwaj.3557/'
+              }
+        ] 
+},
 ];
