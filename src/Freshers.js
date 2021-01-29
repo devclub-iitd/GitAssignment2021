@@ -1566,5 +1566,24 @@ entryNum: 321,
               url: 'https://www.facebook.com/ananya.aakriti.9'
           }
     ] 
-},   
+},
+{ 
+    entryNum: 228,
+          name: "Aryan Jaiswal",
+          image:'/assets/2020CE10228.jpeg',
+          branch: "CE1",
+          about: 'Exploring more',
+          contact:[
+              {
+                  id: 0,
+                  type:'insta',
+                  url: 'https://www.instagram.com/aryanjaiswal9838?r=nametag',
+           },
+              {
+                  id: 1,
+                  type: 'fb',
+                  url: 'https://www.facebook.com/profile.php?id=100009387098782'
+              }
+        ] 
+    },   
 ];
