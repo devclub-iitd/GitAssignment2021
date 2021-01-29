@@ -1646,6 +1646,19 @@ entryNum: 321,
     ]
 },
 {
+    entryNum:1074,
+    name: "Yash Shah",
+    branch: "ME2",
+    about: 'I like  to playoutdoor sports and watch movies',
+      contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/shahyash5/'
+        },
+    ]
+},
+  {
     entryNum: 141,
     name: "Tushar Kant Sao",
     branch: "CH!",
