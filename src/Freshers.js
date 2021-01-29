@@ -1645,4 +1645,16 @@ entryNum: 321,
         },
     ]
 },
-];
+{
+    entryNum: 141,
+    name: "Tushar Kant Sao",
+    branch: "CH!",
+    about: 'Hi,want to meet you all soon',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/tushar_2510_/'
+        },
+    ]
+}];
