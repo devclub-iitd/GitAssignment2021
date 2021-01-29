@@ -1409,6 +1409,18 @@ export const FRESHERS = [
     ]
   },
   {
+    entryNum: 375,
+    name : "Rohit Janbandhu",
+    image: '/assets/2020CS10375.jpg',
+        contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/rohit.j.333'
+        }
+    ]   
+  },
+  {
       entryNum: 404,
       name : 'Vamshi Vangala',
       image: '/assets/2020CS10404.jpg',
@@ -1559,9 +1571,9 @@ export const FRESHERS = [
             id: 0,
             type: 'insta',
             url: 'https://www.instagram.com/rohit.j.333'
-        },
+        }
     ]    
-}, 
+},     
 { 
 entryNum: 321,
       name: "Ananya Aakriti",
