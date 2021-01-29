@@ -1645,4 +1645,18 @@ entryNum: 321,
         },
     ]
 },
+{
+    entryNum: 380,
+    name: "Parth Shah",
+    image: 'None',
+    branch: "CS1",
+    about: 'I like playing keyboard, love sports',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/parth_shah03/'
+        },
+    ]
+},
 ];
