@@ -1358,6 +1358,20 @@ export const FRESHERS = [
     about: 'extraordinarily ordinary',
   },
   {
+      entryNum: 1164,
+      name : "Shivam Chawla",
+      image: '/assets/2020TT11164.jpeg',
+      branch: "TT1",
+      about: 'Want to explore every activity',
+      contact: [
+          {
+              id: 0,
+              type: 'insta',
+              url: 'https://www.instagram.com/__shivam0103/',
+          },
+        ]
+    },
+{
     entryNum: 671,
     name : "Shreya Singla",
     image: '/assets/2020AM10671.jpg',
