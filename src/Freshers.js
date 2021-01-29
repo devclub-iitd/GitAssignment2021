@@ -1645,4 +1645,18 @@ entryNum: 321,
         },
     ]
 },
+{
+    entryNum: 396,
+    name: "Supreeti Kumari",
+    image: 'https://photos.app.goo.gl/8RqzbsrALmrZ9epC6',
+    branch: "CS1",
+    about: 'I like to watch movies and play badminton',
+    contact: [
+        {
+            id: 0,
+            type: 'fb',
+            url: 'https://www.facebook.com/supreeti.kumari.75/'
+        },
+    ]
+},
 ];
