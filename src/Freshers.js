@@ -30,7 +30,7 @@ export const FRESHERS = [
     {
         entryNum: 425,
         name : 'Garvit Dhawan',
-        image: "/assets/cardImg.png",
+        image: "/assets/2020CS50425.jpg",
         branch: 'CS5',
         about: 'Exploring my mind',
         contact: [
