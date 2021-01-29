@@ -1283,6 +1283,21 @@ export const FRESHERS = [
         ]
   },
   {
+    entryNum: 77,
+    name : "Aryaman Das",
+    image: 'https://rosapalanqueta.files.wordpress.com/2015/08/la-distraccion.jpg',
+    branch: "CH1",
+    about: 'you are in my spot',
+    contact: [
+       
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/aryaman_das03/'
+        }
+    ]
+},
+  {
     entryNum: 1196,
     name : "Aryan Sharma",
       image: '/assets/cardImg.png',
