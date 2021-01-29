@@ -1545,7 +1545,7 @@ export const FRESHERS = [
             id: 0,
             type: 'insta',
             url: 'https://www.instagram.com/rohit.j.333'
-        }
+        },
     ]    
 }, 
 { 
@@ -1567,4 +1567,18 @@ entryNum: 321,
           }
     ] 
 },   
+{
+    entryNum: 852,
+    name: "Shreyansh Jain",
+    image: 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F61iGoKi2CZL._SL1200_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FSurya-Handicrafts-balidan-Balidaan-Hanging%2Fdp%2FB0856TCFFY&tbnid=BFFYnQDZoRH8BM&vet=12ahUKEwjEh7SM1MDuAhVDDrcAHVZGCEMQMygFegUIARDDAQ..i&docid=q3X6lzVn28q-TM&w=808&h=1200&q=balidaan%20&ved=2ahUKEwjEh7SM1MDuAhVDDrcAHVZGCEMQMygFegUIARDDAQ',
+    branch: "MT1",
+    about: 'I like to code, play FPS games and puzzles like rubiks cube',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/shreyansh2753/'
+        },
+    ]
+},
 ];
