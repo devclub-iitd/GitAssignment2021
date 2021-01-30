@@ -1748,4 +1748,25 @@ entryNum: 321,
             url: 'https://www.instagram.com/tushar_2510_/'
         },
     ]
-}];
+},
+{
+       entryNum:735,
+       name: "Wasim Shaikh",
+       branch:"PH1",
+       image:"/assets/2020PH10735.jpg",
+       about:'Intrested in astrophysics, coding and loves to see constellation.',
+       contact: [
+           { 
+               id: 0,
+               type:'facebook',
+               url:'https://www.facebook.com/ShAiKh.LyCaN.12/'
+            },
+            {  
+               id: 0,  
+               type:'insta',
+               url:'https://www.instagram.com/tachyon_55/'
+
+           },
+
+       ]
+} ];
