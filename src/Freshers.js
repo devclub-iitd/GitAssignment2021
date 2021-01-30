@@ -1645,4 +1645,23 @@ entryNum: 321,
         },
     ]
 },
+{entryNum: 692,
+name: "Harsh Saini",
+image: '/assets/2020PH10692.jpg',
+branch: "PH1",
+about: 'Exploring new things',
+contacts: [
+    {
+        id: 1,
+        type: 'insta',
+        url:  'https://www.instagram.com/harsh.saini___/',
+    },
+    {
+        id: 0,
+        type: 'fb',
+        url: 'https://www.facebook.com/profile.php?id=100056023063931',
+    },
+
+] 
+},
 ];
