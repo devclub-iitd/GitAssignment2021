@@ -117,11 +117,6 @@ export const FRESHERS = [
             }
             ,{
                 id: 1,
-                type: 'LinkedIn',
-                url: 'https://www.linkedin.com/in/animesh-jhawar-28a8841b8/'
-            }
-            ,{
-                id: 2,
                 type: 'facebook',
                 url: 'https://www.facebook.com/animeshJhawariitd/'
             }
@@ -1158,12 +1153,26 @@ export const FRESHERS = [
         }
     ]
     },
-  {
+    {
+        entryNum: 72,
+        name : "Animesh Kumar",
+        image: '/assets/2020CH10072.jpeg',
+        branch: "CH1",
+        about: 'Hello Comrades, do you need to vent, want to empty the poison in your heart, wanna feel the heaviness ebbing out from your body, Trust me I will always be your secret-keeper',
+        contact: [
+         {
+                id: 0,
+                type: 'insta',
+                url: 'https://www.instagram.com/animesh.sama/'
+            },
+        ]
+    },
+    {
     entryNum: 81,
     name : "Avik Ghosh",
     image: 'https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spider-Man_theatrical_poster.jpeg',
     branch: "CH1",
-    about: 'Nothing special'
+    about: 'Nothing special',
         
   },
 {
@@ -1785,7 +1794,6 @@ contacts: [
                id: 0,  
                type:'insta',
                url:'https://www.instagram.com/tachyon_55/'
-
            },
 
        ]
