@@ -1748,4 +1748,17 @@ entryNum: 321,
             url: 'https://www.instagram.com/tushar_2510_/'
         },
     ]
+},
+  { 
+    entryNum: 413,
+    name: 'Yatharth Kumar',
+    branch: 'CS1',
+    about: 'Weeb',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/yatharth._16/'
+        },
+    ]
 }];
