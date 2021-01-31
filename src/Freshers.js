@@ -30,7 +30,7 @@ export const FRESHERS = [
     {
         entryNum: 425,
         name : 'Garvit Dhawan',
-        image: "/assets/cardImg.png",
+        image: "/assets/2020CS50425.jpg",
         branch: 'CS5',
         about: 'Exploring my mind',
         contact: [
@@ -1052,8 +1052,28 @@ export const FRESHERS = [
     name : "Avval Amil",
     image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
     branch: "CS1",
-    about: 'Pata nahi yaar'
-},
+    about: 'Pata nahi yaar'       
+  },
+  {
+      entryNum:1190,
+      name:"Raushan Kumar",
+      image:'https://drive.google.com/drive/u/0/folders/10WFGYhpa_t5n0lMdVC3s_8qRkCsBive_',
+      branch:"CSE",
+      about:"Being Human enjoy every moment in life",
+      contact:
+      [
+          {
+              id:0,
+              type:'insta',
+              url:'https://www.instagram.com/the_raushan_bhaskar_101/',
+          },
+          {
+              id:1,
+              type:'fb',
+              url:'https://www.facebook.com/raushan.bhaskar.1/',
+          },
+       ]
+  },
   {
     entryNum: 539,
     name : "Rashee Agarwal",
@@ -1282,6 +1302,21 @@ export const FRESHERS = [
             }
         ]
   },
+  {
+    entryNum: 77,
+    name : "Aryaman Das",
+    image: 'https://rosapalanqueta.files.wordpress.com/2015/08/la-distraccion.jpg',
+    branch: "CH1",
+    about: 'you are in my spot',
+    contact: [
+       
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/aryaman_das03/'
+        }
+    ]
+},
   {
     entryNum: 1196,
     name : "Aryan Sharma",
@@ -1645,7 +1680,8 @@ entryNum: 321,
         },
     ]
 },
-{entryNum: 692,
+{
+  entryNum: 692,
 name: "Harsh Saini",
 image: '/assets/2020PH10692.jpg',
 branch: "PH1",
@@ -1664,4 +1700,85 @@ contacts: [
 
 ] 
 },
-];
+{
+    entryNum: 560,
+    name : "Tanish Singh Tak",
+    image: 'https://photos.app.goo.gl/RWeYKaM5B6rAZsYX6 ',
+    branch: "EE1",
+    about: 'I love kabaddi. Huge fan of marvel and DC.',
+      contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/tanish.tst1234/'
+        }
+    ]
+
+},
+{
+    entryNum: 380,
+    name: "Parth Shah",
+    image: 'None',
+    branch: "CS1",
+    about: 'I like playing keyboard, love sports',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/parth_shah03/'
+        },
+    ]
+},
+  {
+    entryNum: 396,
+    name: "Supreeti Kumari",
+    image: 'https://photos.app.goo.gl/8RqzbsrALmrZ9epC6',
+    branch: "CS1",
+    about: 'I like to watch movies and play badminton',
+    contact: [
+        {
+            id: 0,
+            type: 'fb',
+            url: 'https://www.facebook.com/supreeti.kumari.75/'
+        },
+    ]
+},
+  {
+    entryNum:1074,
+    name: "Yash Shah",
+    branch: "ME2",
+    about: 'I like  to playoutdoor sports and watch movies',
+      contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/shahyash5/'
+        },
+    ]
+},
+  {
+    entryNum: 141,
+    name: "Tushar Kant Sao",
+    branch: "CH!",
+    about: 'Hi,want to meet you all soon',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/tushar_2510_/'
+        },
+    ]
+},
+  { 
+    entryNum: 413,
+    name: 'Yatharth Kumar',
+    branch: 'CS1',
+    about: 'Weeb',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/yatharth._16/'
+        },
+    ]
+}];
