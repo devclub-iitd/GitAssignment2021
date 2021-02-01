@@ -794,8 +794,7 @@ export const FRESHERS = [
     {
     entryNum: 548,
     name : 'Sankalp Swarup',
-    branch: 'EE1',
-	            image: '/assets/cardImg.png',
+    image: '/assets/cardImg.png',
     about: 'First Year Electrical Engineering student.',
     contact: [
         {
