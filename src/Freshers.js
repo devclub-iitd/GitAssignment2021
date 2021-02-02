@@ -1,4 +1,18 @@
 export const FRESHERS = [
+	{
+	 entryNum:523,
+        name : "Prahas Ranjan",
+        image: '/assets/cardImg.jpg',
+        branch: "EE1",
+        about: 'I love sketching',
+        contact: [
+            {
+                id: 0,
+                type: 'insta',
+                url: 'https://www.instagram.com/r_prahasr/'
+            }
+        ]
+    },
     {
         entryNum: 917,
         name : "Aryan Saple",
