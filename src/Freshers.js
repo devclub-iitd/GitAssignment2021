@@ -1797,7 +1797,7 @@ contacts: [
 
        ]
 },
-  { 
+{ 
     entryNum: 413,
     name: 'Yatharth Kumar',
     branch: 'CS1',
@@ -1809,4 +1809,26 @@ contacts: [
             url: 'https://www.instagram.com/yatharth._16/'
         },
     ]
-}];
+},
+{
+    entryNum: 452,
+    name : 'Aayush Goyal',
+    image: "https://pbs.twimg.com/profile_images/1323067263541370880/3E4vuZzk.jpg",
+    branch: 'CS1',
+    about: 'XO forever',
+    contact: [
+        {
+            id: 0,
+            type: 'Facebook',
+            url: 'https://www.facebook.com/profile.php?id=100007723935908'
+        },
+        {
+            id: 1,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/hidden_tezla/'
+        }
+    ]
+}
+
+
+];
