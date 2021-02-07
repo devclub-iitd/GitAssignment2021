@@ -1,4 +1,18 @@
 export const FRESHERS = [
+    {
+        entryNum:127,
+           name : "Shashwat Gokhe",
+           image: '/assets/2020CH10127.jpg',
+           branch: "CH1",
+           about: 'I am fully fleged audio producer and love photography and cinematography a lot. I love coding a lot. I love to play games(curently on cyberpunk 2077).',
+           contact: [
+               {
+                   id: 0,
+                   type: 'insta',
+                   url: 'https://www.instagram.com/gokheshashwat/'
+               }
+           ]
+       },
 	{
 	 entryNum:523,
         name : "Prahas Ranjan",
