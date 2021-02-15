@@ -1857,6 +1857,24 @@ contacts: [
         }
     ]
 }
-
+{
+    entryNum: 197,
+    name : 'Sushank Mishra',
+    image: "/assets/2020CH70197.jpg",
+    branch: 'CH7',
+    about: 'I do what chills me up!!',
+    contact: [
+        {
+            id: 0,
+            type: 'Facebook',
+            url: 'https://www.facebook.com/sushank.mishra.14/'
+        },
+        {
+            id: 1,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/sushank_mishra/'
+        }
+    ]
+}
 
 ];
