@@ -1856,6 +1856,13 @@ contacts: [
             url: 'https://www.instagram.com/hidden_tezla/'
         }
     ]
+},
+{
+    entryNum: 1020,
+    name : 'Harshit Lohar'
+    image: '/assets/cardImg.png'
+    branch: 'ME2'
+    about: ':-)'
 }
 
 
