@@ -1856,6 +1856,19 @@ contacts: [
             url: 'https://www.instagram.com/hidden_tezla/'
         }
     ]
+},
+{ 
+    entryNum: 159,
+    name: 'Avi Patni',
+    branch: 'CH7',
+    about: 'Listening to music',
+    contact: [
+        {
+            id: 0,
+            type: 'fb',
+            url: 'https://www.facebook.com/avi.patni.96'
+        },
+    ]
 }
 
 
