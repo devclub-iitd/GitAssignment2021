@@ -1856,6 +1856,26 @@ contacts: [
             url: 'https://www.instagram.com/hidden_tezla/'
         }
     ]
+},
+{
+    entryNum: 184,
+    name : 'Munazzil Anwer',
+    image: "https://i.postimg.cc/Xq11c8hM/ed-2.jpg",
+    branch: 'CH7',
+    about: 'I am a Learner',
+    contact: [
+        {
+            id: 0,
+            type: 'Facebook',
+            url: 'https://www.facebook.com/profile.php?id=100006692267751'
+        },
+        {
+            id: 1,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/anwermunazzil/'
+        }
+    ]
+} 
 }
 
 
