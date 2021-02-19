@@ -1875,7 +1875,6 @@ contacts: [
             url: 'https://www.instagram.com/anwermunazzil/'
         }
     ]
-} 
 }
 
 
