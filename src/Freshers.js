@@ -1854,16 +1854,16 @@ contacts: [
             id: 1,
             type: 'Instagram',
             url: 'https://www.instagram.com/hidden_tezla/'
-        }
+        },
     ]
-}
+},
 
    {
-      entryNum: 893
+      entryNum: 893,
       name : 'SRISHTY GOYAL',
       image : "https://i.pinimg.com/originals/0e/45/a8/0e45a874482af5f7d523282e12bf8a75.jpg",
       branch : 'MT6',
-       about : 'finding myself',
+       about : 'A Sapiophile,',
        contact : [
 
         {
@@ -1876,12 +1876,12 @@ contacts: [
             id: 1,
             type: 'Instagram',
             url: 'https://www.instagram.com/srishtyg0yal/'
-        }
+        },
        ]
 
 
 
-   }
+   },
 
 
 ];
