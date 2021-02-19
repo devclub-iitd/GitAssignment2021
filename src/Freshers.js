@@ -1860,7 +1860,7 @@ contacts: [
 {
     entryNum: 184,
     name : 'Munazzil Anwer',
-    image: "https://i.postimg.cc/Xq11c8hM/ed-2.jpg",
+    image: 'https://i.postimg.cc/Xq11c8hM/ed-2.jpg',
     branch: 'CH7',
     about: 'I am a Learner',
     contact: [
