@@ -1857,7 +1857,6 @@ contacts: [
         },
     ]
 },
-
    {
       entryNum: 893,
       name : 'SRISHTY GOYAL',
@@ -1882,6 +1881,17 @@ contacts: [
 
 
    },
-
-
+{ 
+    entryNum: 159,
+    name: 'Avi Patni',
+    branch: 'CH7',
+    about: 'Listening to music',
+    contact: [
+        {
+            id: 0,
+            type: 'fb',
+            url: 'https://www.facebook.com/avi.patni.96'
+        },
+    ]
+}
 ];
