@@ -1856,7 +1856,24 @@ contacts: [
             url: 'https://www.instagram.com/hidden_tezla/'
         }
     ]
-}
-
-
+},
+{
+    entryNum: 778,
+    name : 'Aashish Kumar',
+    image: "https://www.facebook.com/photo?fbid=1203834419819549&set=a.321121081424225",
+    branch: 'MT1',
+    about: 'Exploring',
+    contact: [
+        {
+            id: 0,
+            type: 'Facebook',
+            url: 'https://www.facebook.com/aashishsharma.sharma.718/'
+        },
+        {
+            id: 1,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/am__aashish01/'
+        }
+    ]
+},
 ];
