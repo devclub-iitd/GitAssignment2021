@@ -710,7 +710,7 @@ export const FRESHERS = [
         about: 'you will only get to know me once you meet me ',
         contact: [
             {
-                id= 0,
+                id: 0,
                 type: 'insta',
                 url:'https://www.instagram.com/lakshay315dagar',
             }
