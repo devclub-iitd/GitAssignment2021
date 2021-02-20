@@ -1858,6 +1858,16 @@ contacts: [
     ]
 },
 {
+    entryNum: 782,
+    name : 'Adarsh Roy',
+    branch: 'MT1',
+    about: 'Love playing Basketball, speedcuber, am stan',
+    contact: [
+      
+    ]
+}
+,
+  {
     entryNum: 184,
     name : 'Munazzil Anwer',
     image: 'https://i.postimg.cc/Xq11c8hM/ed-2.jpg',
