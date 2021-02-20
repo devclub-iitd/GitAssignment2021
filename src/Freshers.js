@@ -1893,5 +1893,18 @@ contacts: [
             url: 'https://www.facebook.com/avi.patni.96'
         },
     ]
+},
+{
+    entryNum: 377,
+    name : 'Roshan Prashant Bara',
+    branch: 'CS1',
+    about: 'An avid gamer and music enthusiast',
+    contact: [
+        {
+            id: 0,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/roshanprashant_/'
+        },
+    ]
 }
 ];
