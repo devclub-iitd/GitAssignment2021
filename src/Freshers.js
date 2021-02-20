@@ -1854,7 +1854,7 @@ contacts: [
             id: 1,
             type: 'Instagram',
             url: 'https://www.instagram.com/hidden_tezla/'
-        }
+        },
     ]
 },
 {
@@ -1866,6 +1866,52 @@ contacts: [
       
     ]
 }
+,
+   {
+      entryNum: 893,
+      name : 'SRISHTY GOYAL',
+      image : "https://i.pinimg.com/originals/0e/45/a8/0e45a874482af5f7d523282e12bf8a75.jpg",
+      branch : 'MT6',
+       about : 'A Sapiophile,',
+       contact : [
 
+        {
+            id: 0,
+            type: 'Facebook',
+            url: 'https://www.facebook.com/rajnid379'
 
+        },
+        {
+            id: 1,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/srishtyg0yal/'
+        },
+       ]
+   },
+{ 
+    entryNum: 159,
+    name: 'Avi Patni',
+    branch: 'CH7',
+    about: 'Listening to music',
+    contact: [
+        {
+            id: 0,
+            type: 'fb',
+            url: 'https://www.facebook.com/avi.patni.96'
+        },
+    ]
+},
+{
+    entryNum: 377,
+    name : 'Roshan Prashant Bara',
+    branch: 'CS1',
+    about: 'An avid gamer and music enthusiast',
+    contact: [
+        {
+            id: 0,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/roshanprashant_/'
+        },
+    ]
+}
 ];
