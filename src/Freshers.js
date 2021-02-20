@@ -1856,6 +1856,15 @@ contacts: [
             url: 'https://www.instagram.com/hidden_tezla/'
         }
     ]
+},
+{
+    entryNum: 782,
+    name : 'Adarsh Roy',
+    branch: 'MT1',
+    about: 'Love playing Basketball, speedcuber, am stan',
+    contact: [
+      
+    ]
 }
 
 
