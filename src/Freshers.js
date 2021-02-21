@@ -1856,7 +1856,7 @@ contacts: [
             url: 'https://www.instagram.com/hidden_tezla/'
         }
     ]
-}
+},
 {
     entryNum: 197,
     name : 'Sushank Mishra',
