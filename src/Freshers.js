@@ -1932,4 +1932,16 @@ contacts: [
         },
     ]
 }
+{
+    entryNum: 865
+    name : 'Aakrity Pandey',
+    branch: 'MT6'
+    about: 'doesnt matter',
+    image: '/assets/2020Mt60865.png'
+    contacts :[
+        id :0
+        type :'insta',
+        url:' https://www.instagram.com/aakrity_pandey_/'
+    ]
+}
 ];
