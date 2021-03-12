@@ -1931,5 +1931,18 @@ contacts: [
             url: 'https://www.instagram.com/roshanprashant_/'
         },
     ]
+},
+{
+    entryNum: 187,
+    name : 'Nishant Kumar',
+    branch: 'CH7',
+    about: 'Aham Brahmashmi',
+    contact: [
+        {
+            id: 0,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/nishant.kr._.007/'
+        },
+    ]
 }
 ];
