@@ -1931,7 +1931,7 @@ contacts: [
             url: 'https://www.instagram.com/roshanprashant_/'
         },
     ]
-}
+},
 {
     entryNum: 217,
     name : 'Aditya Narayan',
