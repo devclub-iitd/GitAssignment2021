@@ -1663,7 +1663,21 @@ entryNum: 321,
               url: 'https://www.facebook.com/ananya.aakriti.9'
           }
     ] 
-},
+}, 
+{
+    entryNum: 956,
+    name : "Radhika Agwan",
+    image: '/assets/cardImg.png',
+    branch: "ME1",
+    about: 'Imperfectly perfect',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/radhika_agwan/'
+        }
+    ]
+},  
 { 
     entryNum: 228,
           name: "Aryan Jaiswal",
