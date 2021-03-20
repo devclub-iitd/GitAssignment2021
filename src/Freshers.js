@@ -1663,7 +1663,21 @@ entryNum: 321,
               url: 'https://www.facebook.com/ananya.aakriti.9'
           }
     ] 
-},
+}, 
+{
+    entryNum: 956,
+    name : "Radhika Agwan",
+    image: '/assets/cardImg.png',
+    branch: "ME1",
+    about: 'Imperfectly perfect',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/radhika_agwan/'
+        }
+    ]
+},  
 { 
     entryNum: 228,
           name: "Aryan Jaiswal",
@@ -1942,6 +1956,34 @@ contacts: [
             id: 0,
             type: 'Instagram',
             url: 'https://www.instagram.com/nishant.kr._.007/'
+        },
+    ]
+},
+  {
+    entryNum: 865,
+    name : 'Aakrity Pandey',
+    image : '/assets/2020Mt60865.png',
+    branch: 'MT6',
+    about: 'into music ,gaming,adventure, sports and learning',
+      contact: [
+        {
+            id: 0,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/aakrity_pandey_/'
+        },
+    ]
+},
+  {
+    entryNum: 217,
+    name : 'Aditya Narayan',
+    image : '/assets/2020CE10217.jpg',
+    branch: 'CE1',
+    about: 'I like to learn new things',
+    contact: [
+        {
+            id: 0,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/adi.forever_/'
         },
     ]
 }
