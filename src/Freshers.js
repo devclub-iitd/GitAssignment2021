@@ -1,5 +1,33 @@
 export const FRESHERS = [
     {
+        entryNum:127,
+           name : "Shashwat Gokhe",
+           image: '/assets/2020CH10127.jpg',
+           branch: "CH1",
+           about: 'I am fully fleged audio producer and love photography and cinematography a lot. I love coding a lot. I love to play games(curently on cyberpunk 2077).',
+           contact: [
+               {
+                   id: 0,
+                   type: 'insta',
+                   url: 'https://www.instagram.com/gokheshashwat/'
+               }
+           ]
+       },
+	{
+	 entryNum:523,
+        name : "Prahas Ranjan",
+        image: '/assets/cardImg.jpg',
+        branch: "EE1",
+        about: 'I love sketching',
+        contact: [
+            {
+                id: 0,
+                type: 'insta',
+                url: 'https://www.instagram.com/r_prahasr/'
+            }
+        ]
+    },
+    {
         entryNum: 917,
         name : "Aryan Saple",
         image: '/assets/2020ME10917.jpg',
@@ -30,7 +58,7 @@ export const FRESHERS = [
     {
         entryNum: 425,
         name : 'Garvit Dhawan',
-        image: "/assets/cardImg.png",
+        image: "/assets/2020CS50425.jpg",
         branch: 'CS5',
         about: 'Exploring my mind',
         contact: [
@@ -117,11 +145,6 @@ export const FRESHERS = [
             }
             ,{
                 id: 1,
-                type: 'LinkedIn',
-                url: 'https://www.linkedin.com/in/animesh-jhawar-28a8841b8/'
-            }
-            ,{
-                id: 2,
                 type: 'facebook',
                 url: 'https://www.facebook.com/animeshJhawariitd/'
             }
@@ -799,8 +822,7 @@ export const FRESHERS = [
     {
     entryNum: 548,
     name : 'Sankalp Swarup',
-    branch: 'EE1',
-	            image: '/assets/cardImg.png',
+    image: '/assets/cardImg.png',
     about: 'First Year Electrical Engineering student.',
     contact: [
         {
@@ -1052,8 +1074,28 @@ export const FRESHERS = [
     name : "Avval Amil",
     image: 'https://img1.looper.com/img/gallery/detective-pikachu-2-release-date-cast-and-plot/intro-1568566852.jpg',
     branch: "CS1",
-    about: 'Pata nahi yaar'
-},
+    about: 'Pata nahi yaar'       
+  },
+  {
+      entryNum:1190,
+      name:"Raushan Kumar",
+      image:'https://drive.google.com/drive/u/0/folders/10WFGYhpa_t5n0lMdVC3s_8qRkCsBive_',
+      branch:"CSE",
+      about:"Being Human enjoy every moment in life",
+      contact:
+      [
+          {
+              id:0,
+              type:'insta',
+              url:'https://www.instagram.com/the_raushan_bhaskar_101/',
+          },
+          {
+              id:1,
+              type:'fb',
+              url:'https://www.facebook.com/raushan.bhaskar.1/',
+          },
+       ]
+  },
   {
     entryNum: 539,
     name : "Rashee Agarwal",
@@ -1138,12 +1180,26 @@ export const FRESHERS = [
         }
     ]
     },
-  {
+    {
+        entryNum: 72,
+        name : "Animesh Kumar",
+        image: '/assets/2020CH10072.jpeg',
+        branch: "CH1",
+        about: 'Hello Comrades, do you need to vent, want to empty the poison in your heart, wanna feel the heaviness ebbing out from your body, Trust me I will always be your secret-keeper',
+        contact: [
+         {
+                id: 0,
+                type: 'insta',
+                url: 'https://www.instagram.com/animesh.sama/'
+            },
+        ]
+    },
+    {
     entryNum: 81,
     name : "Avik Ghosh",
     image: 'https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spider-Man_theatrical_poster.jpeg',
     branch: "CH1",
-    about: 'Nothing special'
+    about: 'Nothing special',
         
   },
 {
@@ -1283,6 +1339,21 @@ export const FRESHERS = [
         ]
   },
   {
+    entryNum: 77,
+    name : "Aryaman Das",
+    image: 'https://rosapalanqueta.files.wordpress.com/2015/08/la-distraccion.jpg',
+    branch: "CH1",
+    about: 'you are in my spot',
+    contact: [
+       
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/aryaman_das03/'
+        }
+    ]
+},
+  {
     entryNum: 1196,
     name : "Aryan Sharma",
       image: '/assets/cardImg.png',
@@ -1358,6 +1429,20 @@ export const FRESHERS = [
     about: 'extraordinarily ordinary',
   },
   {
+      entryNum: 1164,
+      name : "Shivam Chawla",
+      image: '/assets/2020TT11164.jpeg',
+      branch: "TT1",
+      about: 'Want to explore every activity',
+      contact: [
+          {
+              id: 0,
+              type: 'insta',
+              url: 'https://www.instagram.com/__shivam0103/',
+          },
+        ]
+    },
+{
     entryNum: 671,
     name : "Shreya Singla",
     image: '/assets/2020AM10671.jpg',
@@ -1393,6 +1478,18 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/aazra.xv/'
         }
     ]
+  },
+  {
+    entryNum: 375,
+    name : "Rohit Janbandhu",
+    image: '/assets/2020CS10375.jpg',
+        contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/rohit.j.333'
+        }
+    ]   
   },
   {
       entryNum: 404,
@@ -1547,7 +1644,7 @@ export const FRESHERS = [
             url: 'https://www.instagram.com/rohit.j.333'
         }
     ]    
-}, 
+},     
 { 
 entryNum: 321,
       name: "Ananya Aakriti",
@@ -1581,4 +1678,286 @@ entryNum: 321,
         }
     ]
 },  
+{ 
+    entryNum: 228,
+          name: "Aryan Jaiswal",
+          image:'/assets/2020CE10228.jpeg',
+          branch: "CE1",
+          about: 'Exploring more',
+            contact:[
+              {
+                  id: 0,
+                  type:'insta',
+                  url: 'https://www.instagram.com/aryanjaiswal9838?r=nametag',
+           },
+              {
+                  id: 1,
+                  type: 'fb',
+                  url: 'https://www.facebook.com/profile.php?id=100009387098782'
+              }
+        ] 
+},   
+{ 
+    entryNum: 436,
+          name: "Rajat Bhardwaj",
+          image:'https://www.facebook.com/photo?fbid=3019223778304885&set=a.1374570529436893.jpg',
+          branch: "CS5",
+          about: 'foodie, gamer',
+          contact:[
+              {
+                  id: 0,
+                  type:'insta',
+                  url: 'https://www.instagram.com/r.b._._/',
+           },
+              {
+                  id: 1,
+                  type: 'fb',
+                  url: 'https://www.facebook.com/profile.php?id=100009387098782'
+              }
+        ] 
+    },   
+{
+    entryNum: 852,
+    name: "Shreyansh Jain",
+    image: 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F61iGoKi2CZL._SL1200_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FSurya-Handicrafts-balidan-Balidaan-Hanging%2Fdp%2FB0856TCFFY&tbnid=BFFYnQDZoRH8BM&vet=12ahUKEwjEh7SM1MDuAhVDDrcAHVZGCEMQMygFegUIARDDAQ..i&docid=q3X6lzVn28q-TM&w=808&h=1200&q=balidaan%20&ved=2ahUKEwjEh7SM1MDuAhVDDrcAHVZGCEMQMygFegUIARDDAQ',
+    branch: "MT1",
+    about: 'I like to code, play FPS games and puzzles like rubiks cube',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/shreyansh2753/'
+        },
+    ]
+},
+{
+  entryNum: 692,
+name: "Harsh Saini",
+image: '/assets/2020PH10692.jpg',
+branch: "PH1",
+about: 'Exploring new things',
+contacts: [
+    {
+        id: 1,
+        type: 'insta',
+        url:  'https://www.instagram.com/harsh.saini___/',
+    },
+    {
+        id: 0,
+        type: 'fb',
+        url: 'https://www.facebook.com/profile.php?id=100056023063931',
+    },
+
+] 
+},
+{
+    entryNum: 560,
+    name : "Tanish Singh Tak",
+    image: 'https://photos.app.goo.gl/RWeYKaM5B6rAZsYX6 ',
+    branch: "EE1",
+    about: 'I love kabaddi. Huge fan of marvel and DC.',
+      contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/tanish.tst1234/'
+        }
+    ]
+
+},
+{
+    entryNum: 380,
+    name: "Parth Shah",
+    image: 'None',
+    branch: "CS1",
+    about: 'I like playing keyboard, love sports',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/parth_shah03/'
+        },
+    ]
+},
+  {
+    entryNum: 396,
+    name: "Supreeti Kumari",
+    image: 'https://photos.app.goo.gl/8RqzbsrALmrZ9epC6',
+    branch: "CS1",
+    about: 'I like to watch movies and play badminton',
+    contact: [
+        {
+            id: 0,
+            type: 'fb',
+            url: 'https://www.facebook.com/supreeti.kumari.75/'
+        },
+    ]
+},
+  {
+    entryNum:1074,
+    name: "Yash Shah",
+    branch: "ME2",
+    about: 'I like  to playoutdoor sports and watch movies',
+      contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/shahyash5/'
+        },
+    ]
+},
+  {
+    entryNum: 141,
+    name: "Tushar Kant Sao",
+    branch: "CH!",
+    about: 'Hi,want to meet you all soon',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/tushar_2510_/'
+        },
+    ]
+},
+{
+       entryNum:735,
+       name: "Wasim Shaikh",
+       branch:"PH1",
+       image:"/assets/2020PH10735.jpg",
+       about:'Intrested in astrophysics, coding and loves to see constellation.',
+       contact: [
+           { 
+               id: 0,
+               type:'facebook',
+               url:'https://www.facebook.com/ShAiKh.LyCaN.12/'
+            },
+            {  
+               id: 0,  
+               type:'insta',
+               url:'https://www.instagram.com/tachyon_55/'
+           },
+
+       ]
+},
+{ 
+    entryNum: 413,
+    name: 'Yatharth Kumar',
+    branch: 'CS1',
+    about: 'Weeb',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/yatharth._16/'
+        },
+    ]
+},
+{
+    entryNum: 452,
+    name : 'Aayush Goyal',
+    image: "https://pbs.twimg.com/profile_images/1323067263541370880/3E4vuZzk.jpg",
+    branch: 'CS1',
+    about: 'XO forever',
+    contact: [
+        {
+            id: 0,
+            type: 'Facebook',
+            url: 'https://www.facebook.com/profile.php?id=100007723935908'
+        },
+        {
+            id: 1,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/hidden_tezla/'
+        },
+    ]
+},
+{
+    entryNum: 782,
+    name : 'Adarsh Roy',
+    branch: 'MT1',
+    about: 'Love playing Basketball, speedcuber, am stan',
+    contact: [
+      
+    ]
+}
+,
+  {
+    entryNum: 184,
+    name : 'Munazzil Anwer',
+    image: 'https://i.postimg.cc/Xq11c8hM/ed-2.jpg',
+    branch: 'CH7',
+    about: 'I am a Learner',
+    contact: [
+        {
+            id: 0,
+            type: 'Facebook',
+            url: 'https://www.facebook.com/profile.php?id=100006692267751'
+        },
+        {
+            id: 1,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/anwermunazzil/'
+        }
+    ]      
+},
+   {
+      entryNum: 893,
+      name : 'SRISHTY GOYAL',
+      image : "https://i.pinimg.com/originals/0e/45/a8/0e45a874482af5f7d523282e12bf8a75.jpg",
+      branch : 'MT6',
+       about : 'A Sapiophile,',
+       contact : [
+
+        {
+            id: 0,
+            type: 'Facebook',
+            url: 'https://www.facebook.com/rajnid379'
+        },
+        {
+            id: 1,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/srishtyg0yal/'
+        },
+       ]
+   },
+{ 
+    entryNum: 159,
+    name: 'Avi Patni',
+    branch: 'CH7',
+    about: 'Listening to music',
+    contact: [
+        {
+            id: 0,
+            type: 'fb',
+            url: 'https://www.facebook.com/avi.patni.96'
+        },
+    ]
+},
+{
+    entryNum: 377,
+    name : 'Roshan Prashant Bara',
+    branch: 'CS1',
+    about: 'An avid gamer and music enthusiast',
+    contact: [
+        {
+            id: 0,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/roshanprashant_/'
+        },
+    ]
+},
+{
+    entryNum: 217,
+    name : 'Aditya Narayan',
+    image : '/assets/2020CE10217.jpg',
+    branch: 'CE1',
+    about: 'I like to learn new things',
+    contact: [
+        {
+            id: 0,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/adi.forever_/'
+        },
+    ]
+}
 ];
