@@ -1947,6 +1947,20 @@ contacts: [
     ]
 },
 {
+    entryNum: 865,
+    name : 'Aakrity Pandey',
+    image : '/assets/2020Mt60865.png',
+    branch: 'MT6',
+    about: 'into music ,gaming,adventure, sports and learning',
+      contact: [
+        {
+            id: 0,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/aakrity_pandey_/'
+        },
+    ]
+},
+  {
     entryNum: 217,
     name : 'Aditya Narayan',
     image : '/assets/2020CE10217.jpg',
