@@ -1931,5 +1931,19 @@ contacts: [
             url: 'https://www.instagram.com/roshanprashant_/'
         },
     ]
+},
+{
+    entryNum: 217,
+    name : 'Aditya Narayan',
+    image : '/assets/2020CE10217.jpg',
+    branch: 'CE1',
+    about: 'I like to learn new things',
+    contact: [
+        {
+            id: 0,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/adi.forever_/'
+        },
+    ]
 }
 ];
