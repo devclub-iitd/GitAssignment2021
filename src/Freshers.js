@@ -1663,7 +1663,21 @@ entryNum: 321,
               url: 'https://www.facebook.com/ananya.aakriti.9'
           }
     ] 
-},
+}, 
+{
+    entryNum: 956,
+    name : "Radhika Agwan",
+    image: '/assets/cardImg.png',
+    branch: "ME1",
+    about: 'Imperfectly perfect',
+    contact: [
+        {
+            id: 0,
+            type: 'insta',
+            url: 'https://www.instagram.com/radhika_agwan/'
+        }
+    ]
+},  
 { 
     entryNum: 228,
           name: "Aryan Jaiswal",
@@ -1854,7 +1868,16 @@ contacts: [
             id: 1,
             type: 'Instagram',
             url: 'https://www.instagram.com/hidden_tezla/'
-        }
+        },
+    ]
+},
+{
+    entryNum: 782,
+    name : 'Adarsh Roy',
+    branch: 'MT1',
+    about: 'Love playing Basketball, speedcuber, am stan',
+    contact: [
+      
     ]
 },
 {
@@ -1876,5 +1899,110 @@ contacts: [
         }
     ]
 }
-
+,
+  {
+    entryNum: 184,
+    name : 'Munazzil Anwer',
+    image: 'https://i.postimg.cc/Xq11c8hM/ed-2.jpg',
+    branch: 'CH7',
+    about: 'I am a Learner',
+    contact: [
+        {
+            id: 0,
+            type: 'Facebook',
+            url: 'https://www.facebook.com/profile.php?id=100006692267751'
+        },
+        {
+            id: 1,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/anwermunazzil/'
+        }
+    ]      
+},
+   {
+      entryNum: 893,
+      name : 'SRISHTY GOYAL',
+      image : "https://i.pinimg.com/originals/0e/45/a8/0e45a874482af5f7d523282e12bf8a75.jpg",
+      branch : 'MT6',
+       about : 'A Sapiophile,',
+       contact : [
+        {
+            id: 0,
+            type: 'Facebook',
+            url: 'https://www.facebook.com/rajnid379'
+        },
+        {
+            id: 1,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/srishtyg0yal/'
+        },
+       ]
+   },
+{ 
+    entryNum: 159,
+    name: 'Avi Patni',
+    branch: 'CH7',
+    about: 'Listening to music',
+    contact: [
+        {
+            id: 0,
+            type: 'fb',
+            url: 'https://www.facebook.com/avi.patni.96'
+        },
+    ]
+},
+{
+    entryNum: 377,
+    name : 'Roshan Prashant Bara',
+    branch: 'CS1',
+    about: 'An avid gamer and music enthusiast',
+    contact: [
+        {
+            id: 0,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/roshanprashant_/'
+        },
+    ]
+},
+{
+    entryNum: 187,
+    name : 'Nishant Kumar',
+    branch: 'CH7',
+    about: 'Aham Brahmashmi',
+    contact: [
+        {
+            id: 0,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/nishant.kr._.007/'
+        },
+    ]
+},
+  {
+    entryNum: 865,
+    name : 'Aakrity Pandey',
+    image : '/assets/2020Mt60865.png',
+    branch: 'MT6',
+    about: 'into music ,gaming,adventure, sports and learning',
+      contact: [
+        {
+            id: 0,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/aakrity_pandey_/'
+        },
+    ]
+},
+  {
+    entryNum: 217,
+    name : 'Aditya Narayan',
+    image : '/assets/2020CE10217.jpg',
+    branch: 'CE1',
+    about: 'I like to learn new things',
+    contact: [
+        {
+            id: 0,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/adi.forever_/'
+        },
+    ]
+}
 ];
