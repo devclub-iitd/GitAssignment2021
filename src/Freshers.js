@@ -901,6 +901,22 @@ export const FRESHERS = [
         }
     ]
 },
+{
+    
+        entryNum: 27,
+        name : "Lakshay Dagar",
+        image: '/assets/lakshay.jpeg',
+        branch: 'BB1',
+        about: 'you will only get to know me once you meet me ',
+          contact: [
+            {
+                id: 0,
+                type: 'insta',
+                url:'https://www.instagram.com/lakshay315dagar',
+            }
+        ]
+    
+},
     {
     entryNum: 134,
     name: 'Soumya Bhartiya',
@@ -926,7 +942,6 @@ export const FRESHERS = [
                 id: 0,
                 type: 'insta',
                 url: 'https://www.instagram.com/ojas__malhi/'
-
             }
         ]
     },
