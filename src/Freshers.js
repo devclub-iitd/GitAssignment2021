@@ -2034,4 +2034,17 @@ contacts: [
         },
     ]
 }
+{
+    entryNum: 36,
+    name : 'Nived KP',
+    branch: 'BB1',
+    about: 'Ocassional gamer,interested in football, indian history and geopolitics',
+    contact: [
+        {
+            id: 0,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/_nived_kp/'
+        },
+    ]
+}
 ];
