@@ -2038,7 +2038,7 @@ contacts: [
 {
     entryNum: 839,
     name : 'Rohit Kumar',
-    
+    image : '/assets/2020MT10839.jpg',
     branch: 'MT1',
     about: 'I like to learn new things',
     contact: [
