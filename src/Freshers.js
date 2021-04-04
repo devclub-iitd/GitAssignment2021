@@ -2033,5 +2033,18 @@ contacts: [
             url: 'https://www.instagram.com/adi.forever_/'
         },
     ]
-}
+},
+
+{
+    entryNum: 839,
+    name : 'Rohit Kumar',
+    
+    branch: 'MT1',
+    about: 'I like to learn new things',
+    contact: [
+        {
+            id: 0,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/_arohit_/'
+        },]}
 ];
