@@ -2033,5 +2033,19 @@ contacts: [
             url: 'https://www.instagram.com/adi.forever_/'
         },
     ]
+},
+{
+  entryNum: 340,
+  name : 'Darshan Rakhewar ',
+  image : 'https://scontent-prg1-1.cdninstagram.com/v/t51.2885-19/s320x320/109278696_594378377947434_6862436253639613888_n.jpg?tp=1&_nc_ht=scontent-prg1-1.cdninstagram.com&_nc_ohc=MntcN2pPh2sAX_gj_XE&edm=ABfd0MgAAAAA&ccb=7-4&oh=180d6a6ab921e66d442e7622b6e1d4f0&oe=609DB1A9&_nc_sid=7bff83',
+  branch: 'CS1',
+  about: 'I like playing guitar and singing',
+  contact: [
+      {
+          id: 0,
+          type: 'Instagram',
+          url: 'https://www.instagram.com/darshan_rakhewar/'
+      },
+  ]
 }
 ];
