@@ -2033,5 +2033,19 @@ contacts: [
             url: 'https://www.instagram.com/adi.forever_/'
         },
     ]
+},
+{
+    entryNum: 953,
+    name : 'Prince Singhal',
+    image : '/assets/Prince.jpeg',
+    branch: 'ME1',
+    about: 'just an innocent kid',
+    contact: [
+        {
+            id: 0,
+            type: 'Instagram',
+            url: 'https://www.instagram.com/princepoposos/'
+        },
+    ]
 }
 ];
